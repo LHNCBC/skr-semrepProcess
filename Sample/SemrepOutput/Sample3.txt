@@ -1,0 +1,118 @@
+SE|31444515||ti|1|text|21|99|[Differentiated treatment strategies for bone metastases of the extremities].
+SE|31444515||ti|1|entity|C0153690|Secondary malignant neoplasm of bone|neop|||bone metastases|||0|1000|62|77
+SE|31444515||ti|1|entity|C0015385|Limb structure|bpoc|||extremities|||0|1000|85|96
+SE|31444515||ti|1|relation|1|1|C0015385|Limb structure|bpoc|bpoc|||extremities|||0|1000|85|96|PREP|LOCATION_OF||78|80|2|1|C0153690|Secondary malignant neoplasm of bone|neop|neop|||bone metastases|||0|1000|62|77
+
+SE|31444515|BACKGROUND|ab|1|text|105|259|BACKGROUND: Bone metastases are the most common malignant bone tumours and most commonly occur in the spine, pelvis, proximal femur and proximal humerus.
+SE|31444515|BACKGROUND|ab|1|entity|C0153690|Secondary malignant neoplasm of bone|neop|||Bone metastases|||0|1000|117|132
+SE|31444515|BACKGROUND|ab|1|entity|C0205393|Most|qnco|||most|||0|868|141|145
+SE|31444515|BACKGROUND|ab|1|entity|C0205214|Common|qnco|||common|||0|868|146|152
+SE|31444515|BACKGROUND|ab|1|entity|C0279530|Malignant Bone Neoplasm|neop|||malignant bone tumours|||0|868|153|175
+SE|31444515|BACKGROUND|ab|1|entity|C0205393|Most|qnco|||most|||0|1000|180|184
+SE|31444515|BACKGROUND|ab|1|entity|C0037949|Vertebral column|bpoc|||spine|||0|1000|207|212
+SE|31444515|BACKGROUND|ab|1|entity|C0030797|Pelvis|blor|||pelvis|||0|1000|214|220
+SE|31444515|BACKGROUND|ab|1|entity|C0448190|Entire proximal femur|blor|||proximal femur|||0|1000|222|236
+SE|31444515|BACKGROUND|ab|1|entity|C0205107|Proximal|spco|||proximal|||0|888|241|249
+SE|31444515|BACKGROUND|ab|1|entity|C1279075|Entire humerus|bpoc|||humerus|||0|888|250|257
+SE|31444515|BACKGROUND|ab|1|relation|0|0|C0030797|Pelvis|blor|blor|||pelvis|||0|1000|214|220|INFER|LOCATION_OF(SPEC)||117|175|0|0|C0153690|Secondary malignant neoplasm of bone|neop|neop|||Bone metastases|||0|1000|117|132
+SE|31444515|BACKGROUND|ab|1|relation|0|0|C0037949|Vertebral column|bpoc|bpoc|||spine|||0|1000|207|212|INFER|LOCATION_OF(SPEC)||117|175|0|0|C0153690|Secondary malignant neoplasm of bone|neop|neop|||Bone metastases|||0|1000|117|132
+SE|31444515|BACKGROUND|ab|1|relation|0|0|C0153690|Secondary malignant neoplasm of bone|neop|neop|||Bone metastases|||0|1000|117|132|SPEC|ISA||117|175|0|0|C0279530|Malignant Bone Neoplasm|neop|neop|||malignant bone tumours|||0|868|153|175
+SE|31444515|BACKGROUND|ab|1|relation|0|0|C0448190|Entire proximal femur|blor|blor|||proximal femur|||0|1000|222|236|INFER|LOCATION_OF(SPEC)||117|175|0|0|C0153690|Secondary malignant neoplasm of bone|neop|neop|||Bone metastases|||0|1000|117|132
+SE|31444515|BACKGROUND|ab|1|relation|0|0|C1279075|Entire humerus|bpoc|bpoc|||humerus|||0|888|250|257|INFER|LOCATION_OF(SPEC)||117|175|0|0|C0153690|Secondary malignant neoplasm of bone|neop|neop|||Bone metastases|||0|1000|117|132
+SE|31444515|BACKGROUND|ab|1|relation|4|1|C0030797|Pelvis|blor|blor|||pelvis|||0|1000|214|220|PREP|LOCATION_OF||200|202|3|1|C0279530|Malignant Bone Neoplasm|neop|neop|||malignant bone tumours|||0|868|153|175
+SE|31444515|BACKGROUND|ab|1|relation|4|1|C0037949|Vertebral column|bpoc|bpoc|||spine|||0|1000|207|212|PREP|LOCATION_OF||200|202|3|1|C0279530|Malignant Bone Neoplasm|neop|neop|||malignant bone tumours|||0|868|153|175
+SE|31444515|BACKGROUND|ab|1|relation|4|1|C0448190|Entire proximal femur|blor|blor|||proximal femur|||0|1000|222|236|PREP|LOCATION_OF||200|202|3|1|C0279530|Malignant Bone Neoplasm|neop|neop|||malignant bone tumours|||0|868|153|175
+SE|31444515|BACKGROUND|ab|1|relation|4|1|C1279075|Entire humerus|bpoc|bpoc|||humerus|||0|888|250|257|PREP|LOCATION_OF||200|202|3|1|C0279530|Malignant Bone Neoplasm|neop|neop|||malignant bone tumours|||0|868|153|175
+
+SE|31444515|BACKGROUND|ab|2|text|259|322|Prostate and breast cancer most often metastasize to the bone.
+SE|31444515|BACKGROUND|ab|2|entity|C0033572|Prostate|bpoc|||Prostate|||0|1000|259|267
+SE|31444515|BACKGROUND|ab|2|entity|C0006142|Malignant neoplasm of breast|neop|||breast cancer|||0|901|272|285
+SE|31444515|BACKGROUND|ab|2|entity|C0332183|Frequent|tmco|||often|||0|1000|291|296
+SE|31444515|BACKGROUND|ab|2|entity|C1266909|Entire bony skeleton|bdsy|||bone|||0|1000|316|320
+
+SE|31444515|DIAGNOSTICS|ab|3|text|322|481|DIAGNOSTICS: In patients with a history of tumours and local unspecific pain in the back and extremities, further diagnostic examinations should be performed.
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0348026|Diagnostic|ftcn|||DIAGNOSTICS|||0|928|322|333
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0030705|Patients|podg|||patients|||0|1000|338|346
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0019664|Recording of previous events|ocdi|||history|||0|1000|354|361
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0027651|Neoplasm|neop|||tumours|||0|1000|365|372
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0205276|Local|spco|||local|||0|802|377|382
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0030193|Pain|sosy|||pain|||0|802|394|398
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0004600|Back|blor|||back|||0|1000|406|410
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0015385|Limb structure|bpoc|||extremities|||0|1000|415|426
+SE|31444515|DIAGNOSTICS|ab|3|entity|C1517331|Further|spco|||further|||0|623|428|435
+SE|31444515|DIAGNOSTICS|ab|3|entity|C0348026|Diagnostic|ftcn|||diagnostic|||0|623|436|446
+SE|31444515|DIAGNOSTICS|ab|3|relation|3|1|C0004600|Back|blor|blor|||back|||0|1000|406|410|PREP|LOCATION_OF||399|401|5|2|C0027651|Neoplasm|neop|neop|||tumours|||0|1000|365|372
+SE|31444515|DIAGNOSTICS|ab|3|relation|3|1|C0015385|Limb structure|bpoc|bpoc|||extremities|||0|1000|415|426|PREP|LOCATION_OF||399|401|5|2|C0027651|Neoplasm|neop|neop|||tumours|||0|1000|365|372
+
+SE|31444515|DIAGNOSTICS|ab|4|text|481|580|For the initial diagnosis a conventional radiograph of the whole bone in two planes is sufficient.
+SE|31444515|DIAGNOSTICS|ab|4|entity|C0205265|Initially|tmco|||initial|||0|888|489|496
+SE|31444515|DIAGNOSTICS|ab|4|entity|C0011900|Diagnosis|hlca|||diagnosis|||0|888|497|506
+SE|31444515|DIAGNOSTICS|ab|4|entity|C0439858|Conventional|qlco|||conventional|||0|888|509|521
+SE|31444515|DIAGNOSTICS|ab|4|entity|C1306645|Plain x-ray|diap|||radiograph|||0|888|522|532
+SE|31444515|DIAGNOSTICS|ab|4|entity|C0444667|Whole|qnco|||whole|||0|888|540|545
+SE|31444515|DIAGNOSTICS|ab|4|entity|C1266909|Entire bony skeleton|bdsy|||bone|||0|888|546|550
+SE|31444515|DIAGNOSTICS|ab|4|entity|C0205448|Two|qnco|||two|||0|694|554|557
+SE|31444515|DIAGNOSTICS|ab|4|entity|C0205410|Sufficient|qlco|||sufficient|||0|1000|568|578
+
+SE|31444515|DIAGNOSTICS|ab|5|text|580|739|For further diagnostics, the imaging may be supplemented with CT, MRI, scintigraphy and a PET-CT (PET-MRI) if the findings are not inconspicuous on the x?ray.
+SE|31444515|DIAGNOSTICS|ab|5|entity|C1517331|Further|spco|||further|||0|853|584|591
+SE|31444515|DIAGNOSTICS|ab|5|entity|C0348026|Diagnostic|ftcn|||diagnostics|||0|853|592|603
+SE|31444515|DIAGNOSTICS|ab|5|entity|C0024485|Magnetic Resonance Imaging|diap|||MRI|||0|1000|646|649
+SE|31444515|DIAGNOSTICS|ab|5|entity|C0034606|Radionuclide Imaging|diap|||scintigraphy|||0|1000|651|663
+SE|31444515|DIAGNOSTICS|ab|5|entity|C0024485|Magnetic Resonance Imaging|diap|||PET-MRI|||0|861|678|685
+SE|31444515|DIAGNOSTICS|ab|5|entity|C0243095|Finding|ftcn|||findings|||0|1000|694|702
+SE|31444515|DIAGNOSTICS|ab|5|entity|C1518422|Not|ftcn|||not|||0|694|707|710
+SE|31444515|DIAGNOSTICS|ab|5|entity|C0034571|roentgenographic|ftcn|||x?ray|||0|1000|732|737
+
+SE|31444515|DIAGNOSTICS|ab|6|text|739|880|An indication for biopsy exists if the tumor cannot be classified, especially in solitary findings with or without previous tumor anamnesis.
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0392360|Reason for|idcn|||indication|||0|1000|742|752
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0005558|Biopsy|diap|||biopsy|||0|1000|757|763
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0027651|Neoplasm|neop|||tumor|||0|1000|778|783
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0205171|Singular|qnco|||solitary|||0|888|820|828
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0243095|Finding|ftcn|||findings|||0|888|829|837
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0205156|Previous|tmco|||previous|||0|851|854|862
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0027651|Neoplasm|neop|||tumor|||0|851|863|868
+SE|31444515|DIAGNOSTICS|ab|6|entity|C0021055|Immunologic Memory|ortf|||anamnesis|||0|851|869|878
+
+SE|31444515|THERAPY|ab|7|text|880|1069|THERAPY: Surgical indications for bone metastases are a pathological fracture, an impending fracture, a solitary late metastasis, radiation-resistant osteolysis and therapy-resistant pain.
+SE|31444515|THERAPY|ab|7|entity|C0543467|Operative Surgical Procedures|topp|||Surgical|||0|888|889|897
+SE|31444515|THERAPY|ab|7|entity|C0392360|Reason for|idcn|||indications|||0|888|898|909
+SE|31444515|THERAPY|ab|7|entity|C0153690|Secondary malignant neoplasm of bone|neop|||bone metastases|||0|1000|914|929
+SE|31444515|THERAPY|ab|7|entity|C0016663|Pathological fracture|dsyn|||pathological fracture|||0|1000|936|957
+SE|31444515|THERAPY|ab|7|entity|C0332190|Impending|tmco|||impending|||0|888|962|971
+SE|31444515|THERAPY|ab|7|entity|C0016658|Fracture|inpo|||fracture|||0|888|972|980
+SE|31444515|THERAPY|ab|7|entity|C0205171|Singular|qnco|||solitary|||0|623|984|992
+SE|31444515|THERAPY|ab|7|entity|C0205087|Late|tmco|||late|||0|623|993|997
+SE|31444515|THERAPY|ab|7|entity|C0597345|radiation resistance|biof|||radiation-resistant|||0|877|1010|1029
+SE|31444515|THERAPY|ab|7|entity|C0029435|Osteolysis|patf|||osteolysis|||0|877|1030|1040
+SE|31444515|THERAPY|ab|7|entity|C0332325|Resistant|ftcn|||resistant|||0|851|1053|1062
+SE|31444515|THERAPY|ab|7|entity|C0030193|Pain|sosy|||pain|||0|851|1063|1067
+SE|31444515|THERAPY|ab|7|relation|0|0|C0016663|Pathological fracture|dsyn|dsyn|||pathological fracture|||0|1000|936|957|SPEC|ISA||936|980|0|0|C0016658|Fracture|inpo|inpo|||fracture|||0|888|972|980
+
+SE|31444515|THERAPY|ab|8|text|1069|1208|In solitary metastases, the prognosis for patients can be significantly improved by a wide (R0 resection) depending on the primary tumour.
+SE|31444515|THERAPY|ab|8|entity|C0205171|Singular|qnco|||solitary|||0|888|1072|1080
+SE|31444515|THERAPY|ab|8|entity|C0027627|Neoplasm Metastasis|neop|||metastases|||0|888|1081|1091
+SE|31444515|THERAPY|ab|8|entity|C0030705|Patients|podg|||patients|||0|1000|1111|1119
+SE|31444515|THERAPY|ab|8|entity|C0332464|Widening|spco|||wide|||0|1000|1155|1159
+SE|31444515|THERAPY|ab|8|entity|C0728940|Excision|topp|||resection|||0|861|1164|1173
+SE|31444515|THERAPY|ab|8|entity|C0677930|Primary Neoplasm|neop|||primary tumour|||0|1000|1192|1206
+
+SE|31444515|THERAPY|ab|9|text|1208|1322|For multiple metastases the restoration of mobility and improvement of the quality of life are in the foreground.
+SE|31444515|THERAPY|ab|9|entity|C0439064|Numerous|qnco|||multiple|||0|888|1212|1220
+SE|31444515|THERAPY|ab|9|entity|C0027627|Neoplasm Metastasis|neop|||metastases|||0|888|1221|1231
+SE|31444515|THERAPY|ab|9|entity|C0332306|Quality|qlco|||quality|||0|1000|1283|1290
+SE|31444515|THERAPY|ab|9|entity|C0376558|Life|idcn|||life|||0|1000|1294|1298
+
+SE|31444515|THERAPY|ab|10|text|1322|1534|Depending on the life expectancy and other factors, such as the location of the metastases osteosynthesis, implantations of dual head prothesis, total joint arthroplasty and tumor endoprostheses can be performed.
+SE|31444515|THERAPY|ab|10|entity|C0023671|Life Expectancy|grpa|||life expectancy|||0|1000|1339|1354
+SE|31444515|THERAPY|ab|10|entity|C1521761|Factor|ftcn|||factors|||0|966|1365|1372
+SE|31444515|THERAPY|ab|10|entity|C0450429|Location|spco|||location|||0|1000|1386|1394
+SE|31444515|THERAPY|ab|10|entity|C0027627|Neoplasm Metastasis|neop|||metastases|||0|888|1402|1412
+SE|31444515|THERAPY|ab|10|entity|C0016642|Fracture Fixation, Internal|topp|||osteosynthesis|||0|888|1413|1427
+SE|31444515|THERAPY|ab|10|entity|C0021107|Implantation procedure|topp|||implantations|||0|1000|1429|1442
+SE|31444515|THERAPY|ab|10|entity|C0018670|Head|blor|||head|||0|660|1451|1455
+SE|31444515|THERAPY|ab|10|entity|C0439175|% of total|qnco|||total|||0|901|1467|1472
+SE|31444515|THERAPY|ab|10|entity|C0003893|Arthroplasty|topp|||joint arthroplasty|||0|901|1473|1491
+SE|31444515|THERAPY|ab|10|entity|C0027651|Neoplasm|neop|||tumor|||0|694|1496|1501
+
+

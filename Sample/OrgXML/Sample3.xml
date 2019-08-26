@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31444515</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1433-0431</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Der Orthopade</Title>
+                <ISOAbbreviation>Orthopade</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Differentiated treatment strategies for bone metastases of the extremities].</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00132-019-03791-w</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Bone metastases are the most common malignant bone tumours and most commonly occur in the spine, pelvis, proximal femur and proximal humerus. Prostate and breast cancer most often metastasize to the bone.</AbstractText>
+                <AbstractText Label="DIAGNOSTICS" NlmCategory="UNASSIGNED">In patients with a history of tumours and local unspecific pain in the back and extremities, further diagnostic examinations should be performed. For the initial diagnosis a conventional radiograph of the whole bone in two planes is sufficient. For further diagnostics, the imaging may be supplemented with CT, MRI, scintigraphy and a PET-CT (PET-MRI) if the findings are not inconspicuous on the x¿ray. An indication for biopsy exists if the tumor cannot be classified, especially in solitary findings with or without previous tumor anamnesis.</AbstractText>
+                <AbstractText Label="THERAPY" NlmCategory="METHODS">Surgical indications for bone metastases are a pathological fracture, an impending fracture, a solitary late metastasis, radiation-resistant osteolysis and therapy-resistant pain. In solitary metastases, the prognosis for patients can be significantly improved by a wide (R0 resection) depending on the primary tumour. For multiple metastases the restoration of mobility and improvement of the quality of life are in the foreground. Depending on the life expectancy and other factors, such as the location of the metastases osteosynthesis, implantations of dual head prothesis, total joint arthroplasty and tumor endoprostheses can be performed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rath</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik für Orthopädie, Uniklinik RWTH Aachen, Pauwelsstraße 30, 52074, Aachen, Deutschland. brath@ukaachen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tingart</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik für Orthopädie, Uniklinik RWTH Aachen, Pauwelsstraße 30, 52074, Aachen, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Migliorini</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik für Orthopädie, Uniklinik RWTH Aachen, Pauwelsstraße 30, 52074, Aachen, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eschweiler</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik für Orthopädie, Uniklinik RWTH Aachen, Pauwelsstraße 30, 52074, Aachen, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zureik</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik für Orthopädie, Uniklinik RWTH Aachen, Pauwelsstraße 30, 52074, Aachen, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hardes</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Abteilung für Tumororthopädie und Sarkomchirurgie, Westdeutsches Tumorzentrum, Universitätsklinikum Essen, Hufelandstraße 55, 45147, Essen, Deutschland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Differenzierte Therapiestrategien bei Knochenmetastasen der Extremitäten.</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Orthopade</MedlineTA>
+            <NlmUniqueID>0331266</NlmUniqueID>
+            <ISSNLinking>0085-4530</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bone cancer</Keyword>
+            <Keyword MajorTopicYN="N">Breast cancer</Keyword>
+            <Keyword MajorTopicYN="N">Fracture, pathological</Keyword>
+            <Keyword MajorTopicYN="N">Life expectancy</Keyword>
+            <Keyword MajorTopicYN="N">Prostate cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31444515</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00132-019-03791-w</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00132-019-03791-w</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

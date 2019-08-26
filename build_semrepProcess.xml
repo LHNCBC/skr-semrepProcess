@@ -1,0 +1,56 @@
+<project>
+
+           <property name="src.dir" location="src" />
+           <property name="build.dir" location="classes" />
+        <property name="docs.dir" location="docs" />
+
+        <target name="clean">
+                <delete dir="${build.dir}" />
+                <delete dir="${docs.dir}" />
+        </target>
+        
+    <target name="compile">
+        <mkdir dir="classes"/>
+        <!-- <copy todir="classes">
+	    <fileset dir="src">
+	       <include name="**/*.properties"/>
+	    </fileset>
+	    </copy> -->
+        <javac    srcdir="src" destdir="classes"> 
+           <classpath>
+           	<pathelement path="${classpath}"/>
+           	<pathelement location="lib/mysql-connector-java-5.1.18-bin.jar" />
+	   	<pathelement location="lib/commons-lang-2.1.jar" />
+	   	<pathelement location="lib/httpclient-4.1.1.jar" />
+	                <pathelement location="lib/httpcore-4.1.jar" />
+	                <pathelement location="lib/httpmime-4.1.1.jar" />
+	                <pathelement location="lib/ling.jar" />
+	                <pathelement location="lib/skrAPI.jar" />
+	                <pathelement location="lib/commons-logging-1.1.1.jar" />
+	                <pathelement location="lib/httpclient-cache-4.1.1.jar" />
+	                <pathelement location="lib/httpcore-nio-4.1.jar" />
+	                <pathelement location="lib/xom.jar" />
+         </classpath>
+        </javac >
+    </target>
+
+    <target name="jar">
+        <mkdir dir="lib"/>
+        <!-- <copy todir="classes">
+	    <fileset dir="src">
+	       <include name="**/*.properties"/>
+	    </fileset>
+	</copy> -->
+        <jar destfile="lib/semrepProcess.jar" basedir="classes">
+            <manifest>
+                <attribute name="Main-Class" value="gov.nih.nlm.skr.semrepProcess"/>
+            </manifest>
+            <include name="**/*.class"/>
+        </jar>
+    </target>
+    
+    <target name="main" depends="clean, compile, jar">
+                    <description>Main target</description>
+        </target>
+
+</project>

@@ -1,0 +1,834 @@
+PMID- 1
+TI  - Formate assay in body fluids: application in methanol poisoning.
+
+
+PMID- 2
+TI  - Delineation of the intimate details of the backbone conformation of pyridine nucleotide coenzymes in aqueous solution.
+
+
+PMID- 3
+TI  - Metal substitutions incarbonic anhydrase: a halide ion probe study.
+
+
+PMID- 4
+TI  - Effect of chloroquine on cultured fibroblasts: release of lysosomal hydrolases and inhibition of their uptake.
+
+
+PMID- 5
+TI  - Atomic models for the polypeptide backbones of myohemerythrin and hemerythrin.
+
+
+PMID- 6
+TI  - Studies of oxygen binding energy to hemoglobin molecule.
+
+
+PMID- 7
+TI  - Maturation of the adrenal medulla--IV. Effects of morphine.
+
+
+PMID- 8
+TI  - Comparison between procaine and isocarboxazid metabolism in vitro by a liver microsomal amidase-esterase.
+
+
+PMID- 9
+TI  - Radiochemical assay of glutathione S-epoxide transferase and its enhancement by phenobarbital in rat liver in vivo.
+
+
+PMID- 10
+TI  - Digitoxin metabolism by rat liver microsomes.
+
+
+PMID- 11
+TI  - Identification of adenylate cyclase-coupled beta-adrenergic receptors with radiolabeled beta-adrenergic antagonists.
+
+
+PMID- 12
+TI  - The effect of adrenaline and of alpha- and beta-adrenergic blocking agents on ATP concentration and on incorporation of 32Pi into ATP in rat fat cells.
+
+
+PMID- 13
+TI  - Action of propranolol on mitochondrial functions--effects on energized ion fluxes in the presence of valinomycin.
+
+
+PMID- 14
+TI  - Malathion A and B esterases of mouse liver-I.
+
+
+PMID- 15
+TI  - Increase in acetyl CoA synthetase activity after phenobarbital treatment.
+
+
+PMID- 16
+TI  - Inhibition of aldehyde reductase by acidic metabolites of the biogenic amines.
+
+
+PMID- 17
+TI  - Effects of 5,6-dihydroxytryptamine on tyrosine-hydroxylase activity in central catecholaminergic neurons of the rat.
+
+
+PMID- 18
+TI  - Inhibition of aldehyde reductase isoenzymes in human and rat brain.
+
+
+PMID- 19
+TI  - Antidepressant drugs affect dopamine uptake.
+
+
+PMID- 20
+TI  - Aggregation of blood platelets by adrenaline and its uptake.
+
+
+PMID- 21
+TI  - [Biochemical studies on camomile components/III. In vitro studies about the antipeptic activity of (--)-alpha-bisabolol (author's transl)].
+AB  - (--)-alpha-Bisabolol has a primary antipeptic action depending on dosage, which is not caused by an alteration of the pH-value. The proteolytic activity of pepsin is reduced by 50 percent through addition of bisabolol in the ratio of 1/0.5. The antipeptic action of bisabolol only occurs in case of direct contact. In case of a previous contact with the substrate, the inhibiting effect is lost. 
+
+
+PMID- 22
+TI  - [Demonstration of tumor inhibiting properties of a strongly immunostimulating low-molecular weight substance. Comparative studies with ifosfamide on the immuno-labile DS carcinosarcoma. Stimulation of the autoimmune activity for approx. 20 days by BA 1, a N-(2-cyanoethylene)-urea. Novel prophylactic possibilities].
+AB  - A report is given on the recent discovery of outstanding immunological properties in BA 1 [N-(2-cyanoethylene)-urea] having a (low) molecular mass M = 111.104. Experiments in 214 DS carcinosarcoma bearing Wistar rats have shown that BA 1, at a dosage of only about 12 percent LD50 (150 mg kg) and negligible lethality (1.7 percent), results in a recovery rate of 40 percent without hyperglycemia and, in one test, of 80 percent with hyperglycemia. Under otherwise unchanged conditions the reference substance ifosfamide (IF) -- a further development of cyclophosphamide -- applied without hyperglycemia in its most efficient dosage of 47 percent LD50 (150 mg kg) brought about a recovery rate of 25 percent at a lethality of 18 percent. (Contrary to BA 1, 250-min hyperglycemia caused no further improvement of the recovery rate.) However this comparison is characterized by the fact that both substances exhibit two quite different (complementary) mechanisms of action. Leucocyte counts made after application of the said cancerostatics and dosages have shown a pronounced stimulation with BA 1 and with ifosfamide, the known suppression in the post-therapeutic interval usually found with standard cancerostatics. In combination with the cited plaque test for BA 1, blood pictures then allow conclusions on the immunity status. Since IF can be taken as one of the most efficient cancerostatics--there is no other chemotherapeutic known up to now that has a more significant effect on the DS carcinosarcoma in rats -- these findings are of special importance. Finally, the total amount of leucocytes and lymphocytes as well as their time behaviour was determined from the blood picture of tumour-free rats after i.v. application of BA 1. The thus obtained numerical values clearly show that further research work on the prophylactic use of this substance seems to be necessary and very promising. 
+
+
+PMID- 23
+TI  - Effect of etafenone on total and regional myocardial blood flow.
+AB  - The distribution of blood flow to the subendocardial, medium and subepicardial layers of the left ventricular free wall was studied in anaesthetized dogs under normoxic (A), hypoxic (B) conditions and under pharmacologically induced (etafenone) coronary vasodilation (C). Regional myocardial blood flow was determined by means of the particle distribution method. In normoxia a transmural gradient of flow was observed, with the subendocardial layers receiving a significantly higher flow rate compared with the subepicardial layers. In hypoxia induced vasodilation this transmural gradient of flow was persistent. In contrast a marked redistribution of regional flow was observed under pharmacologically induced vasodilation. The transmural gradient decreased. In contrast to some findings these experiments demonstrate that a considerable vasodilatory capacity exists in all layers of the myocardium and can be utilized by drugs. The differences observed for the intramural distribution pattern of flow under hypoxia and drug induced vasodilation support the hypothesis that this pattern reflects corresponding gradients of regional myocardial metabolism. 
+
+
+PMID- 24
+TI  - Influence of a new virostatic compound on the induction of enzymes in rat liver.
+AB  - The virostatic compound N,N-diethyl-4-[2-(2-oxo-3-tetradecyl-1-imidazolidinyl)-ethyl]-1-piperazinecarboxamide-hydrochloride (5531) was analyzed as to its effect on the induction of tryptophan-pyrrolase and tyrosineaminotransferase in rat liver. 1. The basic activity of the enzymes was not influenced by the substance either in normal or in adrenalectomized animals. 2. The induction of the enzymes by cortisone increased in the presence of the compound whereas the substrate induction remained unchanged. 3. The induction of tyrosine-aminotransferase by dexamethasonephosphate in tissue culture is inhibited if the dose of compound 5531 is higher than 5 mug/ml. 
+
+
+PMID- 25
+TI  - Pharmacological properties of new neuroleptic compounds.
+AB  - RMI 61 140, RMI 61 144 and RMI 61 280 are newly synthetized N-[8-R-dibenzo(b,f)oxepin-10-yl]-N'-methyl-piperazine-maleates which show interesting psychopharmacologic effects. This work contains the results of a study performed with these three compounds, in order to demonstrate their neuropsycholeptic activity in comparison with chloropromazine (CPZ) and chlordiazepoxide (CPD). The inhibition of motility observed in mice shows that the compounds reduce the normal spontaneous motility as well as the muscle tone. The central-depressant activity is evidenced by increased barbiturate-induced sleep and a remarkable eyelid ptosis can also be observed. Our compounds do not show any activity on electroshock just as do CPZ and CPD. As to the antipsychotic outline, our compounds show strong reduction of lethality due to amphetamine in grouped mice and a strong antiapomorphine activity. They show also an antiaggressive effect and an inhibitory activity on avoidance behaviour much stronger than CPZ. We have also found extrapyramidal effects, as catalepsy, common to many tranquillizers of the kind of the standards used by us. As for vegetative phenomena, the compounds show hypotensive dose related action ranging from moderate to strong, probably due to an a-receptor inhibition. Adrenolytic activity against lethal doses of adrenaline, antiserotonin and antihistaminic effects, as well as other actions (hypothermia, analgesia, etc.) confirm that RMI 61 140, RMI 61 144 and RMI 61 280 are endowed with pharmacologic properties similar and more potent than those of CPZ. Studies on the metabolism of brain catecholamines show that they are similar to CPZ, although with less effect on dopamine level. 
+
+
+PMID- 26
+TI  - [Studies on the action of an anticholinergic agent in combination with a tranquilizer on gastric juice secretion in man].
+AB  - A double-blind study with intra-individual comparisons was carried out to investigate the effects of 15 mg of (8r)-3alpha-hydroxy-8-isopropyl-1alphaH-tropanium bromide(+/-)-tropate (Sch 1000), 15 mg Sch 1000 + 10 mg oxazepam, 10 mg oxazepam and placebo with oral administration in randomized sequence on gastric juice volume, amount of acid, concentration and pH values in 12 healthy volunteers. The secretion parameters were measured during a 1-h basal period and a 2-h stimulation period. The gastric juice was obtained in 15 min portions via stomach tube. Stimulation was effected by 1 mug/kg/h pentagastrin via drip infusion. The Friedman test was used for the comparative statistical evaluation, and individual comparisons were carried out by means of the Wilcoxon test (pair-differences rank). The results show that Sch 1000 and Sch 1000 + oxazepam were equal in effect on basal and stimulated secretion volume. As compared with placebo, it was not possible to establish an effect on secretion volume for oxazepam alone. Sch 1000 and Sch 1000 + oxazepam were found to be equipotent in reducing the amount of basal acid, while oxazepam reduced this quantity only during the first 30 min of basal secretion. None of the three active preparations was capable of inhibiting the stimulated acid, although both Sch 1000 preparations produced a clear trend towards lowered mean values. During the basal secretion period, all three test preparations had an inhibiting action on acid concentration, but none of them had a significant effect during the stimulation period. The pH value was savely increased only by Sch 1000 and Sch 1000 + oxazepam, and this even only during the basal period. The results are discussed. 
+
+
+PMID- 27
+TI  - Editorial: "Old lamps for new".
+
+
+PMID- 28
+TI  - Letter: Duration of action of AH8165.
+
+
+PMID- 29
+TI  - Lorazepam in sexual disorders.
+
+
+PMID- 30
+TI  - Lysosomal hydrolases of the epidermis. I. Glycosidases.
+AB  - Seven distinct glycosidases (EC 3.2) have been characterized in guinea-pig epidermis. Their properties indicate them to be of lysosomal origin. The 'profile' of the epidermal glycosidases is significantly different from that reported for whole skin, the activities of beta-galactosidase and beta-acetylglucosaminidase being very high and those of the remaining enzymes relatively low in epidermis. 
+
+
+PMID- 31
+TI  - Lysosomal hydrolases of the epidermis. 2. Ester hydrolases.
+AB  - Five distinct ester hydrolases (EC 3-1) have been characterized in guinea-pig epidermis. These are carboxylic esterase, acid phosphatase, pyrophosphatase, and arylsulphatase A and B. Their properties are consistent with those of lysosomal enzymes. 
+
+
+PMID- 32
+TI  - A serum haemagglutinating property dependent upon polycarboxyl groups.
+AB  - A serum agglutinin reactive with red cells in the presence of polycarboxyl groups is reported. It is likely that this represents an additional example of the type of agglutinin previously described as agglutinating red cells in the absence of ionized calcium. Experimental evidence is presented indicating that it is free polycarboxyl groups that potentiate agglutination and that any metal ion, such as calcium, capable of chelating with these groups will prove to be inhibitory. 
+
+
+PMID- 33
+TI  - Effect of human erythrocyte stromata on complement activation.
+AB  - Stroma from either normal or PNH-like red cells is capable of inhibiting, to some extent, lysis in the sucrose test and enhancing lysis in the acidified-serum test. The same opposing effects are displayed by the exclusion peaks from Sephadex G-200 obtained from each stroma preparation, suggesting that the same factor could be responsible for both activities. Stromata and peaks also induce lysis of PNH-like cells in unacidified serum, indicating activation of complement through the alternate pathway. This is confirmed by immunoelectrophoretic observation. When serum previously activated through the alternate pathway is used in the sucrose test the amount of lysis is markedly reduced. This would indicate that the classical pathway activation can be controlled by the alternate pathway. The possible clinical significance of these factors in determining the haemolytic crisis in PNH patients is discussed. 
+
+
+PMID- 34
+TI  - Determinants of intracellular pH in the erythrocyte.
+
+
+PMID- 35
+TI  - The effect of o-salicylate upon pentose phosphate pathway activity in normal and G6PD-deficient red cells.
+AB  - The effect of the major metabolite of aspirin, namely salicylic acid, upon the pentose phosphate pathway (PPP) of normal and G6PD-deficient red cells has been studied. Salicylic acid was shown to inhibit this pathway in proportion to the amount present. At any concentration of this substance there was greater inhibition of the PPP in G6PD-deficient than in normal red cells. 
+
+
+PMID- 36
+TI  - The effects of processing of barley-based supplements on rumen pH, rate of digestion of voluntary intake of dried grass in sheep.
+AB  - 1. In one experiment the effect on rumen pH of feeding with restricted amounts of whole or pelleted barley was studied. With whole barley there was little variation in rumen pH associated with feeding time, but with pelleted barley the pH decreased from about 7-0 before feeding to about 5-3, 2--3 h after feeding. 2. The rate of disappearance of dried grass during incubation in the rumens of sheep receiving either whole or pelleted barley was studied in a second experiment. After 24 h incubation only 423 mg/g incubated had disappeared in the rumen of sheep receiving pelleted barley while 625 mg/g incubated had disappeared when it was incubated in the rumen of sheep receiving whole barley. 3. The voluntary intake of dried grass of lambs was studied in a third experiment when they received supplements of either 25 or 50 g whole or pelleted barley/kg live weight 0-75. At the high level, pelleted barley reduced intake of dried grass by 534 g/kg but whole barley reduced it by only 352 g/kg. The digestibility of acid-detergent fibre was reduced more by pelleted barley than by whole barley but there was a tendency for a small increase in digestibility of the barley due to processing. 4. The implications of these findings on supplementation of roughages with cereals are discussed. 
+
+
+PMID- 37
+TI  - Poly(8-aminoguanylic acid): formation of ordered self-structures and interaction with poly(cytidylic acid).
+AB  - Poly(8-aminoguanylic acid) has in neutral solution a novel ordered structure of high stability. The 8-amino group permits formation of three hydrogen bonds between two residues along the "top", or long axis, of the purines. The usual hydrogen bonding protons and Watson-Crick pairing sites are not involved in the association. The bonding scheme has a twofold rotation axis and is hemiprotonated at N(7). Poly(8NH2G) is converted by alkaline titration (pK = 9.7) to a quite different ordered structure, which is the favored form over the range approximately pH 10-11. The bonding scheme appears to be composed of a planar, tetrameric array of guanine residues, in which the 8-amino group does not participate in interbase hydrogen bonding. Poly (8NH2G) does not interact with poly(C) in neutral solution because of the high stability of the hemiprotonated G-G self-structure. Titration to the alkaline plateau, however, permits ready formation of a two-stranded Watson-Crick helix. In contrast to the monomer 8NH2GMP, poly(8NH2G) does not form a triple helix with poly(C) under any conditions. The properties of the ordered structures are interpreted in terms of a strong tendency of the 8-amino group to form a third interbase hydrogen bond, when this possibility is not prevented by high pH. 
+
+
+PMID- 38
+TI  - Effect of pH on substrate and inhibitor kinetic constants of human liver alanine aminopeptidase. Evidence for two ionizable active center groups.
+AB  - The presence of at least two ionizable active center groups has been detected by a study of the effect of pH upon catalysis of hydrolysis of L-alanyl-beta-naphthylamide by human liver alanine aminopeptidase and upon the inhibition of hydrolysis by inhibitors and substrate analogs. Octanoic acid, octylamine, and peptide inhibitors have been found to be competitive inhibitors and are therefore thought to bind the active center. L-Phe was previously shown to bind the active center since it was found to be a competitive inhibitor of the hydrolysis of tripeptide substrates (Garner, C. W., and Behal, F. J. (1975), Biochemistry 14, 3208). A plot of pKm vs. pH for the substrate L-Ala-beta-naphthylamide showed that binding decreased below pH 5.9 and above 7.5, the points at which the theoretical curve undergoes an integral change in slope. These points are interpreted as the pKa either of substrate ionizable groups or binding-dependent enzyme active center groups. Similar plots of pKm vs. pH for L-alanyl-p-nitroanilide (as substrate) and pKi vs. pH for L-Leu-L-Leu-L-Leu and D-Leu-L-Tyr (as inhibitors) gave pairs fo pKa values of 5.8 and 7.4, 6.0 and 7.5, and 5.7 and 7.5, respectively. All the above substrates (and D-Leu-L-Tyr) have pKa values near 7.5; therefore, the binding-dependent group with a pKa value near 7.5 is possibly this substrate group. Similar plots of pKi vs. pH for the inhibitors L-Phe, L-Met, L-Leu, octylamine, and octanoic acid had only one bending point at 7.7, 7.6, 7.4, 6.3, and 5.9, respectively. Amino acid inhibitors, octylamine, and octanoic acid have no groups with pKa values between 5 and 9. These data indicate that there are two active center ionizable groups with pKa values of approximately 6.0 and 7.5 which are involved in substrate binding or inhibitory amino acid binding but not in catalysis since Vmax was constant at all pH values tested. 
+
+
+PMID- 39
+TI  - Formation of transient complexes in the glutamate dehydrogenase catalyzed reaction.
+AB  - The reaction of glutamate dehydrogenase and glutamate (gl) with NAD+ and NADP+ has been studied with stopped-flow techniques. The enzyme was in all experiments present in excess of the coenzyme. The results indicate that the ternary complex (E-NAD(P)H-kg) is present as an intermediate in the formation of the stable complex (E-NAD(P)H-gl). The identification of the complexes is based on their absorption spectra. The binding of the coenzyme to (E-gl) is the rate-limiting step in the formation of (E-NAD(P)H-kg) while the dissociation of alpha-ketoglutarate (kg) from this complex is the rate-limiting step in the formation of (E-NAD(P)H-gl). The Km for glutamate was 20-25 mM in the first reaction and 3 mM in the formation of the stable complex. The Km values were independent of the coenzyme. The reaction rates with NAD+ were approximately 50% greater than those with NADP+. Furthermore, high glutamate concentration inhibited the formation of (E-NADH-kg) while no substrate inhibition was found with NADP+ as coenzyme. ADP enhanced while GTP reduced the rate of (E-NAD(P)H-gl) formation. The rate of formation of (E-NAD(P)H-kg) was inhibited by ADP, while it increased at high glutamate concentration when small amounts of GTP were added. The results show that the higher activity found with NAD+ compared to NADP+ under steady-state assay conditions do not necessarily involve binding of NAD+ to the ADP activating site of the enzyme. Moreover, the substrate inhibition found at high glutamate concentration under steady-state assay condition is not due to the formation of (E-NAD(P)H-gl) as this complex is formed with Km of 3 mM glutamate, and the substrate inhibition is only significant at 20-30 times this concentration. 
+
+
+PMID- 40
+TI  - Human brain and placental choline acetyltransferase: purification and properties.
+AB  - Choline acetyltransferase (EC 2.3.1.6) catalyzes the biosynthesis of acetylcholine according to the following chemical equation: acetyl-CoA + choline in equilibrium to acetylcholine + CoA. In addition to nervous tissue, primate placenta is the only other animal source which contains appreciable acetylcholine and its biosynthetic enzyme. Human brain caudate nucleus and human placental choline acetyltransferase were purified to electrophoretic homogeneity using ion-exchange and blue dextran-Sepharose affinity chromatography. The molecular weights determined by Sephadex G-150 gel filtration and sodium dodecyl sulfate gel electrophoresis are 67000 plus or minus 3000. N-Ethylmaleimide, p-chloromercuribenzoate, and dithiobis(2-nitrobenzoic acid) inhibit the enzyme. Dithiothreitol reverses the inhibition produced by the latter two reagents. The pKa of the group associated with N-ethylmaleimide inhibition is 8.6 plus or minus 0.3. A chemically competent acetyl-thioenzyme is isolable by Sephadex gel filtration. The enzymes from the brain and placenta are thus far physically and biochemically indistinguishable. 
+
+
+PMID- 41
+TI  - Stabilization of the globular structure of ferricytochrome c by chloride in acidic solvents.
+AB  - Increasing concentrations of chloride were found to increase the resolution between two visible absorbance spectral transitions associated with acidification of ferricytochrome c. Analysis of a variety of spectral and viscosity measurements indicates that protonation of a single group having an apparent pK of 2.1 +/- 0.2 and an intrinsic pK of about 5.3 displaces the methionine ligand without significantly perturbing the native globular conformation. Analysis of methylated ferricytochrome c suggests that protonation of a carboxylate ion, most likely a heme propionate residue, is responsible for displacement of the methionine ligand. Addition of a proton to a second group having an apparent pK of 1.2 +/- 0.1 displaces the histidine ligand and unfolds the protein from a globular conformation into a random coil. It is most likely that the second protonation occurs on the imidazole ring of the histidine ligand itself. Chloride is proposed to perturb these transitions by ligation in the fifth coordination position of the heme ion. Such ligation stabilizes a globular conformation of ferricytochrome c at pH 0.0 and 25 degrees. 
+
+
+PMID- 42
+TI  - A competitive labeling method for the determination of the chemical properties of solitary functional groups in proteins.
+AB  - The properties of the functional groups in a protein can be used as built-in-probes of the structure of the protein. We have developed a general procedure whereby the ionization constant and chemical reactivity of solitary functional groups in proteins may be determined. The method may be applied to the side chain of histidine, tyrosine, lysine, and cysteine, as well as to the amino terminus of the protein. The method, which is an extension of the competitive labeling technique using [3H]- and [14C]1-fluoro-2,4-dinitrobenzene (N2ph-F) in a double-labeling procedure, is rapid and sensitive. Advantage is taken of the fact that after acid hydrolysis of a dinitrophenylated protein, a derivative is obtained which must be derived from a unique position in the protein. The method has been applied to the solitary histidine residue of lysozyme, alpha-lytic protease, and Streptomyces griseus (S.G.) trypsin, as well as to the amino terminus of the latter protein. The following parameters were obtained for reaction with N2ph-F at 20 degrees C in 0.1 N KCl: the histidine of hen egg-white lysozyme, pKa of 6.4 and second-order velocity constant of 0.188 M-1 min-1; the histidine of alpha-lytic protease, pKa of 6.5 and second-order velocity constant of 0.0235 M-1 min-1; the histidine of S.G. trypsin, pKa of 6.5 and second-order velocity constant of 0.0328 M-1 min-1; the valyl amino terminus of S.G. trypsin, pKa of 8.1 and second-order velocity constant of 0.403 M-1 min-1. In addition, the results obtained provide clues as to the microenvironments of these functional groups, and indicate that the proteins studied undergo pH-dependent conformational changes which affect the microenvironment, and hence the chemical reactivity of these groups. 
+
+
+PMID- 43
+TI  - Modification of arginine and lysine in proteins with 2,4-pentanedione.
+AB  - Primary amines react with 2,4-pentanedione at pH 6-9 to form enamines, N-alkyl-4-amino-3-penten-2-ones. The latter compounds readily regenerate the primary amine at low pH or on treatment with hydroxylamine. Guanidine and substituted guanidines react with 2,4-pentanedione to form N-substituted 2-amino-4,6-dimethylpyrimidines at a rate which is lower by at least a factor of 20 than the rate of reaction of 2,4-pentanedione with primary amines. Selective modification of lysine and arginine side chains in proteins can readily be achieved with 2,4-pentanedione. Modification of lysine is favored by reaction at pH 7 or for short reaction times at pH 9. Selective modification of arginine is achieved by reaction with 2,4-pentanedione for long times at pH 9, followed by treatment of the protein with hydroxylamine. The extent of modification of lysine and arginine side chains can readily be measured spectrophotometrically. Modification of lysozyme with 2,4-pentanedione at pH 7 results in modification of 3.8 lysine residues and less than 0.4 arginine residue in 24 hr. Modification of lysozyme with 2,4-pentanedione at pH 9 results in modification of 4 lysine residues and 4.5 arginine residues in 100 hr. Treatment of this modified protein with hydroxylamine regenerated the modified lysine residues but caused no change in the modified arginine residues. One arginine residue seems to be essential for the catalytic activity of the enzyme. 
+
+
+PMID- 44
+TI  - The origin of the alkaline inactivation of pepsinogen.
+AB  - Above pH 8.5, pepsinogen is converted into a form which cannot be activated to pepsin on exposure to low pH. Intermediate exposure to neutral pH, however, returns the protein to a form which can be activated. Evidence is presented for a reversible, small conformational change in the molecule, distinct from the unfolding of the protein. At the same time, the molecule is converted to a form of limited solubility, which is precipitated at low pH, where activation is normally seen. The results are interpreted in terms of the peculiar structure of the pepsinogen molecule. Titration of the basic NH2-terminal region produced an open form, which can return to the native form at neutral pH, but which is maintained at low pH by neutralization of carboxylate groups in the pepsin portion. 
+
+
+PMID- 45
+TI  - Bovine liver dihydrofolate reductase: purification and properties of the enzyme.
+AB  - A purification procedure is reported for obtaining bovine liver dihydrofolate reductase in high yield and amounts of 100-200 mg. A key step in the procedure is the use of an affinity gel prepared by coupling pteroyl-L-lysine to Sepharose. The purified reductase has a specific activity of about 100 units/mg and is homogeneous as judged by analytical ultracentrifugation, polyacrylamide gel electrophoresis, and titration with methotrexate. The products of the first step of Edman degradation indicated a minimum purity of 79%. The reductase has a molecular weight of about 21500 on the basis of amino acid composition and 22100 +/- 300 from equilibrium sedimentation. It is not inhibited by antiserum to the Streptococcus faecium reductase (isoenzyme 2). Unlike the reductase of many other vertebrate tissues, the bovine enzyme is inhibited by mercurials rather than activated and it has a single pH optimum at both low and high ionic strength. However, the position of the pH optimum is shifted and the activity increased by increasing ionic strength. Automatic Edman degradation has been used to determine 34 of the amino-terminal 37 amino acid residues. Considerable homology exists between this region and the corresponding regions of the reductase from S. faecium and from Escherichia coli. This strengthens the idea that this region contributes to the structure of the binding site for dihydrofolate. 
+
+
+PMID- 46
+TI  - Purification and properties of Escherichia coli dihydrofolate reductase.
+AB  - Dihydrofolate reductase has been purified 40-fold to apparent homogeneity from a trimethoprim-resistant strain of Escherichia coli (RT 500) using a procedure that includes methotrexate affinity column chromatography. Determinations of the molecular weight of the enzyme based on its amino acid composition, sedimentation velocity, and sodium dodecyl sulfate gel electrophoresis gave values of 17680, 17470 and 18300, respectively. An aggregated form of the enzyme with a low specific activity can be separated from the monomer by gel filtration; treatment of the aggregate with mercaptoethanol or dithiothreitol results in an increase in enzymic activity and a regeneration of the monomer. Also, multiple molecular forms of the monomer have been detected by polyacrylamide gel electrophoresis. The unresolved enzyme exhibits two pH optima (pH 4.5 and pH 7.0) with dihydrofolate as a substrate. Highest activities are observed in buffers containing large organic cations. In 100 mM imidazolium chloride (pH 7), the specific activity is 47 mumol of dihydrofolate reduced per min per mg at 30 degrees. Folic acid also serves as a substrate with a single pH optimum of pH 4.5. At this pH the Km for folate is 16 muM, and the Vmax is 1/1000 of the rate observed with dihydrofolate as the substrate. Monovalent cations (Na+, K+, Rb+, and Cs+) inhibit dihydrofolate reductase; at a given ionic strength the degree of inhibition is a function of the ionic radius of the cation. Divalent cations are more potent inhibitors; the I50 of BaCl2 is 250 muM, as compared to 125 mM for KCl. Anions neither inhibit nor activate the enzyme. 
+
+
+PMID- 47
+TI  - The influence of pH on the interaction of inhibitors with triosephosphate isomerase and determination of the pKa of the active-site carboxyl group.
+AB  - Ionization effects on the binding of the potential transition state analogues 2-phosphoglycolate and 2-phosphoglycolohydroxamate appear to be attributable to the changing state of ionization of the ligands themselves, therefore it is unnecessary to postulate the additional involvement of an ionizing residue at the active site of triosephosphate isomerase to explain the influence of changing pH on Ki in the neutral range. The binding of the competitive inhibitor inorganic sulfate is insensitive to changing pH in the neutral range. 3-Chloroacetol sulfate, synthesized as an active-site-specific reagent for triosephosphate isomerase, is used to provide an indication of the pKa of the essential carboxyl group of this enzyme. Previously described active-site-specific reagents for the isomerase were phosphate esters, and their changing state of ionization (accompanied by possible changes in their affinity for the active site) may have complicated earlier attempts to determine the pKa of the essential carboxyl group from the pH dependence of the rate of inactivation. Being a strong monoprotic acid, chloroacetol sulfate is better suited to the determination of the pKa of the carboxyl group. Chloroacetol sulfate inactivates triosephosphate isomerase by the selective esterification of the same carboxyl group as that which is esterified by the phosphate esters described earlier. From the pH dependence of the rate of inactivation of yeast triosephosphate isomerase, the apparent pKa of the active-site carboxyl group is estimated as 3.9 +/- 0.1. 
+
+
+PMID- 48
+TI  - Monoanion inhibition and 35Cl nuclear magnetic resonance studies of renal dipeptidase.
+AB  - Kinetic analyses of monoanion inhibition and 15Cl nuclear magnetic resonance at 5.88 MHz were employed to study monoanion interactions with the zinc metalloenzyme, renal dipeptidase. The enzyme-catalyzed hydrolysis of glycyldehydrophenylalanine exhibited competitive inhibition when the reaction rate was determined in the presence of the monovalent anions fluoride, chloride, bromide, iodide, azide, nitrate, or thiocyanate or upon the addition of the divalent anion, sulfate. Competitive inhibition was produced by these anions. One anion was bound per enzyme molecule, and except in the case of fluoride all of the anions appeared to bind at the same site. Cyanide ion produced a much more effective inhibition of renal dipeptidase than the other monoanions, and it was shown that two cyanide ions were bound per enzyme molecule. An investigation of the effect of pH upon monoanion inhibition suggested that the anion inhibitors bind to the group with a pK of approximately 7.8. Complete dissociation of this group (approximately pH 8.4) eliminates the inhibitory effect of anions. The 35Cl line broadening produced by renal dipeptidase in 0.5 M NaCl solutions was 100 times more effective than that produced by equivalent concentrations of aquozinc(II). The line broadening was dependent upon the concentration of the metalloenzyme and independent of the frequency of the exciting radiation. When zinc ion was removed from the metalloenzyme by dialysis or when chloride was titrated from the metalloenzyme by cyanide, line broadening was decreased. Treatment of renal dipeptidase with saturating concentrations of the competitive inhibitor, guanosine triphosphate, in the presence of 0.5 M NaCl also produced a significant decrease in the 35Cl line width. The 35Cl line broadening produced by renal dipeptidase was shown to decrease with increasing pH through the range pH 5.8-10.8. This line-width variation with pH appeared to result from the titration of a site on the metalloprotein with an approximate pK of 7.4. Temperature studies of 35Cl line broadening by the metalloenzyme in the presence of chloride and cyanide inhibitors suggest that the fast exchange process pertains and that the dominant relaxation mechanism is quadrupolar in nature. 
+
+
+PMID- 49
+TI  - The interaction of bovine erythrocyte superoxide dismutase with hydrogen peroxide: inactivation of the enzyme.
+AB  - Bovine erythrocyte superoxide dismutase was slowly and irreversibly inactivated by hydrogen peroxide. The rate of this inactivation was directly dependent upon the concentrations of both H2O2 and of enzyme, and its second-order rate constant at pH 10.0 and 25 degrees was 6.7 M-1 sec-1. Inactivation was preceded by a bleaching due to rapid reduction of Cu2+ on the enzyme, and following this there was a gradual reappearance of a new absorption in the visible region, which was coincident with the loss of catalytic activity. Inactivation of the enzyme was pH-dependent and indicated an essential ionization whose pKa was approximately 10.2. Replacement of H2O by D2O raised this pKa but did not diminish the catalytic activity of superoxide dismutase, measured at pH 10.0. Several compounds, including xanthine, urate, formate, and azide, protected the enzyme against inactivation by H2O2. Alcohols and benzoate, which scavenge hydroxyl radical, did not protect. Compounds with special affinity for singlet oxygen were similarly ineffective. The data were interpreted in terms of the reduction of the enzyme-bound Cu2+ to Cu+, by H2O2, followed by a Fenton's type reaction of the Cu+ with additional H2O2. This would generate Cu2+-OH- or its ionized equivalent, Cu2+-O--, which could then oxidatively attack an adjacent histidine and thus inactivate the enzyme. Compounds which protected the enzyme could have done so by reacting with the bound oxidant, in competition with the adjacent histidine. 
+
+
+PMID- 50
+TI  - Circular dichroism and fluorescence studies of homogeneous antibodies to type III pneumococcal polysaccharide.
+AB  - The near-ultraviolet circular dichroism (CD) of three homogeneous anti-type III pneumococcal antibodies in the absence and the presence of the specific hexasaccharide ligand was studied. In addition recombinations and hybridizations of H and L chains derived from two of these antibodies were carried out and the CD spectra of bound and free reconstituted IgG molecules were measured. The results indicate that the CD spectra of the native antibodies in the 260-310-nm range are very similar in shape and sign and exhibit a positive band at 285 nm. The homologous reconstituted antibody molecules exhibited CD spectra very similar in shape and sign to those of the native antibody molecules although recombinant molecules are no longer stabilized by interchain disulfide bonds. Upon addition of the hexasaccharide ligand, a significant decrease in amplitude of the CD spectra (18-21%) occurred in all three native antibodies and their Fab fragments as well as in the homologous recombinant molecules. No CD spectral changes could be detected upon interaction of the hapten ligand with the heterologous recombinants. All homogeneous antibodies studied exhibited fluorescence quenching upon oligosaccharide binding and a blue shift of the emission maximum. This property allowed the determination of the binding constant of one selected antibody to be made. Taken together, CD and fluorescence spectroscopic data suggest that oligosaccharide ligands induced detectable conformational changes in the Fab fragment of the antibody. 
+
+
+PMID- 51
+TI  - Conformational changes induced in a homogeneous anti-type III pneumococcal antibody by oligosaccharides of increasing size.
+AB  - The circular polarization of luminescence (CPL) emitted by tryptophan residues was used as a sensitive probe for measuring ligand-induced structural changes in a homogeneous type III pneumococcal antibody. A series of oligosaccharide ligands of increasing size derived from type III polysaccharide by partial acid hydrolysis was assayed. Ligand-induced changes in the circular polarization of fluorescence of the antibody were observed for all antigens tested, including tetra-, hexa-, and octasaccharides and a 16-residue oligomer, the largest changes being recorded upon interaction with the intact soluble type III pneumococcal (SIII) polysaccharide. When Fab' or F(ab')2 fragments were used instead of the antibody IgG for binding of SIII polysaccharide, the extent of conformational changes was decreased. This suggests interactions between Fab and Fc portions in the IgG molecule and subsequent conformational changes in Fc part upon antigen binding. Reduction of interchain disulfide bonds abolished the additional spectral changes attributed to the Fc part but not the changes observed in the Fab part, thus suggesting that the presence of the interchain disulfide bond in the hinge region is required for maximal CPL changes to occur. Small monovalent ligands, i.e., the tetra-, hexa-, and octasaccharides, were capable of inducing CPL changes in the Fab part of the antibody molecule as well as CPL changes attributed to the Fc portion. A multivalent ligand containing about 16 sugar residues appears to be the minimal antigenic size required for triggering conformational changes attributed to the Fc part, similar to those seen in the interaction with the whole polysaccharide antigen. 
+
+
+PMID- 52
+TI  - Evidence of the involvement of a 50S ribosomal protein in several active sites.
+AB  - The functional role of the Bacillus stearothermophilus 50S ribosomal protein B-L3 (probably homologous to the Escherichia coli protein L2) was examined by chemical modification. The complex [B-L3-23S RNA] was photooxidized in the presence of rose bengal and the modified protein incorporated by reconstitution into 50S ribosomal subunits containing all other unmodified components. Particles containing photooxidized B-L3 are defective in several functional assays, including (1) poly(U)-directed poly(Phe) synthesis, (2) peptidyltransferase activity, (3) ability to associate with a [30S-poly(U)-Phe-tRNA] complex, and (4) binding of elongation factor G and GTP. The rates of loss of the partial functional activities during photooxidation of B-L3 indicate that at least two independent inactivating events are occurring, a faster one, involving oxidation of one or more histidine residues, affecting peptidyltransferase and subunit association activities and a slower one affecting EF-G binding. Therefore the protein B-L3 has one or more histidine residues which are essential for peptidyltransferase and subunit association, and another residue which is essential for EF-G-GTP binding. B-L3 may be the ribosomal peptidyltransferase protein, or a part of the active site, and may contribute functional groups to the other active sites as well. 
+
+
+PMID- 53
+TI  - The interaction of phospholipase A2 with micellar interfaces. The role of the N-terminal region.
+AB  - The localization of the previously postulated interface recognition site (IRS) in porcine pancreatic phospholipase A2, required for a specific interaction between the enzyme and organized lipid-water interfaces, was investigated by ultraviolet difference spectroscopy, by measurements of the intrinsic fluorescence of the unique Trp residue, and by protection experiments against specific tryptic hydrolysis. Using the enzymically nondegradable substrate analogues: CnH(2n+1)(0-)OOCH2CH2N+(CH3)3-(H,OH), it is shown that the rather hydrophobic N-terminal sequence of the enzyme, viz., Ala-Leu-Trp-Gln-Phe-Arg, is directly involved in the interaction with the lipid-water interface. Besides hydrophobic probably also polar interactions contribute to the binding process. At neutral or acidic pH the presence of a salt bridge between the N-terminal alpha-NH3+ group and a negatively charged side chain stablizes the interface recognition site and allows the enzyme to penetrate micellar surfaces, even in the absence of metal ion. At alkaline pH, interaction of the enzyme with micellar interfaces requires the presence of Ca2+ (Ba2+) ions. 
+
+
+PMID- 54
+TI  - Phospholipase A2 as a probe of phospholipid distribution in erythrocyte membranes. Factors influencing the apparent specificity of the reaction.
+AB  - The action of snake venom phospholipases A2 in intact human erythrocytes was investigated in detail. The basis phospholipase from Agkistrodon halys blomhifii was found to induce both hydrolysis of membrane phospholipids and total cell hemolysis under certain experimental conditions. The hydrolytic action of the basic enzyme was found to consist of two sequential events: (a) hydrolysis of 70% of the total cell ph osphatidylcholine without any evident hemolysis; and (b) complete hydrolysis of the remaining phosphatidylcholine, followed closely by extensive phosphatidylethanolamine hydrolysis and finally with onset of hemolysis, attack on the phosphatidylserine. At pH 7.4 and 10 mM Ca2+ only stage (a) occurred. However, a slight elevation of the pH of incubation to pH 8.0 and/or inclusion of 40 mM Ca2+ in the reaction mixture caused both events (a) and (b) to occur. The addition of glucose limited the action of the enzyme to stage (a) under any reaction conditions. An investigation showed that enzymically induced hemolysis occurred under conditions where the intracellular ATP levels were lowered. Data are presented which suggest that stage (b) is mediated by in influx of Ca2+ into the cell when the levels of ATP are low. Interestingly the phosphllipase from Naja naja venom (Pakistan) yielded results similar to those observed with the basic enzyme from Agkistrodon venom. However, the enzyme from Crotalus adamanteus and the acidic enzyme also present in the Agkistrodon venom produced only slight hydrolysis or hemolysis under any of the conditions studied. Other species of erythrocytes, e.g., guinea pig, monkey, pig, and rat, were tested but only those from guinea pig behaved similarly to the human cells. Pig, monkey, and rat erythrocytes underwent very limited hydrolysis and hemolysis. It is evident that the use of these phospholipases to probe the localization of phospholipds in erythrocyte membranes must be approached with caution. Certain facets of this problem are discussed. 
+
+
+PMID- 55
+TI  - Subunit interactions in yeast glyceraldehyde-3-phosphate dehydrogenase.
+AB  - The spontaneous inactivation of yeast glyceraldehyde-3-phosphate dehydrogenase was found to fit a simple two-state model at pH 8.5 and 25 degrees. The first step is a relatively rapid dissociation of the tetramer to dimers with the equilibrium largely in favor of the tetramer. In the absence of NAD+ the dimer inactivates irreversibly. The apoenzyme is quite stable with a half-life for complete activity loss proportional to the square root of the enzyme concentration. Perturbances of the protein structure (by pH, ionic strength, and specific salts), which have no effect on the tetrameric state of the molecule, result in an alteration of the cooperativity of NAD+ binding, the reactivity of the active-site sulfhydryl group, and the catalytic activity of the enzyme. Covalent modification of two of the four active-site sulfhydryl groups has profound effects on the enzymic activity which are mediated by changes in the subunit interactions. Sedimentation analysis and hybridization studies indicate that the interaction between subunits remains strong after covalent modification. Under normal physiological and equilibrium dialysis conditions the protein is a tetramer. Equilibrium dialysis studies of NAD+ binding to the enzyme at pH 8.5 and 25 degrees reveal a mixed cooperativity pattern. A model consistent with these observations and the observed half-of-the-sites reactivity is that of ligand induced sequential conformational changes which are transferred across strongly interacting subunit domains. Methods for distinguishing negatively cooperative binding patterns from mixtures of denatured enzyme and multiple species are discussed. 
+
+
+PMID- 56
+TI  - Kinetic light scattering studies on the dissociation of hemoglobin from Lumbricus terrestris.
+AB  - The kinetics of the pH-induced dissociation of the 3 X 10(6) mol wt hemoglobin from Lumbricus terrestris (the earthworm) have been studied in a light-scattering stopped-flow apparatus. The ligand dependent dissociation data were fit well by a simple sequential model. The data for CO and oxyhemoglobin are consistent with Hb12 leads to 2Hb6 leads to 12Hb. Methemoglobin at pH 7 appears to be hexameric and the dissociation is consistent with the model: Hb6 leads to 6Hb. In a sequential decay scheme for which light-scattering changes are monitored, the relative amounts of rapid and slow phase are determined by the rate constants as well as the molecular weights of intermediate species. Assignment of the hexameric intermediate is supported by an investigation of the sensitivity of the theoretical kinetic curves to the molecular weights of the intermediates. This assignment is further supported by the following: (1) the same model will fit the data for oxy- and CO-hemoglobin at all three temperatures (a 24-29-fold variation in rate constants), (2) evidence from electron microscopy shows hexameric forms, and (3) methemoglobin is apparently stable as a hexamer at pH 7. When CO replaces O2 as the ligand, the dissociation rate increases by a factor of four. The met is about 20 times faster than the initial oxyhemoglobin dissociation rate, but perhaps more relevant for comparing dissociation of the hexamer, the met rate was respectively 100 times and 500 times faster than that for the assumed hexameric forms of CO- and oxy-hemoglobin. The activation energies for the dodecamer to hexamer dissociation and for the dissociation of the hexamer to smaller forms were about 30 kcal/mol for oxy-, CO-, and methemoglobin. 
+
+
+PMID- 57
+TI  - The reversible reduction of horse metmyoglobin by the iron(II) complex of trans-1,2-diaminocyclohexane-N,N,N,n-tetraacetate.
+AB  - The reduction of metmyoglobin by the iron(II) complex of trans-1,2-diaminocyclohexane-N,N,N'N'-tetraacetate (FeCDTA2-) has been investigated. The equilibrium constant, measured spectrophotometrically, is 0.21 with a resulting reduction potential of 0.050 V for Mb0. The rate constant for the reduction is 28 M-1 sec-1 with a deltaH ++ of 13 kcal M-1 and deltaS ++ of -11 eu. Both CN- and OH- inhibit the reduction because of the relatively low reactivity of cyanometmyoglobin (Mb+CN-) and ionized metmyglobin (Mb+OH-). The rate constant for the reduction of Mb+CN- by FeCDTA2- is 4.0 X 10(-2) M-1 sec-1 and that for reduction of Mb+OH- is 4.8 M-1 sec-1. The nitric oxide complex of metmyoglobin is reduced with a rate constant of 10 M-1 sec-1. The kinetics of oxidation of oxymyoglobin by FeCDTA- were studied. The data are consistent with a mechanism where oxidation takes place entirely through the deoxy form. A rate constant of 1.45 X 10(2) M-1 sec-1 was calculated for the oxidation of deoxymyoglobin by FeCDTA-, in equilibrium constant and rate constant for reduction. The above data are discussed in terms of a simple outer-sphere reduction reaction. 
+
+
+PMID- 58
+TI  - Constitution and properties of axonal membranes of crustacean nerves.
+AB  - The purification of axonal membranes of crustaceans was followed by measuring enrichment in [3H]tetrodotoxin binding capacity and in Na+, K+-ATPase activity. A characteristic of these membranes is their high content of lipids and their low content of protein as compared to other types of plasmatic membranes. The axonal membrane contains myosin-like, actin-like, tropomyosin-like, and tubulin-like proteins. It also contains Na+, K+-ATPase and acetylcholinesterase. The molecular weights of these two enzymes after solubilization are 280,000 and 270,000, respectively. The molecular weights of the catalytic subunits are 96,000 for ATPase and 71,000 for acetylcholinesterase. We confirmed the presence of a nicotine binding component in the axonal membrane of the lobster but we have been unable to find [3H]nicotine binding to crab axonal membranes. The binding to axonal membranes og of the sodium channel, has been studied in detail. The dissociation constant for the binding of [3H]tetrodotoxin to the axonal membrane receptor is 2.9 nM at pH 7.4. The concentration of the tetrodotoxin receptor in crustacean membranes is about 10 pmol/mg of membrane protein, 7 times less than the acetylcholinesterase, 30 times less than the Na+, K+-ATPase, and 30 times less than the nicotine binding component in the lobster membrane. A reasonable estimate indicates that approximately only one peptide chain in 1000 constitutes the tetrodotoxin binding part of the sodium channel in the axonal membrane. Veratridine, which acts selectively on the resting sodium permeability, binds to the phospholipid part of the axonal membrane. [3H]Veratridine binding to membranes parallels the electrophysiological effect. Veratridine and tetrodotoxin have different receptor sites. Although tetrodotoxin can repolarize the excitable membrane of a giant axon depolarized by veratridine, veratridine does not affect the binding of [3H]tetrodotoxin to purified axonal membranes. Similarly, tetrodotoxin does not affect the binding of [3H]veratridine to axonal membranes. Scorpion neurotoxin I, a presynaptic toxin which affects both the Na+ and the K+ channels, does not interfere with the binding of [3H]tetrodotoxin or [3H]veratridine to axonal membranes. Tetrodotoxin, veratridine, and scorpion neurotoxin I, which have in common the perturbation of the normal functioning of the sodium channel, act upon three different types of receptor sites. 
+
+
+PMID- 59
+TI  - Regulation of nitrogen fixation. Nitrogenase-derepressed mutants of Klebsiella pneumoniae.
+AB  - 1. A new procedure is described for selecting nitrogenase-derepressed mutants based on the method of Brenchley et al. (Brenchley, J.E., Prival, M.J. and Magasanik, B. (1973) J. Biol. Chem. 248, 6122-6128) for isolating histidase-constitutive mutants of a non-N2-fixing bacterium. 2. Nitrogenase levels of the new mutants in the presence of NH4+ were as high as 100% of the nitrogenase activity detected in the absence of NH4+. 3. Biochemical characterization of these nitrogen fixation (nif) derepressed mutants reveals that they fall into three classes. Three mutants (strains SK-24, 28 and 29), requiring glutamate for growth, synthesize nitrogenase and glutamine synthetase constitutively (in the presence of NH4+). A second class of mutants (strains SK-27 and 37) requiring glutamine for growth produces derepressed levels of nitrogenase activity and synthesized catalytically inactive glutamine synthetase protein, as determined immunologically. A third class of glutamine-requiring, nitrogenase-derepressed mutants (strain SK-25 and 26) synthesizes neither a catalytically active glutamine synthetase enzyme nor an immunologically cross-reactive glutamine synthetase protein. 4. F-prime complementation analysis reveals that the mutant strains SK-25, 26, 27, 37 map in a segment of the Klebsiella chromosome corresponding to the region coding for glutamine synthetase. Since the mutant strains SK-27 and SK-37 produce inactive glutamine synthetase protein, it is concluded that these mutations map within the glutamine synthetase structural gene. 
+
+
+PMID- 60
+TI  - The reaction between the superoxide anion radical and cytochrome c.
+AB  - 1. The superoxide anion radical (O2-) reacts with ferricytochrome c to form ferrocytochrome c. No intermediate complexes are observable. No reaction could be detected between O2- and ferrocytochrome c. 2. At 20 degrees C the rate constant for the reaction at pH 4.7 to 6.7 is 1.4-10(6) M-1. S -1 and as the pH increases above 6.7 the rate constant steadily decreases. The dependence on pH is the same for tuna heart and horse heart cytochrome c. No reaction could be demonstrated between O2- and the form of cytochrome c which exists above pH approximately 9.2. The dependence of the rate constant on pH can be explained if cytochrome c has pKs of 7.45 and 9.2, and O2- reacts with the form present below pH 7.45 with k = 1.4-10(6) M-1 - S-1, the form above pH 7.45 with k = 3.0- 10(5) M-1 - S-1, and the form present above pH 9.2 with k = 0. 3. The reaction has an activation energy of 20 kJ mol-1 and an enthalpy of activation at 25 degrees C of 18 kJ mol-1 both above and below pH 7.45. It is suggested that O2- may reduce cytochrome c through a track composed of aromatic amino acids, and that little protein rearrangement is required for the formation of the activated complex. 4. No reduction of ferricytochrome c by HO2 radicals could be demonstrated at pH 1.2-6.2 but at pH 5.3, HO2 radicals oxidize ferrocytochrome c with a rate constant of about 5-10(5)-5-10(6) M-1 - S-1. 
+
+
+PMID- 61
+TI  - Identification of the 120 mus phase in the decay of delayed fluorescence in spinach chloroplasts and subchloroplast particles as the intrinsic back reaction. The dependence of the level of this phase on the thylakoids internal pH.
+AB  - After a 500 mus laser flash a 120 mus phase in the decay of delayed fluorescence is visible under a variety of circumstances in spinach chloroplasts and subchloroplast particles enriched in Photosystem II prepared by means of digitonin. The level of this phase is high in the case of inhibition of oxygen evolution at the donor side of Photosystem II. Comparison with the results of Babcock and Sauer (1975) Biochim. Bio-phys. Acta 376, 329-344, indicates that their EPR signal IIf which they suppose to be due to Z+, the oxidized first secondary donor of Photosystem II, is well correlated with a large amplitude of our 120 mus phase. We explain our 120 mus phase by the intrinsic back reaction of the excited reaction center in the presence of Z+, as predicted by Van Gorkom and Donze (1973) Photochem. Photobiol. 17, 333-342. The redox state of Z+ is dependent on the internal pH of the thylakoids. The results on the effect of pH in the mus region are compared with those obtained in the ms region. 
+
+
+PMID- 62
+TI  - Light-induced changes of absorbance and electron spin resonance in small photosystem II particles.
+AB  - Photosystem II reaction center components have been studied in small system II particles prepared with digitonin. Upon illumination the reduction of the primary acceptor was indicated by absorbance changes due to the reduction of a plastoquinone to the semiquinone anion and by a small blue shifts of absorption bands near 545 nm (C550) and 685 nm. The semiquinone to chlorophyll ratio was between 1/20 and 1/70 in various preparations. The terminal electron donor in this reaction did not cause large absorbance changes but its oxidized form was revealed by a hitherto unknown electron spin resonance (ESR) signal, which had some properties of the well-known signal II but a linewidth and g-value much nearer to those of signal I. Upon darkening absorbance and ESR changes decayed together in a cyclic or back reaction which was stimulated by 3-(3,4 dichlorophenyl)-1,1-dimethylurea. The donor could be oxidized by ferricyanide in the dark. Illumination in the presence of ferricyanide induced absorbance and ESR changes, rapidly reversed upon darkening, which may be ascribed to the oxidation of a chlorophyll a dimer, possibly the primary electron donor of photosystem II. In addition an ESR signal with 15 to 20 gauss linewidth and a slower dark decay was observed, which may have been caused by a secondary donor. 
+
+
+PMID- 63
+TI  - Enzymic reactions of fatty acid hydroperoxides in extracts of potato tuber. II. Conversion of 9- and 13-hydroperoxy-octadecadienoic acids to monohydroxydienoic acid, epoxyhydroxy- and trihydroxymonoenoic acid derivatives.
+AB  - 1. Crude extracts and partially purified enzyme preparations from potato tubers catalyse, at pH 5-7, the conversion of linoleic acid hydroperoxides to a range of oxygenated fatty acid derivatives. 2. 9-D- and 13-L-hydroperoxide isomers are converted at similar rates to equivalent (isomeric) products. 3. The major products from the 13-hydroperoxide isomer were identified as the corresponding monohydroxydienoic acid derivative, threo-11-hydroxy-trans12,13-epoxy-octadec-cis9-enoic acid and 9,12,13-trihydroxy-octadec-trans10-enoic acid. The corresponding products from the 9-hydroperoxide were the monohydroxydienoic acid, 9,10-epoxy-11-hydroxy-octadec-12-enoic acid and 9,10,13-trihydroxy-octadec-11-enoic acid. 4. No separation of activities forming the different products was achieved by partial purification of enzyme extracts. 5. Product formation was unaffected by EDTA, CN-, sulphydryl reagents or glutathione but was reduced by boiling the extracts. 6. This system is compared with the 9-hydroperoxide-specific enzymic formation of divinyl ether derivatives by potato extracts. 
+
+
+PMID- 64
+TI  - Partial purification and properties of microsomal phosphatidate phosphohydrolase from rat liver.
+AB  - Microsomal phosphatidate phosphohydrolase (phosphatidate phosphatase EC 3.1.3.4) was solubilized and fractionated to yield at least two distinct enzymatically active fractions. One, denoted FA, was non-specific, had a relatively high Km for phosphatidic acid and was insensitive to inhibition by diacylglycerol. The second fraction, FB, was specific for phosphatidates, had a low Km, and was inhibited, non-competitively, by diacylglycerol. FA exhibited a sigmoid substrate-activity curve. The isolated FB aggregated to particles of about 10(6) in the absence of salts and could be dissociated by the addition of monovalent cations at ionic strength 0.4-0.6 to about 2-10(5) daltons and thereby doubled its activity. Dissociation was time- and temperature-dependent. F- was inhibitory. Divalent ions were not required for the activity of FA or FB and inhibited at concentrations exceeding 1 mM. 
+
+
+PMID- 65
+TI  - Bile acids. XLVII. 12alpha-Hydroxylation of precursors of allo bile acids by rabbit liver microsomes.
+AB  - Rabbit liver microsomal preparations fortified with 0.1 mM NADPH effectively promote hydroxylation of [3beta-3H]- or [24-14C]allochenodeoxycholic acid or [5alpha,6alpha-3H2]5alpha-cholestane-3alpha,7alpha-diol to their respective 12alpha-hydroxyl derivatives in yields of about 25 or 65% in 60 min. Minor amounts of other products are formed from the diol. The requirements for activity of rabbit liver microsomal 12alpha-hydroxylase resemble those of rat liver microsomes. Of a number of enzyme inhibitors studied only p-chloromercuribenzoate demonstrated a marked ability to inhibit the reaction with either tritiated substrate. There was no difference in the quantity of product produced from the tritiated acid or the 14C-labeled acid. No clear sex difference was found in activity of the enzyme, nor was an appreciable difference noted in activity of the enzyme between mature and immature animals. 
+
+
+PMID- 66
+TI  - Partial purification and properties of a phenobarbital-induced aldehyde dehydrogenase of rat liver.
+AB  - Properties of the phenobarbital induced cytoplasmic aldehyde dehydrogenase (EC 1.2.1.3) have been studied in rat liver. 7-12-Fold higher levels were seen in the cytoplasmic activities after phenobarbital treatment in reactor compared to non-reactor animals with high concentrations of acetaldehyde (18 mM) and propionaldehyde (9 mM). No difference was found with 0.12 mM acetaldehyde, 2 mM glycolaldehyde, 6 mM formaldehyde or 0.5 mM betaine aldehyde. The reactor group also had slightly higher activity in the mitochondrial fraction with the high acetaldehyde and propionaldehyde concentrations. In the microsomal fraction, the activities showed no differences at any substrate concentration. An induced aldehyde dehydrogenase was purified 70-fold by chromatographic techniques. It had different molecular and enzymic properties than the main high-Km enzyme normally present in rat liver cytoplasm. The pI of the induced enzyme was about 7.0 as measured by isoelectric focusing. It was active with several aliphatic and aromatic aldehydes but not with formaldehyde, glycolaldehyde or D-glyceraldehyde. The Km-values for propionaldehyde and acetaldehyde were in the millimolar range. Millimolar concentrations of aromatic aldehydes caused a strong substrate inhibition. The enzyme was inhibited by submicromolar concentrations of disulfiram. Estrone, deoxycorticosterone, progesterone and diethylstilbestrol also affected the enzyme activity. 
+
+
+PMID- 67
+TI  - Cholinesterases from plant tissues. VI. Preliminary characterization of enzymes from Solanum melongena L. and Zea mays L.
+AB  - Enzymes capable of hydrolyzing esters of thiocholine have been assayed in extracts of Solanum melongena L. (eggplant) and Zea Mays L. (corn). The enzymes from both species are inhibited by the anti-cholinesterases neostigmine, physostigmine, and 284c51 and by AMO-1618, a plant growth retardant and they both have pH optima near pH 8.0. The enzyme from eggplant is maximally active at a substrate concentration of 0.15 mM acetylthiocholine and is inhibited at higher substrate concentrations. On the basis of this last property, the magnitude of inhibition by the various inhibitors, and the substrate specificity, we conclude that the enzyme from eggplant, but not that from corn, is a cholinesterase. 
+
+
+PMID- 97
+TI  - Hydrogen peroxide and iron: a microbial cellulolytic system?
+
+
+PMID- 98
+TI  - Microbial sources of cellulase.
+
+
+PMID- 99
+TI  - Mannosidosis: clinical and biochemical findings.
+
+
+PMID- 100
+TI  - Bovine mannosidosis--a model lysosomal storage disease.
+
+
+PMID- 101
+TI  - Ehlers-Danlos type V (X-linked form): a lysyl oxidase deficiency.
+
+
+PMID- 102
+TI  - Urinary alpha-L-fucosidase.
+
+
+PMID- 108
+TI  - Symposium on malaria research.
+
+
+PMID- 109
+TI  - 6th International Symposium on Maritime Medicine 1974.
+
+
+PMID- 110
+TI  - Polypsychopharmacy.
+
+
+PMID- 111
+TI  - [Oxygen affinity of haemoglobin (author's transl)].
+
+
+PMID- 112
+TI  - PH changes on the surface of burns.
+
+
+PMID- 113
+TI  - Proceedings: The effects of glucagon on the hepatic arterial vasculature of the dog: an inhibition of the effects of vasoconstrictor agents.
+
+
+PMID- 114
+TI  - Proceedings: Central hypertensive action of histamine in rats.
+
+
+PMID- 115
+TI  - Proceedings: Response of identified ventromedial hypothalamic nucleus neurons to putative neurotransmitters applied by microiontophoresis.
+
+
+PMID- 116
+TI  - Proceedings: The mechanism of "adrenaline reversal" in the anaesthetized cat and rabbit.
+
+
+PMID- 117
+TI  - Proceedings: Is ATP an inhibitory neurotransmitter in the rat stomach.
+
+
+PMID- 118
+TI  - Proceedings: Comparison of the effects of selective alpha and beta-receptor agonists on intracellular cyclic AMP levels and glycogen phosphorylase activity in guinea-pig liver.
+
+
+PMID- 119
+TI  - Proceedings: The role of dopamine in rotational behaviour produced by unilateral lesions of the locus coeruleus.
+
+
+PMID- 120
+TI  - Proceedings: Do anti-psychotic drugs act by dopamine receptor blockade in the nucleus accumbens.
+
+
+PMID- 121
+TI  - Proceedings: Evaluation of narcotic and narcotic antagonist analgesic drugs in the dog dental pulp stimulation test.
+
+
+PMID- 122
+TI  - Meso-appendicular testis.
+
+
+PMID- 126
+TI  - Phobias complicating treatment of uterine carcinoma.
+
+
+PMID- 127
+TI  - Editorial: Childhood poisoning: prevention and first-aid management.
+
+
+PMID- 130
+TI  - Uptake of radiolabeled glucose analogues by organotypic pia arachnoid cultures.
+
+
+PMID- 131
+TI  - Processing of tRNA precursors in higher organisms.
+
+
+PMID- 144
+TI  - Isolation and characterization of an unsubstituted 2,3-unsaturated sugar, trans-2,3-dideoxy-D-glycero-pent-2-enose, produced by thermal dehydration of 2-deoxy-D-erythro-pentose.
+
+
+PMID- 145
+TI  - Prophylactic antiarrhythmic drug therapy in acute myocardial infarction.
+
+
+PMID- 146
+TI  - [Influence of beta-blocking agents on experimental atherosclerosis of cocks (author's transl)].
+
+
+PMID- 147
+TI  - Cytotoxic interaction between gorgonian explants: mode of action.
+
+
+PMID- 163
+TI  - Measurement of total alkaline phosphatase activity in human serum.
+
+
+PMID- 164
+TI  - Problems associated with the determination of arylsulfatase A and B using nitrocatechol sulfate substrate.
+
+
+PMID- 166
+TI  - [Inborn error of glycolipid metabolism].
+
+
+PMID- 169
+TI  - Some pharmacologic aspects of the antihistamines. A survey of current clinical applications.
+
+
+PMID- 172
+TI  - Meal to pellet intervals in 14 species of captive raptors.
+
+
+PMID- 174
+TI  - Studies on the lipid content of pigeon breast muscle.
+
+
+PMID- 173
+TI  - Secretion of sulfuric acid in Cassidaria echinophora Lamarck (Mollusca: Mesogastropoda, marine carnivorous snail).
+
+
+PMID- 175
+TI  - Seasonal variation in diet, volatile fatty acid production and size of the cecum of roch ptarmigan.
+
+
+PMID- 176
+TI  - The auditory system of the goldfish (Carassius auratus): effects of intense acoustic stimulation.
+
+
+PMID- 177
+TI  - Volatile fatty acids and metabolizable energy derived from cecal fermentation in the willow ptarmigan.
+
+
+PMID- 178
+TI  - A comparison of intestinal amino acid absorption in various avian and mammalian species.
+
+
+PMID- 179
+TI  - Holeuryhalinity and its mechanisms in a cirriped crustacean, Balanus improvisus.
+
+
+PMID- 180
+TI  - A comparative study on the regulation of osmotic, ionic and organic-solute concentrations in the blood of aquatic organisms.
+
+
+PMID- 182
+TI  - The respiratory quotient of Gammarus pulex L.
+
+
+PMID- 181
+TI  - Aestivation and thermoregulation in the Texas tortoise, Gopherus berlandieri.
+
+
+PMID- 183
+TI  - Water balance of small lactating rodents--II. Concentration and composition of milk of females on ad libitum and restricted water intakes.
+
+
+PMID- 184
+TI  - Insect morphogenetic hormones and developmental mechanisms in the nematode, Nematospiroides dubius.
+
+
+PMID- 185
+TI  - Osmotic interrelationship between blood and gut fluid in the isopod Porcellio scaber Latr. (Crustacea).
+
+
+PMID- 186
+TI  - Effects of thermal stimulation to the spinal cord on heart rate in cyprinid fishes.
+
+
+PMID- 187
+TI  - The long-term monitoring of ventilation rhythms of the polychaetous annelid Nereis virens sars.
+
+
+PMID- 188
+TI  - Diving bradycardia in four species of North American aquatic snakes.
+
+
+PMID- 189
+TI  - Respiratory responses of Gillichthys mirabilis to changes in temperature, dissolved oxygen and salinity.
+
+
+PMID- 190
+TI  - The pronephroi as the site of presumptive interrenal cells in the hagfish Myxine glutinosa L.
+
+
+PMID- 191
+TI  - Excreta analysis on additional cockroach species and the house cricket.
+
+
+PMID- 192
+TI  - Interrelationships between water and metabolism in Artemia cysts--II. Carbohydrates.
+
+
+PMID- 193
+TI  - Interrelationships between water and metabolism in Artemia cysts--III. Respiration.
+
+
+PMID- 194
+TI  - Studies on avian erythrocyte metabolism--I. Procedure for separation and quantitation of the major phosphorylated metabolic intermediates by anion exchange chromatography.
+
+
+PMID- 196
+TI  - Evaluation of amplitude and frequency changes of miniature potentials with a poor signal-to-noise ratio.
+
+
+PMID- 195
+TI  - Effect of different prostaglandins on the permeability of the toad urinary bladder.
+
+
+PMID- 197
+TI  - Practolol, caffeine and calcium in the regulation of mechanical activity of the cardiac ventricle in Myxine glutinosa (L.).
+
+
+PMID- 198
+TI  - Asymmetric distribution of aspartate in ganglia and single neurons of Aplysia.
+
+
+PMID- 199
+TI  - Electrophysiological actions of convulsants and anticonvulsants on neurons of the leech subesophageal ganglion.
+
+
+PMID- 200
+TI  - The relative importance of monoamine oxidase and catechol-O-methyl transferase on the physiologic response to administered norepinephrine in the turkey.
+
+
+PMID- 201
+TI  - The cardiac cycle and the effects of neurohumors on myocardial contractility in the Asiatic eel Anguilla japonica, Timm. & Schle.
+
+
+PMID- 202
+TI  - Characteristics of the noradrenergic innervation of the left atrium in the chick (Gallus gallus domesticus, L.).
+
+
+PMID- 203
+TI  - Responsiveness of neurogenic hearts to octopamine.
+
+
+PMID- 204
+TI  - Action of kainic acid on a glutamatergic synapse.
+
+
+PMID- 205
+TI  - The effects of 5-hydroxytryptamine depletors and monoamine oxidase inhibitors on color changes of the fiddler crab, Uca pugilator: further evidence in support of the hypothesis that 5-hydroxytryptamine controls the release of red pigment-dispersing hormone.
+
+
+PMID- 206
+TI  - Evidence of a gastrin-like substance in Rhinobatus productus.
+
+
+PMID- 207
+TI  - 5-hydroxytryptamine as a possible inhibitory neurotransmitter in the central nervous system of the leech, Haemopis sanguisuga.
+
+
+PMID- 208
+TI  - Gastrin-like activity in an Indian python.
+
+
+PMID- 209
+TI  - Kinetics of antibody--hapten reactions.
+
+
+PMID- 210
+TI  - Influence of pH and hypoxia on the success of defibrillation.
+AB  - Clinical impressions about the problem of defibrillation during states of acid-base imbalance and hypoxia have been influenced by studies involving the effect of these derangements on the ventricular fibrillation threshold. Based on body weight, energy requirements for defibrillation in normal dogs were compared to requirements in dogs subjected to commonly encountered acid-base disturbances and severe hypoxemia. No significant differences were found. Seventy-five percent of all animals in the study were electrically converted with low-to-moderate levels of energy. The incidence of spontaneous resumption of circulation following defibrillation was lowest in animals subjected to metabolic acidosis and hypoxia. The results suggest that pH and blood gas alterations, previously shown to influence the normal ventricular fibrillation threshold, do not significantly affect the normal defibrillation threshold. 
+
+
+PMID- 211
+TI  - Effects of maleate on renal reabsorption of bicarbonate.
+
+
+PMID- 212
+TI  - Bicarbonate inhibition of rat kidney aconitate hydratase isoenzymes.
+
+
+PMID- 213
+TI  - Metabolic studies in experimental renal dysfunction resulting from maleate administration.
+
+
+PMID- 214
+TI  - Multiple endocrine adenomatosis-I and II.
+
+
+PMID- 215
+TI  - A randomized double-blind study of timolol in patients with essential hypertension.
+
+
+PMID- 216
+TI  - [Observation of permanent teeth adjacent to teeth damaged by trauma].
+
+
+PMID- 217
+TI  - Idiopathic hypertrophic subaortic stenosis (hypertrophic obstructive cardiomyopathy) changing concepts-1975.
+
+
+PMID- 218
+TI  - Pleural effusion associated with aortitis syndrome.
+AB  - A patient with aortitis syndrome had a pleural effusion which subsided but reappeared with an exacerbation of aortitis symptoms while under antituberculosis treatment. The character of the fluid was that of an exudate, and the glucose concentration was normal. Clinical and laboratory features of the case suggest that the effusion was part of the aortitis syndrome per se. 
+
+
+PMID- 219
+TI  - The metabolic fate of securinine.
+
+
+PMID- 220
+TI  - [Transplantation and preservation of tissue-typized skin in burns].
+AB  - At the Department of Plastic Surgery and Burns, Berufsgenossenschaftliche Unfalklinik Ludwigshafen-Oggersheim, a skinbank with typed skin has been established. The storage system consists of deep-freezing at -196 degrees C in liquid nitrogen. The transplantation of HL-A typed skin was evaluated from the clinical and histological point of view. Due to the effort necessary for such an undertaking this method is critically reviewed. 
+
+
+PMID- 221
+TI  - [Polyploidization and fusion of insect cells exposed to concanavalin A].
+
+
+PMID- 222
+TI  - [Ability of antilymphocyte sera to counteract the allogeneic inhibition of hematopoietic stem cells].
+
+
+PMID- 223
+TI  - [Microenvironment of enzymes as 1 of the factors determining enzyme stability. Stabilization of soluble and immobilized horseradish peroxidase].
+
+
+PMID- 224
+TI  - [3d regional meeting of the specialty field of supervisory nurses in Baden-Wurttemberg, Northern Group. June 25, 1975 in district hospital Heidenheim].
+
+
+PMID- 225
+TI  - [Adverse effects of anti-epileptic drugs].
+
+
+PMID- 226
+TI  - Charge properties of human pituitary and amniotic fluid prolactins.
+AB  - The apparent isoelectric points (pI) in isoelectric focusing (IF) of human pituitary and amniotic fluid prolactin (hPRL), both non-iodinated and iodinated, were determined. Unresolved mixtures of pituitary hPRL isohormones E and F, and of at least five isohormones found in amniotic fluid, and plasma hPRL exhibit an average pI value of 6.5 - 6.7. Transient state pH values observed or previously reported for hPRL components range from pH 5.9 to 6.8 after correction to standard conditions. At pH 8.1, the major isohormone, hPRL-F, carriers a charge of 2.2 net protons per molecule. The net charge differences among isohormones E, F and G are compatible with acquisition or loss of single charged groups per 20,000 molecular weight. This net charge is similar to that of the least prolactin-bioactive major isohormone of human growth hormone (hGH-B), while the hGH with a bioactivity comparable to that of hPRL exhibits a net charge of 3.4 valence units. The "large" isohormones J and H increased net charges, by a factor of 2-3, in direct proportion to their size increments. 
+
+
+PMID- 227
+TI  - Human and monkey prolactin and growth hormone: separation of polymorphic forms by isoelectric focusing.
+AB  - The feasibility of using isoelectric focusing for the separation of primate pituitary growth hormone from prolactin and for the characterization of polymorphic forms of these hormones was explored. In a pH 3--10 gradient, extracts of both human and cynomolgus monkey pituitaries were each resolved into 4 growth hormone components and at least 3 prolactin components, as shown by radioimmunoassay. In narrower gradients (of 2--3 pH units) greater resolution was achieved; the principal growth hormone components were well separated from the principal prolactin components but there was overlapping of some minor components. A partially purified human prolactin preparation was found to contain 4 prolactin components, one of which had a prolactin/growth hormone ratio of 760. Clinical grade human growth hormone was also resolved into at least 5 prolactin and 5 growth hormone components, many of which had higher pI values than those found in pituitary extract. Under the conditions used, both growth hormone and prolactin were found to be polymorphic with respect to isoelectric point. Some of the human prolactin components were found to contain less than 0.2% growth hormone by radioimmunoassay. Monkey growth hormone containing 0.01% prolactin was isolated. These findings demonstrate that isoelectric focusing is useful for the preparation of both growth hormone and prolactin which are essentially free of one another. Furthermore, the polymorphic forms were repeatedly found in preparations obtained by several methods and from 2 different species, suggesting that these forms are not artifacts. 
+
+
+PMID- 228
+TI  - The interaction of SO2 with proteins.
+
+
+PMID- 229
+TI  - Ecological observation of the 137Cs-contamination in beef of animals from the southern-Bavarian area.
+AB  - Certain climatic and edaphic conformations in the Bavarian sub-alpine mountains and in the Alps favor above all the development of a land utilization system and farm structures similar to those in the northern part of Scandinavia. In 1963/64, the years of the highest environmental contamination up to the present, we established in 600 beef samples from the round or shoulder of male and female cattle (mainly Highland cattle) close connections between the 137Cs-contamination of green crop and the long lastnig yearly precipitation quantities, as well as certain relations between the 137Cs-contamination of meat and differences in the feeding and keeping of the animals. During summer-seasons (April-October), beef of cattle from pastures with heavy rainfall (Alps) was contaiminated by 137Cs up to 15 times more than that of confined animals. Hereby the rate of 137Cs-contamination in the meat of grazing cattle was nearly proportional to the quantities of precipitation. When confined cattle were fed on pastures in autumn after harvesting for 2 to 3 weeks, a quick increase of 137Cs-contamination of the meat was caused within this time up to values which in this district were otherwise only observed in grazing cattle. The lower 137Cs-content in meat of cattle housed during the summer season is due to the more varied fodder, which is at that time less contaminated than green crop. During the winter season (November to March), the highest contaminations in the meat of confined (Bohemian Forest) or grazing cattle (Alps) was measured when the animals in these districts were almost exclusively fed with fodder from the own farmground or with leafy silage. The highest contamination was almost regularly noticed in January, February and March, as generally during these months the highly contaminated first cut hay is fed. Here the meat was often even more contaminated than that of grazing cattle. After the quick decrease of 137Cs in fallout noticed in the years 1964 and 1965, in 1965/66 a dependance in the 137Cs-contamination of beef on the methods of keeping and feeding could still be observed in only the extreme cases (Alps, Bavarian- and Bohemian Forest); though in general, meat of animals from districts with heavy rainfall was slightly more contaminated than meat of animals from regions with less precipitation. 
+
+
+PMID- 230
+TI  - Liver microsomal beta-glucuronidase and UDP-glucuronyltransferase.
+AB  - Both UDP-glucuronyltransferase (GT) and beta-glucuronidase (betaG) were assayed in untreated liver microsomes. Optimum assay conditions were established with rat liver microsomes using p-nitrophenol (pNP) and its glucuronide (pNPGA) at the pH optima of GT (7.5) and betaG (4.5). The activities of the two enzymes were compared using microsomes from rats, mice, pigs, cattle and horses, with pNP, pNPGA, and phenolphthalein as substrate, in the presence of various cofactors and inhibitors at pH 7.5 and 4.5. These data disclose pronounced differences with respect to species, substrate and other experimental conditions, thereby precluding the establishment of general optimum conditions. The two enzymes were also assayed under strictly identical conditions using pNP and pNPGA and rat liver microsomes at pH 7.5 in the presence and absence of UDP-glucuronate disodium (UDPGA), activators (ATP;UDP-N-acetylglucosamine) and inhibitors. When provided with a functional level of UDPGA, both enzymes proved active under those conditions, and a conjugation-deconjugation interplay was indicated. The two processes could be selectively and totally inhibited by Zn2+ and saccharolactone. The results suggest that conjugation-deconjugation-reconjugation cycles may be operative in the metabolism of drugs in vivo, taking place already at the level of the liver endoplasmic reticulum. 
+
+
+PMID- 231
+TI  - Biochemical aspects of renal ammonia formation in metabolic acidosis.
+AB  - In omnivorous creatures, the diet is acidogenic, especially as a result of the meat content, which gives rise to phosphoric and sulphuric acids, i.e., to metabolic acidosis. In the short term, metabolic acids are buffered by tissue proteins and bicarbonate (the 'alkali reserve'). In the longer term, acid must be excreted, or neutralized with base which is also generated from the diet, by conversion of dietary amino-nitrogen to ammonia. The final steps of this process occur in the kidney, which converts circulating glutamine to ammonia, and to carbon products such as glucose and carbon dioxide, by metabolic reactions which adapt during acidosis to generate more ammonia and maintain an increased renal ammonia content. The complex mechanisms which govern the formation of ammonia, glucose and carbon dioxide from glutamine, involving the reactions of amino acids, the tricarboxylic acid cycle, and gluconeogenesis, are reviewed. 
+
+
+PMID- 232
+TI  - Studies on the mechanism of the changes in serum and liver gamma-glutamyl transpeptidase activity. I. Experimental extrahepatic cholestasis in rabbits.
+AB  - Serum, liver and renal gamma-glutamyl transpeptidase (GGT) activities were studied in four groups of rabbits: controls, rabbits with obstructive extrahepatic cholestasis, rabbits with obstructive anuria, and animals with combined obstructive extrahepatic cholestasis and obstructive anuria. Serum GGT was essentially increased in rabbits with obstructive extrahepatic cholestasis, showing peak values in the combined cholestasis + obstructive anuria group, and practically normal values in animals with anuria. Liver GGT was increased in both cholestasis groups, but the increase was less prominent than the increase in serum GGT and there was no correlation between them. In both anuric groups renal GGT was reduced, probably as a result of inhibited enzyme synthesis secondary to the altered conditions for adequate renal function. The results obtained are suggestive of a probable renal involvement in the formation of the serum GGT activity level. 
+
+
+PMID- 233
+TI  - Studies on the mechanism of the changes in serum and liver gamma-glutamyl transpeptidase activity. II. Experimental hexachlorobenzene porphyria in rabbits.
+AB  - The mechanism responsible for the changes in serum and liver gamma-glutamyl transpeptidase (gamma-GT) activity was studied in a model of experimental hexachlorobenzene porphyria in rabbits. Porphyria followed the administration of hexachlorobenzene in doses of 280 mumol - kg-1 body weight, which were given daily through a gastric tube over a 20-day period. Serum gamma-GT activity and the activities of the lysosomal enzymes beta-N-acetylglucosaminidase and alpha-mannosidase were increased, whereas L-aspartate: 2-oxoglutarate aminotransferase and L-alanine: 2-oxoglutarate aminotransferase and L-alanine: 2-oxoglutarate aminotransferase remained unaltered. There was a considerable increase in liver microsomal protein, gamma-GT, cytochrome P-450, anilinehydroxylase, aminopyrine-demethylase and delta-aminolevulinic acid synthase. In the liver gamma-GT was detected in the microsomes as well as in the cytoplasm where enzymatic activity was higher. The high correlation coefficient between liver gamma-GT, cytochrome P-450 and delta-aminolevulinic acid synthase witnesses a hexachlorobenzene-induced gamma-GT formation in the liver. A statistically significant correlation between serum and liver gamma-GT activity was also found. These data strongly suggest that the increase in serum gamma-GT activity may result from the induction of the enzyme in the liver. 
+
+
+PMID- 234
+TI  - Changes in erythrocyte 2,3 diphosphoglycerate in women following short term maximal exercise.
+AB  - 15 untrained women were subjected to a walking treadmill test to determine the influence of maximal exercise upon synthesis of erythrocyte 2,3 DPG. Although there was a 9.8% increase in the 2,3 DPG content following exercise, there was a concomitant 9.4% increase in the hemoglobin level; therefore, when 2,3 DPG is expressed as a ratio to hemoglobin (See Article), there was no significant change as a result of exercise stress. It was suggested that three additive factors produced during strenuous exercise; decreased pH; increased hemoglobin concentration; and increased CO2 production result in by-product inhibition of 2,3 DPG synthesis. It is concluded that 2,3 DPG does not provide a physiologic benefit in the adaptation of the oxygen transport system to exercise. 
+
+
+PMID- 242
+TI  - Formation of fertilization acid by sea urchin eggs does not require specific cations.
+
+
+PMID- 243
+TI  - Primary culture of parenchymal liver cells on collagen membranes. Morphological and biochemical observations.
+
+
+PMID- 244
+TI  - Cell transformation in isolated striated muscle of hydromedusae independent of DNA synthesis.
+
+
+PMID- 245
+TI  - Induction of DNA synthesis by dichloroisoproterenol without initial rise of the cAMP level in the parotid gland of mouse.
+
+
+PMID- 246
+TI  - Cell density-dependent stimulation of glutamine synthetase activity in cultured mouse teratoma cells.
+
+
+PMID- 247
+TI  - Polyadenylation of nascent RNA during the embryogenesis of Ilyanassa obsoleta.
+
+
+PMID- 248
+TI  - The effect of environmental pH upon acid hydrolase activities of cultured human diploid fibroblasts.
+
+
+PMID- 249
+TI  - Enucleation of cells by density gradient centrifugation.
+
+
+PMID- 252
+TI  - [Cryptorchism].
+
+
+PMID- 253
+TI  - [Elements of scientific work organization in ambulance feldshers' functions].
+
+
+PMID- 254
+TI  - [Participation of feldshers and midwives in the secret and partisan activities during the great patriotic war].
+
+
+PMID- 255
+TI  - [The organization of health education meetings, verbal reports, carnivals, reader's conferences].
+
+
+PMID- 256
+TI  - [Problems concerning the training of feldshers in foreign countries].
+
+
+PMID- 258
+TI  - Response to exogenous gonadotropins in the unresponsive ovary syndrome.
+
+
+PMID- 259
+TI  - A comparative study of metal and plastic (Karman) cannulae for first trimester abortion by suction curettage.
+
+
+PMID- 260
+TI  - Acute bacterial myositis following septic abortion. An unusual complication.
+
+
+PMID- 261
+TI  - The binding of substrates and inhibitors to dihydrofolate reductase.
+
+
+PMID- 262
+TI  - Euglena gracilis deoxyribonucleic acid polymerases: subcellular locations and variations during the cell cycle.
+
+
+PMID- 263
+TI  - Monomer complexes of polyadenylic acid.
+
+
+PMID- 264
+TI  - 5-Carbamoylmethyluridine: a new minor nucleoside of transfer ribonucleic acid.
+
+
+PMID- 265
+TI  - The protective effects of cephaloridine on rat kidney lysosomes in vitro.
+
+
+PMID- 266
+TI  - [In vitro studies on human ovarian contractility (author's transl)].
+
+
+PMID- 267
+TI  - [Studies on the energy for sperm motility (author's transl)].
+
+
+PMID- 268
+TI  - Properties of urophysial proteins (urophysins) from the white sucker, Catostomus commersoni.
+
+
+PMID- 269
+TI  - Glutamine synthetase in newborn mice homozygous for lethal albino alleles.
+
+
+PMID- 272
+TI  - [Extrabronchial effects of Bronchodilat in patients with asthma and chronic asthmatic bronchitis].
+
+
+PMID- 275
+TI  - [Allogenic bone marrow transplantation in men].
+
+
+PMID- 25462151
+TI  - Big biological data: challenges and opportunities.
+
+
+PMID- 25462181
+TI  - Toxocara canis-associated visceral larva migrans of the liver.
+
+
+PMID- 25462182
+TI  - B-type natriuretic peptide in infective endocarditis.
+
+
+PMID- 25462321
+TI  - [Outbreak of hepatitis A in a preschool--fresh seroprevalence data needed].
+
+
+PMID- 25462432
+TI  - Response to the Editor: "Fractional exhaled nitric oxide-guided algorithm for children with allergic asthma".
+
+
