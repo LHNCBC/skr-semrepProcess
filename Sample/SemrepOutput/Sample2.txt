@@ -673,7 +673,117 @@ SE|25462144|CONCLUSIONS|ab|8|entity|C0011117|Decompression, external|phpr|||deco
 SE|25462144|CONCLUSIONS|ab|8|entity|C0037925|Spinal Cord|bpoc|||spinal cord|||0|1000|1668|1679
 
 
-[6]: *** ERROR *** ERROR *** ERROR ***
+SE|25462145||ti|1|text|21|136|Train-of-four test in intraoperative neurophysiologic monitoring: differences between hand and foot train-of-four.
+SE|25462145||ti|1|entity|C0205450|Four|qnco|||four|||0|888|30|34
+SE|25462145||ti|1|entity|C0039593|Testing|resa|||test|||0|888|35|39
+SE|25462145||ti|1|entity|C0430853|Intraoperative neurophysiological monitoring|diap|||intraoperative neurophysiologic monitoring|||0|966|43|85
+SE|25462145||ti|1|entity|C1547020|*Difference|qnco|||differences|||0|966|87|98
+SE|25462145||ti|1|entity|C0018563|Hand|bpoc|||hand|||0|1000|107|111
+SE|25462145||ti|1|entity|C0016504|Pes|bpoc|||foot|||0|791|116|120
+SE|25462145||ti|1|entity|C0205450|Four|qnco|||four|||0|791|130|134
+
+SE|25462145|PURPOSE|ab|1|text|142|376|PURPOSE: Comparison of T1-T4 decrement between upper and lower extremity muscles can indicate differences between recovery time from neuromuscular blockade, which may have repercussions for neurophysiologic intraoperative monitoring.
+SE|25462145|PURPOSE|ab|1|entity|C1285529|Purpose|ftcn|||PURPOSE|||0|1000|142|149
+SE|25462145|PURPOSE|ab|1|entity|C1442881|SLC25A4 protein, human|aapp,bacs|291|SLC25A4|T1-T4|||0|623|165|170
+SE|25462145|PURPOSE|ab|1|entity|C0040165|Thyroxine|aapp,horm,phsu|291|SLC25A4|T1-T4|||0|623|165|170
+SE|25462145|PURPOSE|ab|1|entity|C1282910|Upper|spco|||upper|||0|1000|189|194
+SE|25462145|PURPOSE|ab|1|entity|C0023216|Lower Extremity|blor|||lower extremity|||0|901|199|214
+SE|25462145|PURPOSE|ab|1|entity|C0026845|Muscle|tisu|||muscles|||0|901|215|222
+SE|25462145|PURPOSE|ab|1|entity|C1547020|*Difference|qnco|||differences|||0|966|236|247
+SE|25462145|PURPOSE|ab|1|entity|C0237820|Recovery|orgf|||recovery|||0|888|256|264
+SE|25462145|PURPOSE|ab|1|entity|C0040223|Time|tmco|||time|||0|888|265|269
+SE|25462145|PURPOSE|ab|1|entity|C0234119|Neuromuscular inhibition|dsyn|||neuromuscular blockade|||0|1000|275|297
+SE|25462145|PURPOSE|ab|1|entity|C0079637|Monitoring, Intraoperative|diap|||intraoperative monitoring|||0|901|349|374
+
+SE|25462145|PURPOSE|ab|2|text|376|493|We investigated decrement between T1 and T4 hand and foot muscle responses on quantitative train-of-four (TOF) test.
+SE|25462145|PURPOSE|ab|2|entity|C0018563|Hand|bpoc|||hand|||0|888|420|424
+SE|25462145|PURPOSE|ab|2|entity|C0016504|Pes|bpoc|||foot|||0|851|429|433
+SE|25462145|PURPOSE|ab|2|entity|C0026845|Muscle|tisu|||muscle|||0|851|434|440
+SE|25462145|PURPOSE|ab|2|entity|C0871261|response|clna|||responses|||0|851|441|450
+SE|25462145|PURPOSE|ab|2|entity|C0392762|Quantitative|qnco|||quantitative|||0|737|454|466
+SE|25462145|PURPOSE|ab|2|entity|C0205450|Four|qnco|||four|||0|737|476|480
+SE|25462145|PURPOSE|ab|2|entity|C0039593|Testing|resa|||test|||0|737|487|491
+
+SE|25462145|METHODS|ab|3|text|493|714|METHODS: Study analyzed differences between recovery of foot, abductor hallucis muscle, and hand, first dorsal interosseous muscle, by application of quantitative TOF test on 147 patients undergoing lumbar spine surgery.
+SE|25462145|METHODS|ab|3|entity|C0025663|Methods|inpr|||METHODS|||0|1000|493|500
+SE|25462145|METHODS|ab|3|entity|C1515960|Analyzed|qlco|||analyzed|||0|872|508|516
+SE|25462145|METHODS|ab|3|entity|C1547020|*Difference|qnco|||differences|||0|872|517|528
+SE|25462145|METHODS|ab|3|entity|C0237820|Recovery|orgf|||recovery|||0|1000|537|545
+SE|25462145|METHODS|ab|3|entity|C0016504|Pes|bpoc|||foot|||0|1000|549|553
+SE|25462145|METHODS|ab|3|entity|C0682592|Abductor muscle|tisu|||abductor hallucis muscle|||0|913|555|579
+SE|25462145|METHODS|ab|3|entity|C0018563|Hand|bpoc|||hand|||0|1000|585|589
+SE|25462145|METHODS|ab|3|entity|C1279901|Firstly|qlco|||first|||0|775|591|596
+SE|25462145|METHODS|ab|3|entity|C0205095|Dorsal|spco|||dorsal|||0|775|597|603
+SE|25462145|METHODS|ab|3|entity|C0026845|Muscle|tisu|||muscle|||0|775|617|623
+SE|25462145|METHODS|ab|3|entity|C0392762|Quantitative|qnco|||quantitative|||0|737|643|655
+SE|25462145|METHODS|ab|3|entity|C0205450|Four|qnco|||TOF|||0|737|656|659
+SE|25462145|METHODS|ab|3|entity|C0039593|Testing|resa|||test|||0|737|660|664
+SE|25462145|METHODS|ab|3|entity|C0030705|Patients|podg|||patients|||0|861|672|680
+SE|25462145|METHODS|ab|3|entity|C0408578|Lumbar spine operations NOS|topp|||lumbar spine surgery|||0|1000|692|712
+SE|25462145|METHODS|ab|3|relation|1|1|C0408578|Lumbar spine operations NOS|topp|topp|||lumbar spine surgery|||0|1000|692|712|VERB|TREATS||681|691|9|1|C0030705|Patients|podg,humn|podg|||patients|||0|861|672|680
+
+SE|25462145|METHODS|ab|4|text|714|901|T1 to T4 decrements on hand and foot TOF were obtained and classified into different groups, depending on elapsed time after administration of neuromuscular blocking agents and its dose.
+SE|25462145|METHODS|ab|4|entity|C0018563|Hand|bpoc|||hand|||0|872|737|741
+SE|25462145|METHODS|ab|4|entity|C0016504|Pes|bpoc|||foot|||0|791|746|750
+SE|25462145|METHODS|ab|4|entity|C0205450|Four|qnco|||TOF|||0|791|751|754
+SE|25462145|METHODS|ab|4|entity|C1547020|*Difference|qnco|||different|||0|853|789|798
+SE|25462145|METHODS|ab|4|entity|C0441833|Groups|inpr|||groups|||0|853|799|805
+SE|25462145|METHODS|ab|4|entity|C0040223|Time|tmco|||time|||0|861|828|832
+SE|25462145|METHODS|ab|4|entity|C0027866|Neuromuscular Blocking Agents|phsu|||neuromuscular blocking agents|||0|1000|857|886
+SE|25462145|METHODS|ab|4|entity|C1446466|Dose|qnco|||dose|||0|1000|895|899
+
+SE|25462145|RESULTS|ab|5|text|901|1007|RESULTS: There are significant differences between T1-T4 decrements obtained on hand and foot (P < 0.05).
+SE|25462145|RESULTS|ab|5|entity|C1274040|result|ftcn|||RESULTS|||0|966|901|908
+SE|25462145|RESULTS|ab|5|entity|C0750502|Significant|idcn|||significant|||0|872|920|931
+SE|25462145|RESULTS|ab|5|entity|C1547020|*Difference|qnco|||differences|||0|872|932|943
+SE|25462145|RESULTS|ab|5|entity|C1442881|SLC25A4 protein, human|aapp,bacs|291|SLC25A4|T1-T4|||0|623|952|957
+SE|25462145|RESULTS|ab|5|entity|C0040165|Thyroxine|aapp,horm,phsu|291|SLC25A4|T1-T4|||0|623|952|957
+SE|25462145|RESULTS|ab|5|entity|C0018563|Hand|bpoc|||hand|||0|872|981|985
+SE|25462145|RESULTS|ab|5|entity|C0016504|Pes|bpoc|||foot|||0|1000|990|994
+
+SE|25462145|RESULTS|ab|6|text|1007|1157|T1-T4 decrement determined on abductor hallucis muscle was lower indicating more rapid recovery than the first dorsal interosseous muscle (P < 0.05).
+SE|25462145|RESULTS|ab|6|entity|C1442881|SLC25A4 protein, human|aapp,bacs|291|SLC25A4|T1-T4|||0|623|1007|1012
+SE|25462145|RESULTS|ab|6|entity|C0040165|Thyroxine|aapp,horm,phsu|291|SLC25A4|T1-T4|||0|623|1007|1012
+SE|25462145|RESULTS|ab|6|entity|C0682592|Abductor muscle|tisu|||abductor hallucis muscle|||0|913|1037|1061
+SE|25462145|RESULTS|ab|6|entity|C0441994|Lower|ftcn|||lower|||0|1000|1066|1071
+SE|25462145|RESULTS|ab|6|entity|C0205172|More|ftcn|||more|||0|851|1083|1087
+SE|25462145|RESULTS|ab|6|entity|C0439831|Rapid|qlco|||rapid|||0|851|1088|1093
+SE|25462145|RESULTS|ab|6|entity|C0237820|Recovery|orgf|||recovery|||0|851|1094|1102
+SE|25462145|RESULTS|ab|6|entity|C1279901|Firstly|qlco|||first|||0|775|1112|1117
+SE|25462145|RESULTS|ab|6|entity|C0205095|Dorsal|spco|||dorsal|||0|775|1118|1124
+SE|25462145|RESULTS|ab|6|entity|C0026845|Muscle|tisu|||muscle|||0|775|1138|1144
+
+SE|25462145|RESULTS|ab|7|text|1157|1279|Interestingly, quite opposite, more pronounced decrement in foot TOF than hand was showed in 4% (5 out of all 147 cases).
+SE|25462145|RESULTS|ab|7|entity|C1521805|Opposite|spco|||opposite|||0|861|1178|1186
+SE|25462145|RESULTS|ab|7|entity|C0205172|More|ftcn|||more|||0|660|1188|1192
+SE|25462145|RESULTS|ab|7|entity|C0016504|Pes|bpoc|||foot|||0|764|1217|1221
+SE|25462145|RESULTS|ab|7|entity|C0205450|Four|qnco|||TOF|||0|764|1222|1225
+SE|25462145|RESULTS|ab|7|entity|C0018563|Hand|bpoc|||hand|||0|1000|1231|1235
+SE|25462145|RESULTS|ab|7|entity|C0868928|Case (situation)|ftcn|||cases|||0|861|1271|1276
+
+SE|25462145|CONCLUSIONS|ab|8|text|1279|1506|CONCLUSIONS: The observed difference between recovery of hand and foot muscles suggests that quantitative TOF test should be performed on extremities for which accurate data about the level of neuromuscular blockade is sought.
+SE|25462145|CONCLUSIONS|ab|8|entity|C1547020|*Difference|qnco|||difference|||0|888|1305|1315
+SE|25462145|CONCLUSIONS|ab|8|entity|C0237820|Recovery|orgf|||recovery|||0|1000|1324|1332
+SE|25462145|CONCLUSIONS|ab|8|entity|C0018563|Hand|bpoc|||hand|||0|1000|1336|1340
+SE|25462145|CONCLUSIONS|ab|8|entity|C0016504|Pes|bpoc|||foot|||0|888|1345|1349
+SE|25462145|CONCLUSIONS|ab|8|entity|C0026845|Muscle|tisu|||muscles|||0|888|1350|1357
+SE|25462145|CONCLUSIONS|ab|8|entity|C0392762|Quantitative|qnco|||quantitative|||0|737|1372|1384
+SE|25462145|CONCLUSIONS|ab|8|entity|C0205450|Four|qnco|||TOF|||0|737|1385|1388
+SE|25462145|CONCLUSIONS|ab|8|entity|C0039593|Testing|resa|||test|||0|737|1389|1393
+SE|25462145|CONCLUSIONS|ab|8|entity|C0015385|Limb structure|bpoc|||extremities|||0|1000|1417|1428
+SE|25462145|CONCLUSIONS|ab|8|entity|C0443131|Accurate|qlco|||accurate|||0|888|1439|1447
+SE|25462145|CONCLUSIONS|ab|8|entity|C1511726|Data|idcn|||data|||0|888|1448|1452
+SE|25462145|CONCLUSIONS|ab|8|entity|C0234119|Neuromuscular inhibition|dsyn|||neuromuscular blockade|||0|1000|1472|1494
+SE|25462145|CONCLUSIONS|ab|8|relation|0|0|C0026845|Muscle|tisu|tisu|||muscles|||0|888|1350|1357|MOD/HEAD|PART_OF||1345|1357|0|0|C0016504|Pes|bpoc|bpoc|||foot|||0|888|1345|1349
+
+SE|25462145|CONCLUSIONS|ab|9|text|1506|1599|During lumbar spine surgery monitoring, in addition to hand TOF, foot TOF should be included.
+SE|25462145|CONCLUSIONS|ab|9|entity|C0408578|Lumbar spine operations NOS|topp|||lumbar spine surgery|||0|756|1513|1533
+SE|25462145|CONCLUSIONS|ab|9|entity|C0018563|Hand|bpoc|||hand|||0|764|1561|1565
+SE|25462145|CONCLUSIONS|ab|9|entity|C0205450|Four|qnco|||TOF|||0|764|1566|1569
+SE|25462145|CONCLUSIONS|ab|9|entity|C0016504|Pes|bpoc|||foot|||0|791|1571|1575
+SE|25462145|CONCLUSIONS|ab|9|entity|C0205450|Four|qnco|||TOF|||0|791|1576|1579
+
+
 SE|25462146||ti|1|text|21|151|Stimulus-induced generalized epileptiform discharges: an unrecognized EEG pattern in refractory nonconvulsive status epilepticus.
 SE|25462146||ti|1|entity|C0234402|Stimulus|phpr|||Stimulus|||0|1000|21|29
 SE|25462146||ti|1|entity|C0474721|Generalized epileptiform discharges|fndg|||generalized epileptiform discharges|||0|1000|38|73
@@ -40136,104 +40246,6 @@ SE|25462545|BACKGROUND|ab|3|entity|C0206058|Surgical Procedures, Elective|topp||
 SE|25462545|BACKGROUND|ab|3|entity|C0030705|Patients|podg|||patients|||0|861|486|494
 
 SE|25462545|METHODS|ab|4|text|496|683|METHODS: This observational cohort included 1,041 vascular surgery patients between 2002 and 2011 in a tertiary referral center for whom hemoglobin levels were retrospectively available.
-SE|25462545|METHODS|ab|4|entity|C0025663|Methods|inpr|||METHODS|||0|1000|496|503
-SE|25462545|METHODS|ab|4|entity|C0599755|cohort|popg|||cohort|||0|861|524|530
-SE|25462545|METHODS|ab|4|entity|C0042381|Vascular Surgical Procedures|topp|||vascular surgery|||0|785|546|562
-SE|25462545|METHODS|ab|4|entity|C0030705|Patients|podg|||patients|||0|785|563|571
-SE|25462545|METHODS|ab|4|entity|C0587437|Tertiary referral hospital|hcro,mnob|||tertiary referral center|||0|1000|599|623
-SE|25462545|METHODS|ab|4|entity|C0019029|Hemoglobin concentration result|lbtr|||hemoglobin levels|||0|983|633|650
-
-SE|25462545|METHODS|ab|5|text|683|762|Patients who received transfusions after 3 days postoperatively were excluded.
-SE|25462545|METHODS|ab|5|entity|C0030705|Patients|podg|||Patients|||0|1000|683|691
-SE|25462545|METHODS|ab|5|entity|C0199960|Transfusion - action|topp|||transfusions|||0|1000|705|717
-SE|25462545|METHODS|ab|5|entity|C1442459|3 Days|tmco|||3 days|||0|1000|724|730
-SE|25462545|METHODS|ab|5|relation|2|1|C0199960|Transfusion - action|topp|topp|||transfusions|||0|1000|705|717|VERB|ADMINISTERED_TO||696|704|1|1|C0030705|Patients|podg,humn|humn|||Patients|||0|1000|683|691
-
-SE|25462545|METHODS|ab|6|text|762|854|A propensity score was developed for the likelihood of receiving perioperative transfusion.
-SE|25462545|METHODS|ab|6|entity|C0449820|Score|qnco|||score|||0|861|775|780
-SE|25462545|METHODS|ab|6|entity|C1514756|Received|qlco|||receiving|||0|606|817|826
-SE|25462545|METHODS|ab|6|entity|C1518988|perioperative|tmco|||perioperative|||0|606|827|840
-
-SE|25462545|METHODS|ab|7|text|854|1046|The study end points were 30-day cardiovascular (CV) events (myocardial infarction, heart failure, arrhythmias, stroke, asymptomatic troponin-T release, and CV death) and all-cause mortality.
-SE|25462545|METHODS|ab|7|entity|C0008972|Clinical Research|resa|||study|||0|888|858|863
-SE|25462545|METHODS|ab|7|entity|C0150100|End Point|resa|||end points|||0|888|864|874
-SE|25462545|METHODS|ab|7|entity|C0439228|day|tmco|||day|||0|813|883|886
-SE|25462545|METHODS|ab|7|entity|C1320716|Cardiovascular event|fndg|||cardiovascular (CV) events|||0|813|887|913
-SE|25462545|METHODS|ab|7|entity|C0027051|Myocardial Infarction|dsyn|||myocardial infarction|||0|1000|915|936
-SE|25462545|METHODS|ab|7|entity|C0018801|Heart failure|dsyn|||heart failure|||0|1000|938|951
-SE|25462545|METHODS|ab|7|entity|C0003811|cardiac arrhythmia|patf|||arrhythmias|||0|1000|953|964
-SE|25462545|METHODS|ab|7|entity|C0038454|Cerebrovascular accident|dsyn|||stroke|||0|1000|966|972
-SE|25462545|METHODS|ab|7|entity|C0231221|Asymptomatic|fndg|||asymptomatic|||0|861|974|986
-SE|25462545|METHODS|ab|7|entity|C0077404|Troponin T|aapp,bacs|||troponin-T|||0|861|987|997
-SE|25462545|METHODS|ab|7|entity|C0011065|Cessation of life|orgf|||death|||0|861|1014|1019
-SE|25462545|METHODS|ab|7|entity|C0015127|Etiology aspects|ftcn|||cause|||0|661|1029|1034
-
-SE|25462545|METHODS|ab|8|text|1046|1253|Multivariable logistic regression analyses, adjusting for relevant confounders and transfusion propensity, were used to determine the associations between perioperative transfusion and the study end points.
-SE|25462545|METHODS|ab|8|entity|C0681925|logistic regression analysis|qnco,resa|||logistic regression analyses|||0|906|1060|1088
-SE|25462545|METHODS|ab|8|entity|C1518988|perioperative|tmco|||perioperative|||0|694|1201|1214
-SE|25462545|METHODS|ab|8|entity|C0008972|Clinical Research|resa|||study|||0|888|1235|1240
-SE|25462545|METHODS|ab|8|entity|C0150100|End Point|resa|||end points|||0|888|1241|1251
-
-SE|25462545|RESULTS|ab|9|text|1253|1365|RESULTS: The final study sample comprised 992 patients; 265 (27%) patients received perioperative transfusions.
-SE|25462545|RESULTS|ab|9|entity|C1274040|result|ftcn|||RESULTS|||0|966|1253|1260
-SE|25462545|RESULTS|ab|9|entity|C0205088|End-stage|tmco|||final|||0|623|1266|1271
-SE|25462545|RESULTS|ab|9|entity|C0008972|Clinical Research|resa|||study|||0|623|1272|1277
-SE|25462545|RESULTS|ab|9|entity|C0030705|Patients|podg|||patients|||0|861|1299|1307
-SE|25462545|RESULTS|ab|9|entity|C0030705|Patients|podg|||patients|||0|1000|1319|1327
-SE|25462545|RESULTS|ab|9|entity|C1518988|perioperative|tmco|||perioperative|||0|888|1337|1350
-SE|25462545|RESULTS|ab|9|entity|C0199960|Transfusion - action|topp|||transfusions|||0|888|1351|1363
-SE|25462545|RESULTS|ab|9|relation|1|1|C0199960|Transfusion - action|topp|topp|||transfusions|||0|888|1351|1363|VERB|ADMINISTERED_TO||1328|1336|4|1|C0030705|Patients|podg,humn|humn|||patients|||0|1000|1319|1327
-
-SE|25462545|RESULTS|ab|10|text|1365|1620|During the 30-day follow-up, a total of 190 (19%) patients suffered from a 30-day postoperative CV event, of which 116 (44%) occurred in patients who received perioperative RBC transfusions compared with 74 (10%) patients without transfusions (P < 0.01).
-SE|25462545|RESULTS|ab|10|entity|C0439228|day|tmco|||day|||0|861|1379|1382
-SE|25462545|RESULTS|ab|10|entity|C1522577|follow-up|hlca|||follow-up|||0|1000|1383|1392
-SE|25462545|RESULTS|ab|10|entity|C0439175|% of total|qnco|||total|||0|1000|1396|1401
-SE|25462545|RESULTS|ab|10|entity|C0030705|Patients|podg|||patients|||0|1000|1415|1423
-SE|25462545|RESULTS|ab|10|entity|C0439228|day|tmco|||day|||0|790|1443|1446
-SE|25462545|RESULTS|ab|10|entity|C1320716|Cardiovascular event|fndg|||CV event|||0|790|1461|1469
-SE|25462545|RESULTS|ab|10|entity|C0030705|Patients|podg|||patients|||0|1000|1502|1510
-SE|25462545|RESULTS|ab|10|entity|C1518988|perioperative|tmco|||perioperative|||0|928|1524|1537
-SE|25462545|RESULTS|ab|10|entity|C0086252|Erythrocyte Transfusion|topp|||RBC transfusions|||0|928|1538|1554
-SE|25462545|RESULTS|ab|10|entity|C0030705|Patients|podg|||patients|||0|1000|1578|1586
-SE|25462545|RESULTS|ab|10|entity|C0199960|Transfusion - action|topp|||transfusions|||0|1000|1595|1607
-SE|25462545|RESULTS|ab|10|relation|3|1|C0086252|Erythrocyte Transfusion|topp|topp|||RBC transfusions|||0|928|1538|1554|VERB|ADMINISTERED_TO||1515|1523|6|1|C0030705|Patients|podg,humn|humn|||patients|||0|1000|1502|1510
-SE|25462545|RESULTS|ab|10|relation|5|1|C1320716|Cardiovascular event|fndg|fndg|||CV event|||0|790|1461|1469|VERB|PROCESS_OF||1424|1432|4|1|C0030705|Patients|podg,humn|humn|||patients|||0|1000|1415|1423
-SE|25462545|RESULTS|ab|10|relation|5|4|C1522577|follow-up|hlca|hlca|||follow-up|||0|1000|1383|1392|PREP|TREATS||1499|1501|4|1|C0030705|Patients|podg,humn|humn|||patients|||0|1000|1502|1510
-
-SE|25462545|RESULTS|ab|11|text|1620|1802|The end point all-cause mortality was reached in 36 (4%) patients-26 (10%) patients with perioperative RBC transfusion compared with 10 (1%) patients without transfusion (P < 0.01).
-SE|25462545|RESULTS|ab|11|entity|C0150100|End Point|resa|||end point|||0|1000|1624|1633
-SE|25462545|RESULTS|ab|11|entity|C0015127|Etiology aspects|ftcn|||cause|||0|661|1638|1643
-SE|25462545|RESULTS|ab|11|entity|C0030705|Patients|podg|||patients|||0|861|1677|1685
-SE|25462545|RESULTS|ab|11|entity|C0030705|Patients|podg|||patients|||0|1000|1695|1703
-SE|25462545|RESULTS|ab|11|entity|C1518988|perioperative|tmco|||perioperative|||0|928|1709|1722
-SE|25462545|RESULTS|ab|11|entity|C0086252|Erythrocyte Transfusion|topp|||RBC transfusion|||0|928|1723|1738
-SE|25462545|RESULTS|ab|11|entity|C0030705|Patients|podg|||patients|||0|1000|1761|1769
-
-SE|25462545|RESULTS|ab|12|text|1802|2026|Perioperative transfusion was associated with an independently increased risk of 30-day CV events (odds ratio 5.0; 95% confidence interval 3.1-8.2) and all-cause mortality (odds ratio 4.4; 95% confidence interval 1.6-12.1).
-SE|25462545|RESULTS|ab|12|entity|C1518988|perioperative|tmco|||Perioperative|||0|694|1802|1815
-SE|25462545|RESULTS|ab|12|entity|C0205217|Increased|qnco|||increased|||0|790|1865|1874
-SE|25462545|RESULTS|ab|12|entity|C0035647|Risk|qlco|||risk|||0|790|1875|1879
-SE|25462545|RESULTS|ab|12|entity|C0439228|day|tmco|||day|||0|813|1886|1889
-SE|25462545|RESULTS|ab|12|entity|C1320716|Cardiovascular event|fndg|||CV events|||0|813|1890|1899
-SE|25462545|RESULTS|ab|12|entity|C0028873|Odds Ratio|qnco|||odds ratio|||0|861|1901|1911
-SE|25462545|RESULTS|ab|12|entity|C0009667|Confidence Intervals|qnco|||confidence interval|||0|818|1921|1940
-SE|25462545|RESULTS|ab|12|entity|C0015127|Etiology aspects|ftcn|||cause|||0|661|1958|1963
-SE|25462545|RESULTS|ab|12|entity|C0028873|Odds Ratio|qnco|||odds ratio|||0|861|1975|1985
-SE|25462545|RESULTS|ab|12|entity|C0009667|Confidence Intervals|qnco|||confidence interval|||0|818|1995|2014
-
-SE|25462545|CONCLUSION|ab|13|text|2026|2186|CONCLUSION: Perioperative transfusion is associated with a strongly increased risk of both 30-day CV events and mortality in elective vascular surgery patients.
-SE|25462545|CONCLUSION|ab|13|entity|C1518988|perioperative|tmco|||Perioperative|||0|694|2038|2051
-SE|25462545|CONCLUSION|ab|13|entity|C0205217|Increased|qnco|||increased|||0|790|2094|2103
-SE|25462545|CONCLUSION|ab|13|entity|C0035647|Risk|qlco|||risk|||0|790|2104|2108
-SE|25462545|CONCLUSION|ab|13|entity|C0439228|day|tmco|||day|||0|813|2120|2123
-SE|25462545|CONCLUSION|ab|13|entity|C1320716|Cardiovascular event|fndg|||CV events|||0|813|2124|2133
-SE|25462545|CONCLUSION|ab|13|entity|C0005847|Blood Vessels|bpoc|||vascular|||0|861|2160|2168
-SE|25462545|CONCLUSION|ab|13|entity|C0206058|Surgical Procedures, Elective|topp|||elective vascular surgery|||0|861|2151|2176
-SE|25462545|CONCLUSION|ab|13|entity|C0030705|Patients|podg|||patients|||0|861|2177|2185
-SE|25462545|CONCLUSION|ab|13|relation|5|2|C1320716|Cardiovascular event|fndg|fndg|||CV events|||0|813|2124|2133|PREP|PROCESS_OF||2148|2150|1|1|C0030705|Patients|podg,humn|humn|||patients|||0|861|2177|2185
-
-
-4|text|496|683|METHODS: This observational cohort included 1,041 vascular surgery patients between 2002 and 2011 in a tertiary referral center for whom hemoglobin levels were retrospectively available.
 SE|25462545|METHODS|ab|4|entity|C0025663|Methods|inpr|||METHODS|||0|1000|496|503
 SE|25462545|METHODS|ab|4|entity|C0599755|cohort|popg|||cohort|||0|861|524|530
 SE|25462545|METHODS|ab|4|entity|C0042381|Vascular Surgical Procedures|topp|||vascular surgery|||0|785|546|562

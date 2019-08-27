@@ -62,11 +62,11 @@ public class DocumentParsing {
 	    // MedlineBaseline mb = MedlineBaseline.getInstance();
 	    String schedulerAcc = properties.getProperty("schedulerAccount");
 	    String schedulerPassword = properties.getProperty("schedulerPassword");
+	    String email = properties.getProperty("schedulerEmail");
 	    convert2ASCII(infileName, ASCIIFileName);
 	    mb.convertXML2Text(ASCIIFileName, normfileName, db);
 	    mb.convertXML2Medline(ASCIIFileName, medlinefileName);
-	    sbp.submitTask(normfileName, parsedfileName, "sf_parser", schedulerAcc, schedulerPassword,
-		    "shindongwoo@nih.gov");
+	    sbp.submitTask(normfileName, parsedfileName, "sf_parser", schedulerAcc, schedulerPassword, email);
 	    // sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", "dongwookshin", "Wooyong1!",
 	    //    "shindongwoo@nih.gov");
 	    db.saveXmlToDatabase(parsedfileName);
@@ -261,8 +261,8 @@ public class DocumentParsing {
 	    // MedlineBaseline mb = MedlineBaseline.getInstance();
 	    String schedulerAcc = properties.getProperty("schedulerAccount");
 	    String schedulerPassword = properties.getProperty("schedulerPassword");
-	    sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", schedulerAcc, schedulerPassword,
-		    "shindongwoo@nih.gov");
+	    String email = properties.getProperty("schedulerEmail");
+	    sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", schedulerAcc, schedulerPassword, email);
 	    db.saveSemRepToDatabase(semrepfileName);
 
 	} catch (Exception e) {
@@ -276,9 +276,9 @@ public class DocumentParsing {
 	    // MedlineBaseline mb = MedlineBaseline.getInstance();
 	    String schedulerAcc = properties.getProperty("schedulerAccount");
 	    String schedulerPassword = properties.getProperty("schedulerPassword");
+	    String email = properties.getProperty("schedulerEmail");
 
-	    sbp.submitTask(normfileName, parsedfileName, "sf_parser", schedulerAcc, schedulerPassword,
-		    "shindongwoo@nih.gov");
+	    sbp.submitTask(normfileName, parsedfileName, "sf_parser", schedulerAcc, schedulerPassword, email);
 	    db.saveXmlToDatabase(parsedfileName);
 
 	} catch (Exception e) {
