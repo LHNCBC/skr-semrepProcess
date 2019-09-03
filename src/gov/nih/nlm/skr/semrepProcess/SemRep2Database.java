@@ -32,6 +32,7 @@ public class SemRep2Database {
     static String dbpassword;
     static String perlScript;
     static String semrepLoadingProgram;
+    static String normFile;
 
     public SemRep2Database() {
 	try {
@@ -42,6 +43,7 @@ public class SemRep2Database {
 	    dbpassword = properties.getProperty("dbpassword");
 	    semrepLoadingProgram = properties.getProperty("semrepLoadingProgram");
 	    perlScript = properties.getProperty("perlScript");
+	    normFile = properties.getProperty("semrepNormFile");
 	    Class.forName("com.mysql.jdbc.Driver");
 	    factconn = DriverManager.getConnection(
 		    "jdbc:mysql://indsrv2.nlm.nih.gov/" + factdbName + "?autoReconnect=true", dbusername, dbpassword);
@@ -180,7 +182,7 @@ public class SemRep2Database {
 	    }
 
 	    DatabaseBatch insertDB = new DatabaseBatch();
-	    insertDB.setPath(perlScript, semrepLoadingProgram, file, semmeddbName, dbusername, dbpassword); // if
+	    insertDB.setPath(perlScript, semrepLoadingProgram, file, semmeddbName, dbusername, dbpassword, normFile); // if
 	    insertDB.start();
 	} catch (Exception e) {
 	    e.printStackTrace();

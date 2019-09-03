@@ -147,4 +147,38 @@ public class MedlineBaseline {
 	}
 	pw.close();
     }
+
+    /*
+     * Create Medline format for the citations only when the citations are not found
+     * into SemMedDB
+     */
+    public void convertXML2Medline_Addition(String infileName, String outfileName, Database db)
+	    throws SAXException, ParserConfigurationException, IOException {
+	File infile = new File(infileName);
+	System.out.println(infileName);
+
+	List<PubmedArticle> articles = extractCitationInfo(infile);
+
+	File outfile = new File(outfileName);
+	PrintWriter pw = new PrintWriter(outfile);
+
+	for (PubmedArticle article : articles) {
+	    String PMID = article.getPMID();
+	    if (!db.checkPMIDInDB(PMID)) { // If the PMID is not already in the database
+		StringBuffer sb = new StringBuffer();
+		sb.append("PMID- " + article.getPMID() + "\n");
+		sb.append("TI  - " + replace_UTF8.ReplaceLooklike(article.getTitle()) + "\n");
+		if (article.getAbstract() != null) {
+		    sb.append("AB  - " + replace_UTF8.ReplaceLooklike(article.getAbstract()) + "\n\n");
+		} else
+		    sb.append("\n");
+		pw.println(sb.toString());
+		pw.flush();
+		db.insertTitleAbstract(article.getPMID(), article.getTitle(), article.getAbstract());
+	    }
+	}
+	pw.close();
+	if (outfile.length() == 0) // If the resulting file does not have anything, do not create the file
+	    outfile.delete();
+    }
 }

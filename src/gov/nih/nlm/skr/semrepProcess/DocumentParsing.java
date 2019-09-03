@@ -22,8 +22,8 @@ public class DocumentParsing {
     static Database db = Database.getInstance();
     static final String selectString = "select XML_DATA, SEMREP_DATA from FACT_DATA where PMID = \"";
     static final String insertXMLString = "insert into FACT_DATA (PMID, EXIST_XML, XML_DATA) VALUES (\"";
-
     static final String insertMetaString = "insert into CITATIONS (PMID, ISSN, DP, EDAT, PYEAR) VALUES (\"";
+
     private static DocumentParsing myInstance;
     static String dbName = null;
     static String dbUserName = null;
@@ -191,6 +191,58 @@ public class DocumentParsing {
 
     }
 
+    /*
+     * Add only citations that are not yet loaded into SemMedDB
+     */
+
+    static public void semreppingAdditionDir2DB(String orgXMLDir, String ASCIIXMLDir, String medlineDir,
+	    String semDir) {
+	try {
+	    // MedlineBaseline mb = MedlineBaseline.getInstance();
+
+	    List<String> listInOrgFiles = FileUtils.listFiles(orgXMLDir, false, "xml");
+	    List<String> listInXMLFiles = FileUtils.listFiles(ASCIIXMLDir, false, "xml");
+	    List<String> listmedlineFiles = FileUtils.listFiles(medlineDir, false, "txt");
+	    List<String> listsemrepFiles = FileUtils.listFiles(semDir, false, "txt");
+	    HashSet<String> successSemFiles = new HashSet();
+	    for (String semfileName : listsemrepFiles) {
+		File semFile = new File(semfileName);
+		if (semFile.length() > successLen) {
+		    int pos1 = semfileName.lastIndexOf(File.separator) + 1;
+		    String fileName = semfileName.substring(pos1).replace(".txt", "");
+		    successSemFiles.add(fileName);
+		}
+	    }
+
+	    for (String inFileName : listInOrgFiles) {
+		int pos1 = inFileName.lastIndexOf(File.separator) + 1;
+		String fileName = inFileName.substring(pos1).replace(".xml", "");
+		String ASCIIXMLFileName = new String(ASCIIXMLDir + File.separator + fileName + ".xml");
+		if (!successSemFiles.contains(fileName)) { // If the infileName was not converted before
+		    String medlineFileName = new String(medlineDir + File.separator + fileName + ".txt");
+		    String semFileName = new String(semDir + File.separator + fileName + ".txt");
+		    convert2ASCII(inFileName, ASCIIXMLFileName);
+		    mb.convertXML2Medline_Addition(ASCIIXMLFileName, medlineFileName, db);
+		    try {
+			System.out.println("Processing " + inFileName);
+			File XMLFile = new File(ASCIIXMLFileName);
+			List<PubmedArticle> articles = mb.extractCitationInfo(XMLFile);
+			db.insertMetaData2DB(articles);
+			db.insertTitleAbstract(articles);
+			semrepping2DB(medlineFileName, semFileName);
+		    } catch (Exception e) {
+			e.printStackTrace();
+		    }
+
+		}
+	    }
+
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+
+    }
+
     static public void insertMetaData2DB(String ASCIIXMLDir) {
 	try {
 	    // MedlineBaseline mb = MedlineBaseline.getInstance();
@@ -206,7 +258,7 @@ public class DocumentParsing {
 	    }
 
 	} catch (Exception e) {
-	    e.printStackTrace();
+	    // e.printStackTrace();
 	}
 
     }

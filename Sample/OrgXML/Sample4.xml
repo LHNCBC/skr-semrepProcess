@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718913</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>01</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2017</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1525-0016</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>7</Volume>
+            <Issue>5 Pt 1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular therapy : the journal of the American Society of Gene Therapy</Title>
+          <ISOAbbreviation>Mol. Ther.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Magnetofection--a highly efficient tool for antisense oligonucleotide delivery in vitro and in vivo.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>700-10</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Delivery of antisense oligodesoxynucleotides (ODN) into primary cells is a specific strategy for research with therapeutic perspectives but transfection-associated difficulties. We established the technique of magnetofection to enhance ODN delivery at low toxicity and procedure time in vitro and in vivo. In vitro, target knockout was assessed at protein and mRNA levels and by measuring superoxide generation after antisense magnetofection against the p22(phox) subunit of endothelial NAD(P)H-oxidase. Under magnetic field guidance, low-dose magnetic particle-bound ODN were transfected to 84% human umbilical vein endothelial cells within 15 min followed by nuclear accumulation within 2 h, which required 24 h using standard methods. Antisense magnetofection against p22(phox) significantly decreased basal and prevented stimulated superoxide release due to loss of NAD(P)H-oxidase activity by mRNA knockout as assessed after 24 h. Knockout of endothelial phosphatase SHP-1 and connexin 37 proteins confirmed the method's efficiency. Transfection-associated toxicity was minimal. Twenty-four hours after injection of fluorescence-labeled ODN into femoral arteries of male mice, there was specific ODN uptake only into cremaster vessels exposed to magnetic fields during injection. Magnetofection is an ideal tool for delivery of functionally active ODN to difficult-to-transfect cells to study gene/protein function and a promising strategy for targeted ODN delivery in vivo.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Krötz</LastName>
+            <ForeName>Florian</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Physiology, Munich, Germany. fkroetz@lmu.de</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Wit</LastName>
+            <ForeName>Cor</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sohn</LastName>
+            <ForeName>Hae Young</ForeName>
+            <Initials>HY</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zahler</LastName>
+            <ForeName>Stefan</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gloe</LastName>
+            <ForeName>Torsten</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pohl</LastName>
+            <ForeName>Ulrich</ForeName>
+            <Initials>U</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Plank</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D003160">Comparative Study</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Mol Ther</MedlineTA>
+        <NlmUniqueID>100890581</NlmUniqueID>
+        <ISSNLinking>1525-0016</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009097">Multienzyme Complexes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016376">Oligonucleotides, Antisense</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010750">Phosphoproteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>11062-77-4</RegistryNumber>
+          <NameOfSubstance UI="D013481">Superoxides</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>9007-43-6</RegistryNumber>
+          <NameOfSubstance UI="D045304">Cytochromes c</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.6.-</RegistryNumber>
+          <NameOfSubstance UI="C023107">NADH oxidase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.6.-</RegistryNumber>
+          <NameOfSubstance UI="D009247">NADH, NADPH Oxidoreductases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.6.3.-</RegistryNumber>
+          <NameOfSubstance UI="D019255">NADPH Oxidases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.6.3.1</RegistryNumber>
+          <NameOfSubstance UI="C086986">CYBA protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.6.99.1</RegistryNumber>
+          <NameOfSubstance UI="D009252">NADPH Dehydrogenase</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+          <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D045304" MajorTopicYN="N">Cytochromes c</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016503" MajorTopicYN="N">Drug Delivery Systems</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004574" MajorTopicYN="Y">Electromagnetic Fields</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004730" MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005455" MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D026901" MajorTopicYN="Y">Membrane Transport Proteins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009097" MajorTopicYN="N">Multienzyme Complexes</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009132" MajorTopicYN="N">Muscles</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009247" MajorTopicYN="N">NADH, NADPH Oxidoreductases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009252" MajorTopicYN="N">NADPH Dehydrogenase</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019255" MajorTopicYN="N">NADPH Oxidases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016376" MajorTopicYN="N">Oligonucleotides, Antisense</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010750" MajorTopicYN="N">Phosphoproteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013481" MajorTopicYN="N">Superoxides</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014471" MajorTopicYN="N">Umbilical Veins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>1</Month>
+          <Day>24</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718913</ArticleId>
+        <ArticleId IdType="pii">S1525-0016(03)00065-0</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718914</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Macromolecular crystallization in the structural genomics era.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>1-2</MedlinePgn>
+        </Pagination>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>McPherson</LastName>
+            <ForeName>Alexander</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Biology and Biochemistry, University of California at Irvine, 560 Steinhaus Hall, Irvine, CA 92697-3900, USA. amcphers@uci.edu &lt;amcphers@uci.edu&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001704">Biopolymers</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CitationSubset>S</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001704" MajorTopicYN="N">Biopolymers</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718914</ArticleId>
+        <ArticleId IdType="pii">S1047847703000339</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718915</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Protein crystals and their growth.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>3-21</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Recent results on the associations between protein molecules in crystal lattices, crystal-solution surface energy, elastic properties, strength, and spontaneous crystal cracking are reviewed and discussed. In addition, some basic approaches to understanding the solubility of proteins are followed by an overview of crystal nucleation and growth. It is argued that variability of mixing in batch crystallization may be a source of the variation in the number of crystals ultimately appearing in the sample. The frequency at which new molecules join a crystal lattice is measured by the kinetic coefficient and is related to the observed crystal growth rate. Numerical criteria used to discriminate diffusion- and kinetic-limited growth are discussed on this basis. Finally, the creation of defects is discussed with an emphasis on the role of impurities and convection on macromolecular crystal perfection.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chernov</LastName>
+            <ForeName>Alexander A</ForeName>
+            <Initials>AA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Universities Space Research Association at Marshall Space Flight Center, National Aeronautics and Space Administration, Mail Code SD46, Huntsville, AL 35812, USA. alex.chernov@msfc.nasa.gov &lt;alex.chernov@msfc.nasa.gov&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.2.1.17</RegistryNumber>
+          <NameOfSubstance UI="D009113">Muramidase</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CitationSubset>S</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008956" MajorTopicYN="N">Models, Chemical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009113" MajorTopicYN="N">Muramidase</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012995" MajorTopicYN="N">Solubility</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>68</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718915</ArticleId>
+        <ArticleId IdType="pii">S1047847703000340</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718916</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Nucleation of protein crystals.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>22-31</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>This paper introduces nucleation theory applied to crystallizing protein solutions. It is shown that the classical approach explains the available nucleation data under most conditions used for growing protein crystals for structural studies and for industrial crystallization. However, it fails to explain most experimental data on the structure of the critical clusters. It is also shown that for open systems working out of equilibrium, such as hanging-drop and counterdiffusion techniques, the geometry of the Ostwald-Myers protein solubility diagram and the number, size, and quality of the forming crystals depend not only on supersaturation but also on the rate of development of supersaturation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Manuel García-Ruiz</LastName>
+            <ForeName>Juan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratorio de Estudios Cristalográficos (IACT), CSIC-Universidad de Granada, Facultad de Ciencias, Av. Fuenteneuva s/n, 18002, Granada, Spain. jmgruiz@ugr.es &lt;jmgruiz@ugr.es&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="Y">Crystallization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008956" MajorTopicYN="N">Models, Chemical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012995" MajorTopicYN="N">Solubility</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013816" MajorTopicYN="N">Thermodynamics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>69</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718916</ArticleId>
+        <ArticleId IdType="pii">S1047847703000352</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718917</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2005</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Macromolecular crystal growth as revealed by atomic force microscopy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>32-46</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Direct visualization of macromolecular crystal growth using atomic force microscopy (AFM) has provided a powerful tool in the delineation of mechanisms and the kinetics of the growth process. It has further allowed us to evaluate the wide variety of impurities that are incorporated into crystals of proteins, nucleic acids, and viruses. We can, using AFM, image the defects and imperfections that afflict these crystals, the impurity layers that poison their surfaces, and the consequences of various factors on morphological development. All of these can be recorded under normal growth conditions, in native mother liquors, over time intervals ranging from minutes to days, and at the molecular level.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>McPherson</LastName>
+            <ForeName>Alexander</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Biology and Biochemistry, University of California at Irvine, 560 Steinhaus Hall, Irvine, CA 92697-3900, USA. amphers@uci.edu &lt;amphers@uci.edu&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kuznetsov</LastName>
+            <ForeName>Yu G</ForeName>
+            <Initials>YG</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Malkin</LastName>
+            <ForeName>Alexander</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Plomp</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001704">Biopolymers</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001704" MajorTopicYN="N">Biopolymers</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="Y">Crystallization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018625" MajorTopicYN="N">Microscopy, Atomic Force</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014780" MajorTopicYN="N">Viruses</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>53</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718917</ArticleId>
+        <ArticleId IdType="pii">S1047847703000364</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718918</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2011</Year>
+        <Month>11</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Noninvasive in situ observation of the crystallization kinetics of biological macromolecules by confocal laser scanning microscopy.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>47-55</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>High-resolution confocal laser scanning microscopy (CLSM) is a powerful tool for in situ observation and analysis of protein crystal growth kinetics. Because the resolution of CLSM is not diffraction-limited by the object, it is possible to visualize, under certain conditions, objects in molecular dimensions. A modified batch technique is applied which allows the growth kinetics of sufficiently small crystallites fixed at the lower side of a cover glass, within a hanging drop, to be studied in reflected light near the total reflection angle. A gap, or cavity, filled with solution is formed between the cover glass and the upper crystal face, which acts to fix small crystallites by hydrodynamic friction forces. The cavity height enables the propagation of molecular steps across the upper crystal face without constraint, so that the propagation velocity and geometrical parameters can be measured by CLSM. The layer growth kinetics of monoclinic crystallites of a long-acting insulin derivative (Insulin Glargine) is investigated. For a twofold supersaturation of the solution, the growth is governed by 2D nucleation at the edges of the crystallites followed by a spreading of molecular steps. The layer growth kinetics are well fitted by the simple cubic kinetic lattice model. We find that only about one of a thousand solute (protein) molecules which push a kink place due to their Brownian motion becomes really incorporated into the growing crystal.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mühlig</LastName>
+            <ForeName>P</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Structural Biology and Crystallography, Institute of Molecular Biotechnology, P.O. Box 100813, Beutenbergstrasse 11, D-07708, Jena, German.y</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Klupsch</LastName>
+            <ForeName>Th</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaulmann</LastName>
+            <ForeName>U</ForeName>
+            <Initials>U</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hilgenfeld</LastName>
+            <ForeName>R</ForeName>
+            <Initials>R</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="Y">Crystallization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007328" MajorTopicYN="N">Insulin</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018613" MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008956" MajorTopicYN="N">Models, Chemical</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718918</ArticleId>
+        <ArticleId IdType="pii">S1047847703000376</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718919</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Light scattering as a diagnostic for protein crystal growth--a practical approach.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>56-65</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Static and dynamic light scattering are discussed as particularly useful tools for studying various aspects of protein crystal growth. Specific applications for prenucleation assays as well as for monitoring postnucleation growth processes are presented. Protein-protein interactions determined by light scattering, which serve as a predictor for favorable crystallization conditions as well as for protein solubility behavior, are detailed. Several precautions regarding the practical aspects of light scattering and interpretation of data are also discussed.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wilson</LastName>
+            <ForeName>W William</ForeName>
+            <Initials>WW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, Mississippi State University, Box 9573, 39762, Mississippi State, MS, USA</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CitationSubset>S</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="Y">Crystallization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008956" MajorTopicYN="N">Models, Chemical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012542" MajorTopicYN="Y">Scattering, Radiation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012995" MajorTopicYN="N">Solubility</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>69</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718919</ArticleId>
+        <ArticleId IdType="pii">S1047847703000388</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718920</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2013</Year>
+        <Month>11</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Seeds to crystals.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>66-76</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Seeding has been critical for obtaining diffraction-quality crystals for many structures. In this article, applications and recommendations for seeding are presented based on examples from our laboratory and other groups. The implementation of seeding in high-throughput crystallization, robotics, and other emerging technologies is also discussed.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bergfors</LastName>
+            <ForeName>Terese</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell and Molecular Biology, Biomedical Center, Uppsala University, Box 596, 751 24, Uppsala, Sweden. terese@alpha2.bmc.uu.se &lt;terese@alpha2.bmc.uu.se&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001704">Biopolymers</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D046911">Macromolecular Substances</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>206GF3GB41</RegistryNumber>
+          <NameOfSubstance UI="D006371">Helium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001704" MajorTopicYN="N">Biopolymers</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003080" MajorTopicYN="N">Cold Temperature</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006371" MajorTopicYN="N">Helium</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D046911" MajorTopicYN="N">Macromolecular Substances</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>43</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718920</ArticleId>
+        <ArticleId IdType="pii">S104784770300039X</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718921</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2013</Year>
+        <Month>11</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>New techniques in macromolecular cryocrystallography: macromolecular crystal annealing and cryogenic helium.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>77-87</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Cryocrystallography is used today for almost all X-ray diffraction data collection at synchrotron beam lines, with rotating-anode generators, and micro X-ray sources. Despite the widespread use of flash-cooling to place macromolecular crystals in the cryogenic state, its use can ruin crystals, trips to the synchrotron, and sometimes even an entire project. Annealing of macromolecular crystals takes little time, requires no specialized equipment, and can save crystallographic projects that might otherwise end in failure. Annealing should be tried whenever initial flash-cooling causes an unacceptable increase in mosaicity, results in ice rings, fails to provide adequate diffraction quality, or causes a crystal to be positioned awkwardly. Overall, annealing improves the quality of data and overall success rate at synchrotron beam lines. Its use should be considered whenever problems arise with a flash-cooled crystal. Helium is a more efficient cryogen than nitrogen and will deliver lower temperatures. Experiments suggest that when crystals are cooled with He rather than N2, crystals maintain order and high-resolution data are less affected by increased radiation load. Individually or in combination, these two techniques can enhance the success of crystallographic data collection, and their use should be considered essential for high-throughput programs.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hanson</LastName>
+            <ForeName>B Leif</ForeName>
+            <Initials>BL</Initials>
+            <AffiliationInfo>
+              <Affiliation>The University of Tennessee/Oak Ridge National Laboratory Graduate School of Genome Science and Technology, P.O. Box 2009, MS 8080, Oak Ridge, TN 37831-8080, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schall</LastName>
+            <ForeName>Constance A</ForeName>
+            <Initials>CA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bunick</LastName>
+            <ForeName>Gerard J</ForeName>
+            <Initials>GJ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>GM-29818</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+          <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D046911">Macromolecular Substances</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>206GF3GB41</RegistryNumber>
+          <NameOfSubstance UI="D006371">Helium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003080" MajorTopicYN="N">Cold Temperature</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+          <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006371" MajorTopicYN="N">Helium</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D046911" MajorTopicYN="Y">Macromolecular Substances</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>26</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718921</ArticleId>
+        <ArticleId IdType="pii">S1047847703000406</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718922</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2005</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The protein as a variable in protein crystallization.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>88-97</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Strategies for growing protein crystals have for many years been essentially empirical, the protein, once purified to a certain homogeneity, being mixed with a selection of crystallization agents selected in a more or less trial-and-error fashion. Screening for the correct conditions has been made easier through automation and by the introduction of commercially available crystallization kits. Many parameters can be changed in these experiments, such as temperature, pH, and ionic strength, but perhaps the most important variable has been ignored, namely the protein. The crystallization properties of a protein vary greatly: some crystallize readily, whereas others have proven extremely difficult or even impossible to obtain in a crystalline state. The possibility of altering the intrinsic characteristics of a protein for crystallization has become a feasible strategy. Some historical perspectives and advances in this area will be reviewed.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dale</LastName>
+            <ForeName>Glenn E</ForeName>
+            <Initials>GE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Morphochem AG, WRO-1055/338, Schwarzwaldallee 215, CH-4058, Basel, Switzerland. Glenn.dale@morphochem.ch &lt;Glenn.dale@morphochem.ch&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oefner</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>D'Arcy</LastName>
+            <ForeName>Allan</ForeName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015202" MajorTopicYN="N">Protein Engineering</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011993" MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>93</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718922</ArticleId>
+        <ArticleId IdType="pii">S1047847703000418</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718923</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2005</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>RNA crystallization.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>98-107</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>RNA molecules may be crystallized using variations of the methods developed for protein crystallography. As the technology has become available to synthesize and purify RNA molecules in the quantities and with the quality that is required for crystallography, the field of RNA structure has exploded. The first consideration when crystallizing an RNA is the sequence, which may be varied in a rational way to enhance crystallizability or prevent formation of alternate structures. Once a sequence has been designed, the RNA may be synthesized chemically by solid-state synthesis or it may be produced enzymatically using RNA polymerase and an appropriate DNA template. Purification of milligram quantities of RNA can be accomplished by HPLC or gel electrophoresis. As with proteins, crystallization of RNA is usually accomplished by vapor diffusion techniques. There are several considerations that are either unique to RNA crystallization or more important for RNA crystallization. Techniques for design, synthesis, purification, and crystallization of RNAs will be reviewed here.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Golden</LastName>
+            <ForeName>Barbara L</ForeName>
+            <Initials>BL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry, Purdue University, 175 S. University Street, West Lafayette, Indiana 47907, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kundrot</LastName>
+            <ForeName>Craig E</ForeName>
+            <Initials>CE</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D002412">Cations</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>63231-63-0</RegistryNumber>
+          <NameOfSubstance UI="D012313">RNA</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002412" MajorTopicYN="N">Cations</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012313" MajorTopicYN="N">RNA</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>39</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718923</ArticleId>
+        <ArticleId IdType="pii">S104784770300042X</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718924</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2007</Year>
+        <Month>11</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Membrane protein crystallization.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>108-32</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The need for high-resolution structure information on membrane proteins is immediate and growing. Currently, the only reliable way to get it is crystallographically. The rate-limiting step from protein to structure is crystal production. An overview of the current ideas and experimental approaches prevailing in the area of membrane protein crystallization is presented. The long-established surfactant-based method has been reviewed extensively and is not examined in detail here. The focus instead is on the latest methods, all of which exploit the spontaneous self-assembling properties of lipids and detergent as vesicles (vesicle-fusion method), discoidal micelles (bicelle method), and liquid crystals or mesophases (in meso or cubic-phase method). In the belief that a knowledge of the underlying phase science is integral to understanding the molecular basis of these assorted crystallization strategies, the article begins with a brief primer on lipids, mesophases, and phase science, and the related issue of form and function as applied to lipids is addressed. The experimental challenges associated with and the solutions for procuring adequate amounts of homogeneous membrane proteins, or parts thereof, are examined. The cubic-phase method is described from the following perspectives: how it is done in practice, its general applicability and successes to date, and the nature of the mesophases integral to the process. Practical aspects of the method are examined with regard to salt, detergent, and screen solution effects; crystallization at low temperatures; tailoring the cubic phase to suit the target protein; different cubic-phase types; dealing with low-protein samples, colorless proteins, microcrystals, and radiation damage; transport within the cubic phase for drug design, cofactor retention, and phasing; using spectroscopy for quality control; harvesting crystals; and miniaturization and robotization for high-throughput screening. The section ends with a hypothesis for nucleation and growth of membrane protein crystals in meso. Thus far, the bicelle and vesicle-fusion methods have produced crystals of one membrane protein, bacteriorhodopsin. The experimental details of both methods are reviewed and their general applicability in the future is commented on. The three new methods are rationalized by analogy to crystallization in microgravity and with respect to epitaxy. A list of Web resources in the area of membrane protein crystallogenesis is included.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Caffrey</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biochemistry, Biophysics, Chemistry, The Ohio State University, 100 West 18th Avenue, Columbus, OH 43210-1106, USA. caffrey.1@osu.edu &lt;caffrey.1@osu.edu&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>GM56969</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>GM61070</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+          <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D003902">Detergents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CitationSubset>S</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+          <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003902" MajorTopicYN="N">Detergents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044367" MajorTopicYN="N">Phase Transition</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>84</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718924</ArticleId>
+        <ArticleId IdType="pii">S1047847703000431</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718925</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2007</Year>
+        <Month>11</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Protein production in Escherichia coli for structural studies by X-ray crystallography.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>133-43</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>The arrival of genomic sequences to the database has provided a seemingly unlimited supply of targets for protein structure determination and the possibility of solving the structure of an entire proteome. Based on our experience with the proteomes of Pyrobaculum aerophilum and Mycobacterium tuberculosis, we have developed a simple strategy for the production of proteins for structural studies by X-ray crystallography. Our scheme demonstrates a strong protein target commitment and includes the expression of genes from these organisms in Escherichia coli. These proteins are expressed with affinity tags and purified for characterization and crystallization. We have identified protein solubility and crystallization as the two major bottlenecks in the process toward the determination of protein structures by X-ray diffraction. Strategies to overcome these bottlenecks are discussed.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Goulding</LastName>
+            <ForeName>Celia W</ForeName>
+            <Initials>CW</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCLA-DOE Center for Genomics and Proteomics, University of California at Los Angeles, Los Angeles, CA 90095-1570, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perry</LastName>
+            <ForeName>L Jeanne</ForeName>
+            <Initials>LJ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>N01 AI-75320</GrantID>
+            <Acronym>AI</Acronym>
+            <Agency>NIAID NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+          <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014176" MajorTopicYN="N">Protein Biosynthesis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>63</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718925</ArticleId>
+        <ArticleId IdType="pii">S1047847703000443</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718926</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2006</Year>
+        <Month>11</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Membrane protein structural biology: the high throughput challenge.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>144-53</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Membrane proteins represent roughly one-third of the proteins encoded in the genome, yet fewer than 1% of the proteins are of known structure. High-throughput crystallography offers the hope of correcting this imbalance. In order for large-scale membrane protein structural biology to realize its full promise, however, significant technical challenges must be overcome, the two most substantial being facile protein overexpression and reliable methods for crystal growth.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Loll</LastName>
+            <ForeName>Patrick J</ForeName>
+            <Initials>PJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry, Drexel University College of Medicine, Mailstop 497, New College Building, 245 North 15th Street, Philadelphia, PA 19102-1101, USA. pat.loll@drexel.edu &lt;pat.loll@drexel.edu&gt;</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+          <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+          <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>127</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718926</ArticleId>
+        <ArticleId IdType="pii">S1047847703000455</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">12718927</PMID>
+      <DateCompleted>
+        <Year>2004</Year>
+        <Month>02</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2005</Year>
+        <Month>11</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Print">1047-8477</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>142</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2003</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of structural biology</Title>
+          <ISOAbbreviation>J. Struct. Biol.</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>High-throughput protein crystallization.</ArticleTitle>
+        <Pagination>
+          <MedlinePgn>154-61</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>High-throughput structural biology is a focus of a number of academic and pharmaceutical laboratories around the world. The use of X-ray crystallography in these efforts is critically dependent on high-throughput protein crystallization. The application of current protocols yields crystal leads for approximately 30% of the input proteins and well-diffracting crystals for a smaller fraction. Increasing the success rate will require a multidisciplinary approach that must invoke techniques from molecular biology, protein biochemistry, biophysics, artificial intelligence, and automation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hui</LastName>
+            <ForeName>Raymond</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Affinium Pharmaceuticals, 100 University Avenue, Ont., Toronto, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Edwards</LastName>
+            <ForeName>Aled</ForeName>
+            <Initials>A</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Struct Biol</MedlineTA>
+        <NlmUniqueID>9011206</NlmUniqueID>
+        <ISSNLinking>1047-8477</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001331" MajorTopicYN="N">Automation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D030562" MajorTopicYN="N">Databases, Protein</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <NumberOfReferences>17</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2004</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2003</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">12718927</ArticleId>
+        <ArticleId IdType="pii">S1047847703000467</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

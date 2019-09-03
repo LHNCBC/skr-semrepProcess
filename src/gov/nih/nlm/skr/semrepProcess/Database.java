@@ -50,6 +50,7 @@ public class Database {
     static final String selectTitleAbstractPMIDString = "select * from FACT_DATA where PMID = \"";
     static final String selectTitleAbstractStringForParsing = "select * from FACT_DATA where EXIST_XML = 0  limit & offset #";
     static final String selectCNoParsingResultString = "select count(*) from FACT_DATA where EXIST_XML = 0 ";
+    static final String selectSENTENCEString = "select count(*) from SENTENCE where PMID = \"";
     private static Database myInstance;
 
     static String connectionString;
@@ -60,6 +61,7 @@ public class Database {
     static String perlScript;
     static String semrepLoadingProgram;
     static String entityLoadingProgram;
+    static String normFile;
 
     public Database() {
 	try {
@@ -72,6 +74,7 @@ public class Database {
 	    semrepLoadingProgram = properties.getProperty("semrepLoadingProgram");
 	    entityLoadingProgram = properties.getProperty("semrepentityLoadingProgram");
 	    perlScript = properties.getProperty("perlScript");
+	    normFile = properties.getProperty("semrepNormFile");
 	    Class.forName("com.mysql.jdbc.Driver");
 	    factconn = DriverManager.getConnection(connectionString + "/" + factdbName + "?autoReconnect=true",
 		    dbusername, dbpassword);
@@ -93,34 +96,6 @@ public class Database {
 	    }
 	return myInstance;
     }
-
-    /*- public nu.xom.Document readDocumentFromDatabase(String PMID, StringBuilder strBuilder) {
-    // org.w3c.dom.Document doc = null;
-    Document newDocument = null;
-    Builder builder = new Builder();
-    nu.xom.Document xmlDoc = null;
-    
-    // Element docc = xmlDoc.getRootElement();
-    String curSelectString = new String(selectString + PMID + "\"");
-    try {
-        ResultSet rs = factstmt.executeQuery(curSelectString);
-        rs.next();
-        String pubmed_data = rs.getString(1);
-        String semrep_data = rs.getString(2);
-        strBuilder.append(semrep_data);
-        DocumentBuilderFactory newInstance = DocumentBuilderFactory.newInstance();
-        newInstance.setNamespaceAware(true);
-        // doc = newInstance.newDocumentBuilder().parse(new InputSource(new StringReader(pubmed_data)));
-        InputStream is = new ByteArrayInputStream(pubmed_data.getBytes());
-        xmlDoc = builder.build(is);
-        return xmlDoc;
-    
-    } catch (Exception e) {
-        e.printStackTrace();
-    }
-    
-    return xmlDoc;
-    } */
 
     public void saveXmlToDatabase(String file) {
 	try {
@@ -179,7 +154,7 @@ public class Database {
 		docSB = new StringBuffer();
 	    }
 	} catch (Exception e) {
-	    e.printStackTrace();
+	    // e.printStackTrace();
 	}
     }
 
@@ -239,30 +214,30 @@ public class Database {
 	    }
 
 	    DatabaseBatch insertDB = new DatabaseBatch();
-	    insertDB.setPath(perlScript, semrepLoadingProgram, file, semmeddbName, dbusername, dbpassword); // if
+	    insertDB.setPath(perlScript, semrepLoadingProgram, file, semmeddbName, dbusername, dbpassword, normFile); // if
 	    insertDB.start();
 	} catch (Exception e) {
-	    e.printStackTrace();
+	    // e.printStackTrace();
 	}
     }
 
     public void loadSemRepToSemMedDB(String file) {
 	try {
 	    DatabaseBatch insertDB = new DatabaseBatch();
-	    insertDB.setPath(perlScript, semrepLoadingProgram, file, semmeddbName, dbusername, dbpassword); // if
+	    insertDB.setPath(perlScript, semrepLoadingProgram, file, semmeddbName, dbusername, dbpassword, normFile); // if
 	    insertDB.start();
 	} catch (Exception e) {
-	    e.printStackTrace();
+	    // e.printStackTrace();
 	}
     }
 
     public void loadSemRepEntityToSemMedDB(String file) {
 	try {
 	    DatabaseBatch insertDB = new DatabaseBatch();
-	    insertDB.setPath(perlScript, entityLoadingProgram, file, semmeddbName, dbusername, dbpassword); // if
+	    insertDB.setPath(perlScript, entityLoadingProgram, file, semmeddbName, dbusername, dbpassword, normFile); // if
 	    insertDB.start();
 	} catch (Exception e) {
-	    e.printStackTrace();
+	    // e.printStackTrace();
 	}
     }
 
@@ -379,7 +354,7 @@ public class Database {
 	    try {
 		semmedstmt.executeUpdate(insertMetaSQL);
 	    } catch (Exception e) {
-		e.printStackTrace();
+		// e.printStackTrace();
 	    }
 
 	}
@@ -979,6 +954,27 @@ public class Database {
 	} catch (Exception e) {
 	    e.printStackTrace();
 	}
+    }
+
+    /*
+     * Check if the PMID is already in the database. If true, return true, else
+     * return false
+     */
+    public boolean checkPMIDInDB(String PMID) {
+	int count = 0;
+	try {
+	    ResultSet rs = semmedstmt.executeQuery(selectSENTENCEString + PMID + "\"");
+	    while (rs.next()) {
+		count = rs.getInt(1);
+	    }
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+
+	if (count == 0)
+	    return false;
+	else
+	    return true;
     }
 
     public static void main(String args[]) {

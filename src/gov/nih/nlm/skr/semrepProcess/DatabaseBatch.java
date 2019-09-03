@@ -11,25 +11,28 @@ public class DatabaseBatch extends Thread {
     String dbName = null;
     String dbAccount = null;
     String dbPassword = null;
+    String normFile = null;
 
     public void setPath(String perlPathArg, String perlProgramArg, String semrepFilePathArg, String dbNameArg,
-	    String dbAccountArg, String dbPasswordArg) {
+	    String dbAccountArg, String dbPasswordArg, String normFileArg) {
 	perlPath = perlPathArg;
 	perlProgramPath = perlProgramArg;
 	semrepFilePath = semrepFilePathArg;
 	dbName = dbNameArg;
 	dbAccount = dbAccountArg;
 	dbPassword = dbPasswordArg;
+	normFile = normFileArg;
     }
 
     @Override
     public void run() {
 	try {
-	    String cmd[] = { perlPath, perlProgramPath, dbName, semrepFilePath, dbAccount, dbPassword };
+	    String cmd[] = { perlPath, perlProgramPath, dbName, semrepFilePath, dbAccount, dbPassword, normFile };
 	    System.out.println("perl path = " + perlPath);
 	    System.out.println("perlProgramPath = " + perlProgramPath);
 	    System.out.println("dbname = " + dbName);
 	    System.out.println("semrepFilePath = " + semrepFilePath);
+	    System.out.println("Normization File Name = " + normFile);
 	    Runtime r = Runtime.getRuntime();
 	    // String cmd[]={"/usr/bin/perl", perl1Realpath, "semmed2006", tempSemrepRealpath};
 	    Process p = r.exec(cmd);
