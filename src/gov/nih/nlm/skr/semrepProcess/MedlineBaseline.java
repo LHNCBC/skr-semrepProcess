@@ -113,7 +113,7 @@ public class MedlineBaseline {
 	    StringBuffer sb = new StringBuffer();
 	    sb.append("PMID- " + article.getPMID() + "\n");
 	    sb.append("TI  - " + replace_UTF8.ReplaceLooklike(article.getTitle()) + "\n");
-	    if (article.getAbstract() != null) {
+	    if (article.getAbstract() != null && article.getAbstract().length() > 0) {
 		sb.append("AB  - " + replace_UTF8.ReplaceLooklike(article.getAbstract()) + "\n\n");
 	    } else
 		sb.append("\n");
@@ -137,7 +137,7 @@ public class MedlineBaseline {
 	    StringBuffer sb = new StringBuffer();
 	    sb.append("PMID- " + article.getPMID() + "\n");
 	    sb.append("TI  - " + replace_UTF8.ReplaceLooklike(article.getTitle()) + "\n");
-	    if (article.getAbstract() != null) {
+	    if (article.getAbstract() != null && article.getAbstract().length() > 0) {
 		sb.append("AB  - " + replace_UTF8.ReplaceLooklike(article.getAbstract()) + "\n\n");
 	    } else
 		sb.append("\n");
@@ -168,7 +168,7 @@ public class MedlineBaseline {
 		StringBuffer sb = new StringBuffer();
 		sb.append("PMID- " + article.getPMID() + "\n");
 		sb.append("TI  - " + replace_UTF8.ReplaceLooklike(article.getTitle()) + "\n");
-		if (article.getAbstract() != null) {
+		if (article.getAbstract() != null && article.getAbstract().length() > 0) {
 		    sb.append("AB  - " + replace_UTF8.ReplaceLooklike(article.getAbstract()) + "\n\n");
 		} else
 		    sb.append("\n");

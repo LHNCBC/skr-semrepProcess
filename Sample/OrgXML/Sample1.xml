@@ -2037,7 +2037,7 @@
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>JÃ¤rvisalo</LastName>
+            <LastName>Järvisalo</LastName>
             <ForeName>J</ForeName>
             <Initials>J</Initials>
           </Author>
@@ -3376,7 +3376,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Biochemische Untersuchungen von Kamilleninhaltsstoffen. III. In-vitro-Versuche Ã¼ber die antipeptische Wirkung des (-)-alpha-Bisabolols</VernacularTitle>
+        <VernacularTitle>Biochemische Untersuchungen von Kamilleninhaltsstoffen. III. In-vitro-Versuche über die antipeptische Wirkung des (-)-alpha-Bisabolols</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -3528,7 +3528,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Nachweis krebshemmender Eigenschaften einer stark immunstimulierenden Verbindung kleiner MolekÃ¼lmasse. Versuche am immunlabilen DS-Karzinosarkom im Vergleich mit Ifosfamid. Stimulierung der kÃ¶rpereigenen Abwehr Ã¼ber etwa 20 Tage durch BA 1, einen N-(2-Cyanthylen)-harnstoff. Neue prophylaktische MÃ¶glichkeiten</VernacularTitle>
+        <VernacularTitle>Nachweis krebshemmender Eigenschaften einer stark immunstimulierenden Verbindung kleiner Molekülmasse. Versuche am immunlabilen DS-Karzinosarkom im Vergleich mit Ifosfamid. Stimulierung der körpereigenen Abwehr über etwa 20 Tage durch BA 1, einen N-(2-Cyanthylen)-harnstoff. Neue prophylaktische Möglichkeiten</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -3865,7 +3865,7 @@
         </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>KrÃ¶ger</LastName>
+            <LastName>Kröger</LastName>
             <ForeName>H</ForeName>
             <Initials>H</Initials>
           </Author>
@@ -4285,7 +4285,7 @@
             <Initials>H</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>BrÃ¼ckner</LastName>
+            <LastName>Brückner</LastName>
             <ForeName>S</ForeName>
             <Initials>S</Initials>
           </Author>
@@ -4297,7 +4297,7 @@
           <PublicationType UI="D016428">Journal Article</PublicationType>
           <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Untersuchunger Ã¼ber die Wirkung eines Anticholinergikums in Verbindung mit einem Tranquilizer aud die Magensaftsekretion beim Menschen</VernacularTitle>
+        <VernacularTitle>Untersuchunger über die Wirkung eines Anticholinergikums in Verbindung mit einem Tranquilizer aud die Magensaftsekretion beim Menschen</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -8958,7 +8958,7 @@
             <Initials>LJ</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>GÃ¶risch</LastName>
+            <LastName>Görisch</LastName>
             <ForeName>H</ForeName>
             <Initials>H</Initials>
           </Author>
@@ -12732,7 +12732,7 @@
             <Initials>F</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>JÃ¤nchen</LastName>
+            <LastName>Jänchen</LastName>
             <ForeName>M</ForeName>
             <Initials>M</Initials>
           </Author>
@@ -12742,7 +12742,7 @@
             <Initials>J</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>PrÃ¼mke</LastName>
+            <LastName>Prümke</LastName>
             <ForeName>H J</ForeName>
             <Initials>HJ</Initials>
           </Author>
@@ -13333,12 +13333,12 @@
           <Title>Biochimica et biophysica acta</Title>
           <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
         </Journal>
-        <ArticleTitle>Mechanical precipitation of hemoglobin kÃ¶ln.</ArticleTitle>
+        <ArticleTitle>Mechanical precipitation of hemoglobin köln.</ArticleTitle>
         <Pagination>
           <MedlinePgn>197-201</MedlinePgn>
         </Pagination>
         <Abstract>
-          <AbstractText>Hb KÃ¶ln (beta 98 Val leads to Met) was found to precipitate rapidly during mechanical shaking. The rate of precipitation of Hb KÃ¶ln is 5-6 times faster than that of Hb S. The kinetics of precipitation of the patient's hemolysate, which is a mixture of Hb KÃ¶ln and Hb A, showed a biphasic curve indicating that Hb KÃ¶ln precipitates independently from Hb A. The instability of Hb KÃ¶ln may be attributed to the conformational change in the vicinity of heme. The mechanical shaking may be used as a new method for detection and quantitation of hemoglobin KÃ¶ln and other unstable hemoglobins.</AbstractText>
+          <AbstractText>Hb Köln (beta 98 Val leads to Met) was found to precipitate rapidly during mechanical shaking. The rate of precipitation of Hb Köln is 5-6 times faster than that of Hb S. The kinetics of precipitation of the patient's hemolysate, which is a mixture of Hb Köln and Hb A, showed a biphasic curve indicating that Hb Köln precipitates independently from Hb A. The instability of Hb Köln may be attributed to the conformational change in the vicinity of heme. The mechanical shaking may be used as a new method for detection and quantitation of hemoglobin Köln and other unstable hemoglobins.</AbstractText>
         </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
@@ -14691,7 +14691,7 @@
             <Initials>M</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>MuÃ±oz</LastName>
+            <LastName>Muñoz</LastName>
             <ForeName>E</ForeName>
             <Initials>E</Initials>
           </Author>
@@ -15008,7 +15008,7 @@
             <Initials>ZD</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>IzmaÄ­lova</LastName>
+            <LastName>Izmailova</LastName>
             <ForeName>V N</ForeName>
             <Initials>VN</Initials>
           </Author>
@@ -15164,7 +15164,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Sviaz' mezhdu fluorestsentsieÄ­ i krugovym dikhroizmom kompleksa fluorestsentnogo zonda 4-dimetilaminokhalkona s syvorotochnym al'buminom</VernacularTitle>
+        <VernacularTitle>Sviaz' mezhdu fluorestsentsiei i krugovym dikhroizmom kompleksa fluorestsentnogo zonda 4-dimetilaminokhalkona s syvorotochnym al'buminom</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -15295,7 +15295,7 @@
             <Initials>D</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>BarkovskiÄ­</LastName>
+            <LastName>Barkovskii</LastName>
             <ForeName>E V</ForeName>
             <Initials>EV</Initials>
           </Author>
@@ -16444,7 +16444,7 @@
         <PublicationTypeList>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Sovmestnoe deÄ­stvie gipoksii i giperkapnii na funktsional'noe sostoianie dykhatel'nogo tsentra</VernacularTitle>
+        <VernacularTitle>Sovmestnoe deistvie gipoksii i giperkapnii na funktsional'noe sostoianie dykhatel'nogo tsentra</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -16603,7 +16603,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Soderzhanie nikotinamidnykh kofermentov v pecheni i miokarde krys, otravlennykh dikhlorÃ©tanom</VernacularTitle>
+        <VernacularTitle>Soderzhanie nikotinamidnykh kofermentov v pecheni i miokarde krys, otravlennykh dikhlorétanom</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -16911,7 +16911,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Soderzhanie nikotinamidnykh kofermentov v serdechnoÄ­ myshtse krys pri deÄ­stvii metilksantinov (teofillin, teobromin, kofein) i katekholaminov</VernacularTitle>
+        <VernacularTitle>Soderzhanie nikotinamidnykh kofermentov v serdechnoi myshtse krys pri deistvii metilksantinov (teofillin, teobromin, kofein) i katekholaminov</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -17558,7 +17558,7 @@
           <PublicationType UI="D016428">Journal Article</PublicationType>
           <PublicationType UI="D016454">Review</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>AffinitÃ© de l'hÃ©moglobine pour l'oxygÃ¨ne</VernacularTitle>
+        <VernacularTitle>Affinité de l'hémoglobine pour l'oxygène</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>France</Country>
@@ -23295,12 +23295,12 @@
             <Initials>Z</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>HeyrovskÃ½</LastName>
+            <LastName>Heyrovský</LastName>
             <ForeName>A</ForeName>
             <Initials>A</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>HorÃ¡kovÃ¡</LastName>
+            <LastName>Horáková</LastName>
             <ForeName>D</ForeName>
             <Initials>D</Initials>
           </Author>
@@ -23315,7 +23315,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Vliv betablokÃ¡torÅ¯ na experimentÃ¡lnÃ­ aterosklerÃ³zu kohoutÅ¯</VernacularTitle>
+        <VernacularTitle>Vliv betablokátoru na experimentální aterosklerózu kohoutu</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Czech Republic</Country>
@@ -24268,7 +24268,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>MortalitÃ© spontanÃ©e et lesions vasculaires dans 3 souches de rats sÃ©lectionnÃ©s par leur niveau tensionnel</VernacularTitle>
+        <VernacularTitle>Mortalité spontanée et lesions vasculaires dans 3 souches de rats sélectionnés par leur niveau tensionnel</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>France</Country>
@@ -27480,7 +27480,7 @@
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>FÃ¤nge</LastName>
+            <LastName>Fänge</LastName>
             <ForeName>R</ForeName>
             <Initials>R</Initials>
           </Author>
@@ -32813,7 +32813,7 @@
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>StepiÅ„ski</LastName>
+            <LastName>Stepinski</LastName>
             <ForeName>J</ForeName>
             <Initials>J</Initials>
           </Author>
@@ -33456,7 +33456,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Obserwacja zebÃ³w staÅ‚ych sasiadujacych z zebami uszkodzonymi wskutek urazÃ³w</VernacularTitle>
+        <VernacularTitle>Obserwacja zebów stalych sasiadujacych z zebami uszkodzonymi wskutek urazów</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Poland</Country>
@@ -34382,7 +34382,7 @@
         <PublicationTypeList>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Mikrookruzhenie fermentov kak odin iz faktorov, opredeliaiushchikh stabil'nost' fermentov. Stabilizatsiia restvorimoÄ­ i immobilizovannoÄ­ peroksidazy iz khrena</VernacularTitle>
+        <VernacularTitle>Mikrookruzhenie fermentov kak odin iz faktorov, opredeliaiushchikh stabil'nost' fermentov. Stabilizatsiia restvorimoi i immobilizovannoi peroksidazy iz khrena</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -34492,13 +34492,13 @@
           <Title>Deutsche Krankenpflegezeitschrift</Title>
           <ISOAbbreviation>Dtsch Krankenpflegez</ISOAbbreviation>
         </Journal>
-        <ArticleTitle>[3d regional meeting of the specialty field of supervisory nurses in Baden-WÃ¼rttemberg, Northern Group. June 25, 1975 in district hospital Heidenheim].</ArticleTitle>
+        <ArticleTitle>[3d regional meeting of the specialty field of supervisory nurses in Baden-Württemberg, Northern Group. June 25, 1975 in district hospital Heidenheim].</ArticleTitle>
         <Pagination>
           <MedlinePgn>486-7</MedlinePgn>
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>StÃ¤ngle</LastName>
+            <LastName>Stängle</LastName>
             <ForeName>H</ForeName>
             <Initials>H</Initials>
           </Author>
@@ -34507,7 +34507,7 @@
         <PublicationTypeList>
           <PublicationType UI="D016423">Congress</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>3. Regionaltagung des Arbeitskreises Leitender Krankenschwestern und -pfleger in Baden-WÃ¼rttemberg, Gruppe Nord. Am 25. Juni 1975 im Kreiskrankenhaus Heidenheim</VernacularTitle>
+        <VernacularTitle>3. Regionaltagung des Arbeitskreises Leitender Krankenschwestern und -pfleger in Baden-Württemberg, Gruppe Nord. Am 25. Juni 1975 im Kreiskrankenhaus Heidenheim</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -35382,7 +35382,7 @@
         </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>SchÃ¶llhammer</LastName>
+            <LastName>Schöllhammer</LastName>
             <ForeName>I</ForeName>
             <Initials>I</Initials>
           </Author>
@@ -36577,7 +36577,7 @@
             <Initials>JE</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>ForsÃ©n</LastName>
+            <LastName>Forsén</LastName>
             <ForeName>S</ForeName>
             <Initials>S</Initials>
           </Author>
@@ -39106,7 +39106,7 @@
         <PublicationTypeList>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Elementy not v rabote fel'dshera skoroÄ­ pomoshchi</VernacularTitle>
+        <VernacularTitle>Elementy not v rabote fel'dshera skoroi pomoshchi</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -39201,7 +39201,7 @@
           <PublicationType UI="D016456">Historical Article</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Uchastie fel'dsherov i akusherok nikolaevskoÄ­ oblasti v podpol'nom i partizanskom dvizhenii v gody velikoÄ­ otechestvennoÄ­ voÄ­ny</VernacularTitle>
+        <VernacularTitle>Uchastie fel'dsherov i akusherok nikolaevskoi oblasti v podpol'nom i partizanskom dvizhenii v gody velikoi otechestvennoi voiny</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -39301,7 +39301,7 @@
         <PublicationTypeList>
           <PublicationType UI="D016423">Congress</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Organizatsiia sanitarno-prosvetitel'nykh vecherov, ustnykh zhurnalov, karnavalov, chitatel'skikh konferentsiÄ­</VernacularTitle>
+        <VernacularTitle>Organizatsiia sanitarno-prosvetitel'nykh vecherov, ustnykh zhurnalov, karnavalov, chitatel'skikh konferentsii</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -39488,7 +39488,7 @@
             <Initials>VI</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>PevnyÄ­</LastName>
+            <LastName>Pevnyi</LastName>
             <ForeName>S A</ForeName>
             <Initials>SA</Initials>
           </Author>
@@ -39498,7 +39498,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>O mekhanizmakh termogennogo deÄ­stviia noradrenaline pri adaptatsii k kholodu</VernacularTitle>
+        <VernacularTitle>O mekhanizmakh termogennogo deistviia noradrenaline pri adaptatsii k kholodu</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -41757,7 +41757,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Ocena bronchospasmolitycznego i pozaoskrzelowego dziaÅ‚ania brondilatu u chorych na astme oskrzelowa lub przewlekÅ‚e astmatyczne zapalenie oskrzeli</VernacularTitle>
+        <VernacularTitle>Ocena bronchospasmolitycznego i pozaoskrzelowego dzialania brondilatu u chorych na astme oskrzelowa lub przewlekle astmatyczne zapalenie oskrzeli</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Poland</Country>
@@ -42193,7 +42193,7 @@
             <Initials>KA</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>LÃ¶wenberg</LastName>
+            <LastName>Löwenberg</LastName>
             <ForeName>B</ForeName>
             <Initials>B</Initials>
           </Author>
