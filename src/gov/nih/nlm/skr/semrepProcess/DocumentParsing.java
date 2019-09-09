@@ -175,13 +175,15 @@ public class DocumentParsing {
 		    String semFileName = new String(semDir + File.separator + fileName + ".txt");
 		    convert2ASCII(inFileName, ASCIIXMLFileName);
 		    mb.convertXML2Medline(ASCIIXMLFileName, medlineFileName, db);
-		    System.out.println("Processing " + inFileName);
-		    File XMLFile = new File(ASCIIXMLFileName);
-		    List<PubmedArticle> articles = mb.extractCitationInfo(XMLFile);
-		    db.insertMetaData2DB(articles);
-		    db.insertTitleAbstract(articles);
-		    semrepping2DB(medlineFileName, semFileName);
-
+		    File mf = new File(medlineFileName);
+		    if (mf.exists()) { // do the following only if MEDLINE file exists
+			System.out.println("Processing " + inFileName);
+			File XMLFile = new File(ASCIIXMLFileName);
+			List<PubmedArticle> articles = mb.extractCitationInfo(XMLFile);
+			db.insertMetaData2DB(articles);
+			db.insertTitleAbstract(articles);
+			semrepping2DB(medlineFileName, semFileName);
+		    }
 		}
 	    }
 
@@ -311,11 +313,14 @@ public class DocumentParsing {
     static public void semrepping2DB(String medlinefileName, String semrepfileName) {
 	try {
 	    // MedlineBaseline mb = MedlineBaseline.getInstance();
-	    String schedulerAcc = properties.getProperty("schedulerAccount");
-	    String schedulerPassword = properties.getProperty("schedulerPassword");
-	    String email = properties.getProperty("schedulerEmail");
-	    sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", schedulerAcc, schedulerPassword, email);
-	    db.saveSemRepToDatabase(semrepfileName);
+	    File iFile = new File(medlinefileName);
+	    if (iFile.length() > 0) {
+		String schedulerAcc = properties.getProperty("schedulerAccount");
+		String schedulerPassword = properties.getProperty("schedulerPassword");
+		String email = properties.getProperty("schedulerEmail");
+		sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", schedulerAcc, schedulerPassword, email);
+		db.saveSemRepToDatabase(semrepfileName);
+	    }
 
 	} catch (Exception e) {
 	    e.printStackTrace();

@@ -49,7 +49,6 @@ package gov.nih.nlm.skr.semrepProcess;
 **/
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -78,33 +77,30 @@ public class SchedulerBatchProcessing {
 
     public void submitTask(String inputfile, String outputfile, String semrepCom, String username, String password,
 	    String email) throws RuntimeException, IOException {
+
+	// SemRepObject mySemRepObj = new SemRepObject(username, password);
+	//  mySemRepObj.setField("Email_Address", email); 
+	// mySemRepObj.setField("UpLoad_File", inputfile);
+
+	// NOTE: You MUST specify an email address because it is used for
+	//       logging purposes.
 	System.out.println("Username : " + username);
 	System.out.println("Password : " + password);
 	System.out.println("email : " + email);
 	System.out.println("Upload file : " + inputfile);
-	File iFile = new File(inputfile);
-	if (iFile.length() > 0) {
-	    // SemRepObject mySemRepObj = new SemRepObject(username, password);
-	    //  mySemRepObj.setField("Email_Address", email); 
-	    // mySemRepObj.setField("UpLoad_File", inputfile);
+	GenericObject myGenericObj = new GenericObject(username, password);
+	// myGenericObj.setField("Username", username);
+	// myGenericObj.setField("Password", password);
+	myGenericObj.setField("Email_Address", email);
+	myGenericObj.setFileField("UpLoad_File", inputfile);
+	myGenericObj.setField("Batch_Command", semrepCom);
+	myGenericObj.setField("BatchNotes", "Semrep");
+	// myGenericObj.setField("SilentEmail", true);
 
-	    // NOTE: You MUST specify an email address because it is used for
-	    //       logging purposes.
-	    GenericObject myGenericObj = new GenericObject(username, password);
-	    // myGenericObj.setField("Username", username);
-	    // myGenericObj.setField("Password", password);
-	    myGenericObj.setField("Email_Address", email);
-	    myGenericObj.setFileField("UpLoad_File", inputfile);
-	    myGenericObj.setField("Batch_Command", semrepCom);
-	    myGenericObj.setField("BatchNotes", "Semrep");
-	    // myGenericObj.setField("SilentEmail", true);
-
-	    PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(outputfile)));
-	    String results = myGenericObj.handleSubmission();
-	    out.write(results);
-	    out.close();
-	} else
-	    System.out.println("Input file size is zero, so skip semrepping...");
+	PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(outputfile)));
+	String results = myGenericObj.handleSubmission();
+	out.write(results);
+	out.close();
     } // main
 
 } // class SemRepBatch

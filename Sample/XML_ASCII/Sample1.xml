@@ -2037,7 +2037,7 @@
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>Jarvisalo</LastName>
+            <LastName>J?rvisalo</LastName>
             <ForeName>J</ForeName>
             <Initials>J</Initials>
           </Author>
@@ -3376,7 +3376,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Biochemische Untersuchungen von Kamilleninhaltsstoffen. III. In-vitro-Versuche uber die antipeptische Wirkung des (-)-alpha-Bisabolols</VernacularTitle>
+        <VernacularTitle>Biochemische Untersuchungen von Kamilleninhaltsstoffen. III. In-vitro-Versuche ?ber die antipeptische Wirkung des (-)-alpha-Bisabolols</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -3528,7 +3528,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Nachweis krebshemmender Eigenschaften einer stark immunstimulierenden Verbindung kleiner Molekulmasse. Versuche am immunlabilen DS-Karzinosarkom im Vergleich mit Ifosfamid. Stimulierung der korpereigenen Abwehr uber etwa 20 Tage durch BA 1, einen N-(2-Cyanthylen)-harnstoff. Neue prophylaktische Moglichkeiten</VernacularTitle>
+        <VernacularTitle>Nachweis krebshemmender Eigenschaften einer stark immunstimulierenden Verbindung kleiner Molek?lmasse. Versuche am immunlabilen DS-Karzinosarkom im Vergleich mit Ifosfamid. Stimulierung der k?rpereigenen Abwehr ?ber etwa 20 Tage durch BA 1, einen N-(2-Cyanthylen)-harnstoff. Neue prophylaktische M?glichkeiten</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -3865,7 +3865,7 @@
         </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>Kroger</LastName>
+            <LastName>Kr?ger</LastName>
             <ForeName>H</ForeName>
             <Initials>H</Initials>
           </Author>
@@ -4285,7 +4285,7 @@
             <Initials>H</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Bruckner</LastName>
+            <LastName>Br?ckner</LastName>
             <ForeName>S</ForeName>
             <Initials>S</Initials>
           </Author>
@@ -4297,7 +4297,7 @@
           <PublicationType UI="D016428">Journal Article</PublicationType>
           <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Untersuchunger uber die Wirkung eines Anticholinergikums in Verbindung mit einem Tranquilizer aud die Magensaftsekretion beim Menschen</VernacularTitle>
+        <VernacularTitle>Untersuchunger ?ber die Wirkung eines Anticholinergikums in Verbindung mit einem Tranquilizer aud die Magensaftsekretion beim Menschen</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -8958,7 +8958,7 @@
             <Initials>LJ</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Gorisch</LastName>
+            <LastName>G?risch</LastName>
             <ForeName>H</ForeName>
             <Initials>H</Initials>
           </Author>
@@ -12732,7 +12732,7 @@
             <Initials>F</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Janchen</LastName>
+            <LastName>J?nchen</LastName>
             <ForeName>M</ForeName>
             <Initials>M</Initials>
           </Author>
@@ -12742,7 +12742,7 @@
             <Initials>J</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Prumke</LastName>
+            <LastName>Pr?mke</LastName>
             <ForeName>H J</ForeName>
             <Initials>HJ</Initials>
           </Author>
@@ -13333,12 +13333,12 @@
           <Title>Biochimica et biophysica acta</Title>
           <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
         </Journal>
-        <ArticleTitle>Mechanical precipitation of hemoglobin koln.</ArticleTitle>
+        <ArticleTitle>Mechanical precipitation of hemoglobin k?ln.</ArticleTitle>
         <Pagination>
           <MedlinePgn>197-201</MedlinePgn>
         </Pagination>
         <Abstract>
-          <AbstractText>Hb Koln (beta 98 Val leads to Met) was found to precipitate rapidly during mechanical shaking. The rate of precipitation of Hb Koln is 5-6 times faster than that of Hb S. The kinetics of precipitation of the patient's hemolysate, which is a mixture of Hb Koln and Hb A, showed a biphasic curve indicating that Hb Koln precipitates independently from Hb A. The instability of Hb Koln may be attributed to the conformational change in the vicinity of heme. The mechanical shaking may be used as a new method for detection and quantitation of hemoglobin Koln and other unstable hemoglobins.</AbstractText>
+          <AbstractText>Hb K?ln (beta 98 Val leads to Met) was found to precipitate rapidly during mechanical shaking. The rate of precipitation of Hb K?ln is 5-6 times faster than that of Hb S. The kinetics of precipitation of the patient's hemolysate, which is a mixture of Hb K?ln and Hb A, showed a biphasic curve indicating that Hb K?ln precipitates independently from Hb A. The instability of Hb K?ln may be attributed to the conformational change in the vicinity of heme. The mechanical shaking may be used as a new method for detection and quantitation of hemoglobin K?ln and other unstable hemoglobins.</AbstractText>
         </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
@@ -14691,7 +14691,7 @@
             <Initials>M</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Munoz</LastName>
+            <LastName>Mu?oz</LastName>
             <ForeName>E</ForeName>
             <Initials>E</Initials>
           </Author>
@@ -16603,7 +16603,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Soderzhanie nikotinamidnykh kofermentov v pecheni i miokarde krys, otravlennykh dikhloretanom</VernacularTitle>
+        <VernacularTitle>Soderzhanie nikotinamidnykh kofermentov v pecheni i miokarde krys, otravlennykh dikhlor?tanom</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Russia (Federation)</Country>
@@ -17558,7 +17558,7 @@
           <PublicationType UI="D016428">Journal Article</PublicationType>
           <PublicationType UI="D016454">Review</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Affinite de l'hemoglobine pour l'oxygene</VernacularTitle>
+        <VernacularTitle>Affinit? de l'h?moglobine pour l'oxyg?ne</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>France</Country>
@@ -23295,12 +23295,12 @@
             <Initials>Z</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Heyrovsky</LastName>
+            <LastName>Heyrovsk?</LastName>
             <ForeName>A</ForeName>
             <Initials>A</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Horakova</LastName>
+            <LastName>Hor?kov?</LastName>
             <ForeName>D</ForeName>
             <Initials>D</Initials>
           </Author>
@@ -23315,7 +23315,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Vliv betablokatoru na experimentalni aterosklerozu kohoutu</VernacularTitle>
+        <VernacularTitle>Vliv betablok?toru na experiment?ln? ateroskler?zu kohoutu</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Czech Republic</Country>
@@ -24268,7 +24268,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Mortalite spontanee et lesions vasculaires dans 3 souches de rats selectionnes par leur niveau tensionnel</VernacularTitle>
+        <VernacularTitle>Mortalit? spontan?e et lesions vasculaires dans 3 souches de rats s?lectionn?s par leur niveau tensionnel</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>France</Country>
@@ -27480,7 +27480,7 @@
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>Fange</LastName>
+            <LastName>F?nge</LastName>
             <ForeName>R</ForeName>
             <Initials>R</Initials>
           </Author>
@@ -33456,7 +33456,7 @@
           <PublicationType UI="D004740">English Abstract</PublicationType>
           <PublicationType UI="D016428">Journal Article</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>Obserwacja zebow stalych sasiadujacych z zebami uszkodzonymi wskutek urazow</VernacularTitle>
+        <VernacularTitle>Obserwacja zeb?w stalych sasiadujacych z zebami uszkodzonymi wskutek uraz?w</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Poland</Country>
@@ -34492,13 +34492,13 @@
           <Title>Deutsche Krankenpflegezeitschrift</Title>
           <ISOAbbreviation>Dtsch Krankenpflegez</ISOAbbreviation>
         </Journal>
-        <ArticleTitle>[3d regional meeting of the specialty field of supervisory nurses in Baden-Wurttemberg, Northern Group. June 25, 1975 in district hospital Heidenheim].</ArticleTitle>
+        <ArticleTitle>[3d regional meeting of the specialty field of supervisory nurses in Baden-W?rttemberg, Northern Group. June 25, 1975 in district hospital Heidenheim].</ArticleTitle>
         <Pagination>
           <MedlinePgn>486-7</MedlinePgn>
         </Pagination>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>Stangle</LastName>
+            <LastName>St?ngle</LastName>
             <ForeName>H</ForeName>
             <Initials>H</Initials>
           </Author>
@@ -34507,7 +34507,7 @@
         <PublicationTypeList>
           <PublicationType UI="D016423">Congress</PublicationType>
         </PublicationTypeList>
-        <VernacularTitle>3. Regionaltagung des Arbeitskreises Leitender Krankenschwestern und -pfleger in Baden-Wurttemberg, Gruppe Nord. Am 25. Juni 1975 im Kreiskrankenhaus Heidenheim</VernacularTitle>
+        <VernacularTitle>3. Regionaltagung des Arbeitskreises Leitender Krankenschwestern und -pfleger in Baden-W?rttemberg, Gruppe Nord. Am 25. Juni 1975 im Kreiskrankenhaus Heidenheim</VernacularTitle>
       </Article>
       <MedlineJournalInfo>
         <Country>Germany</Country>
@@ -35382,7 +35382,7 @@
         </Abstract>
         <AuthorList CompleteYN="Y">
           <Author ValidYN="Y">
-            <LastName>Schollhammer</LastName>
+            <LastName>Sch?llhammer</LastName>
             <ForeName>I</ForeName>
             <Initials>I</Initials>
           </Author>
@@ -36577,7 +36577,7 @@
             <Initials>JE</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Forsen</LastName>
+            <LastName>Fors?n</LastName>
             <ForeName>S</ForeName>
             <Initials>S</Initials>
           </Author>
@@ -42193,7 +42193,7 @@
             <Initials>KA</Initials>
           </Author>
           <Author ValidYN="Y">
-            <LastName>Lowenberg</LastName>
+            <LastName>L?wenberg</LastName>
             <ForeName>B</ForeName>
             <Initials>B</Initials>
           </Author>

@@ -11,16 +11,16 @@ termAnnotators=gov.nih.nlm.ling.process.IndicatorAnnotator
 ignorePOSforIndicators=true
 
 SemRepSemanticTypeFile=resources/semTypeFullName.txt
-connectionString=jdbc:mysql://indsrv2.nlm.nih.gov
-predatabase=PREPROCESS_SHIN
-semmeddatabase=semmeddb_SHIN
-dbusername=semmeduser
-dbpassword=semantics@Graph
+connectionString=MySQL connection string
+predatabase=PREPROCESS db name
+semmeddatabase=semmed db name
+dbusername=db user account
+dbpassword=db password
+semrepLoadingProgram=resources/semrepping_40WithSH.pl
 semrepLoadingProgram=resources/semreppingEntity_40WithSH_Novelty.pl
-semrepentityLoadingProgram=resources/semrepping_entity_40.pl
-semrepNormFile=resources/SectionHeaderNormalization.txt
 perlScript=/usr/bin/perl
-schedulerAccount=semreprun
-schedulerPassword=Wooyong1!
-schedulerEmail=shindongwoo@nih.gov
+schedulerAccount=UMLS account
+schedulerPassword=UMLS password
+schedulerEmail=your email address
+
 
