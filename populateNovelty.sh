@@ -1,1 +1,0 @@
-java -Xmx32g -classpath ./lib/semrepProcess.jar:./lib/mysql-connector-java-5.1.18-bin.jar:./lib/skrAPI.jar:./lib/commons-lang-2.1.jar:./lib/commons-logging-1.1.1.jar:./lib/httpclient-4.1.1.jar:./lib/httpclient-cache-4.1.1.jar:./lib/httpcore-4.1.jar:./lib/httpcore-nio-4.1.jar:./lib/httpmime-4.1.1.jar gov.nih.nlm.skr.semrepProcess.PopulateNoveltyToPredication 0 1000000
