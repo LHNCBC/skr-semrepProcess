@@ -230,7 +230,7 @@ public class DocumentParsing {
 			File XMLFile = new File(ASCIIXMLFileName);
 			List<PubmedArticle> articles = mb.extractCitationInfo(XMLFile);
 			db.insertMetaData2DB(articles);
-			db.insertTitleAbstract(articles);
+			// db.insertTitleAbstract(articles);
 			semrepping2DB(medlineFileName, semFileName);
 		    } catch (Exception e) {
 			e.printStackTrace();
