@@ -89,7 +89,7 @@ while (<F>) {
 	} else {
 		$norm_section_header = "";
 	}
-        print "$section_header -> $norm_section_header\n";
+        # print "$section_header -> $norm_section_header\n";
 	$insert_sentence_sth->execute($pmid,$senttype,$number,$sent_start_index,$sent_end_index,$section_header,$norm_section_header, $sentence,$sentence) 
       }
       # Version 3.0 handles the entities as well as predication      
