@@ -67,8 +67,6 @@ public class DocumentParsing {
 	    mb.convertXML2Text(ASCIIFileName, normfileName, db);
 	    mb.convertXML2Medline(ASCIIFileName, medlinefileName);
 	    sbp.submitTask(normfileName, parsedfileName, "sf_parser", schedulerAcc, schedulerPassword, email);
-	    // sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", "dongwookshin", "Wooyong1!",
-	    //    "shindongwoo@nih.gov");
 	    db.saveXmlToDatabase(parsedfileName);
 	    //  db.saveSemRepToDatabase(semrepfileName);
 	    // LoadingSemRep2DB insertDB = new LoadingSemRep2DB();
@@ -267,9 +265,6 @@ public class DocumentParsing {
 
     static public void norm2DB(String normfileName, String parsedfileName) {
 	try {
-	    // MedlineBaseline mb = MedlineBaseline.getInstance();
-	    /*- sbp.submitTask(normfileName, parsedfileName, "sf_parser", "dongwookshin", "Wooyong1!",
-	        "shindongwoo@nih.gov"); */
 	    db.saveXmlToDatabase(parsedfileName);
 	    // insertDB.setPath("/usr/bin/perl", loadingProgram, semrepfileName, dbName, dbUserName, dbPassword); // if
 	    // insertDB.start();
@@ -295,20 +290,6 @@ public class DocumentParsing {
 	}
 
     }
-
-    /*- static public void insertSemRep2DB(String infileName, String medlinefileName, String semrepfileName) {
-    try {
-        // MedlineBaseline mb = MedlineBaseline.getInstance();
-        mb.convertXML2Medline(infileName, medlinefileName);
-        sbp.submitTask(medlinefileName, semrepfileName, "semrep -F", "dongwookshin", "Wooyong1!",
-    	    "shindongwoo@nih.gov");
-        // db.saveSemRepToDatabase(semrepfileName);
-    
-    } catch (Exception e) {
-        e.printStackTrace();
-    }
-    
-    } */
 
     static public void semrepping2DB(String medlinefileName, String semrepfileName) {
 	try {

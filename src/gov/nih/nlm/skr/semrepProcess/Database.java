@@ -451,8 +451,9 @@ public class Database {
 		offset = offset + limit;
 		String schedulerAcc = dp.properties.getProperty("schedulerAccount");
 		String schedulerPassword = dp.properties.getProperty("schedulerPassword");
+		String schedulerEmail = dp.properties.getProperty("schedulerEmail");
 		dp.sbp.submitTask(medlineFileName, semrepFileName, "semrep -F", schedulerAcc, schedulerPassword,
-			"shindongwoo@nih.gov");
+			schedulerEmail);
 		saveSemRepToDatabase(semrepFileName);
 	    }
 	} catch (Exception e) {
@@ -585,8 +586,9 @@ public class Database {
 		offset = offset + limit;
 		String schedulerAcc = dp.properties.getProperty("schedulerAccount");
 		String schedulerPassword = dp.properties.getProperty("schedulerPassword");
+		String schedulerEmail = dp.properties.getProperty("schedulerEmail");
 		dp.sbp.submitTask(medlineFileName, xmlFileName, "sf_parser", schedulerAcc, schedulerPassword,
-			"shindongwoo@nih.gov");
+			schedulerEmail);
 		saveXmlToDatabase(xmlFileName);
 	    }
 	} catch (Exception e) {

@@ -11,6 +11,7 @@ import java.sql.DriverManager;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
@@ -19,7 +20,7 @@ import javax.xml.parsers.SAXParserFactory;
 import org.xml.sax.SAXException;
 
 /**
- * @author rodriguezal
+ * @author Dongwook Shin
  *
  */
 public class MedlineSource {
@@ -27,6 +28,8 @@ public class MedlineSource {
     private static final int MAX_RETURN = 1000000;
 
     private static MedlineSource myInstance;
+    static Properties properties;
+    static String email;
 
     private MedlineSource() {
     }
@@ -34,8 +37,15 @@ public class MedlineSource {
     public static MedlineSource getInstance() {
 	if (myInstance == null)
 	    synchronized (MedlineSource.class) {
-		if (myInstance == null)
-		    myInstance = new MedlineSource();
+		if (myInstance == null) {
+		    try {
+			myInstance = new MedlineSource();
+			properties = FileUtils.loadPropertiesFromFile("semrep.properties");
+			email = properties.getProperty("schedulerEmail");
+		    } catch (Exception e) {
+			e.printStackTrace();
+		    }
+		}
 	    }
 	return myInstance;
     }
@@ -56,7 +66,7 @@ public class MedlineSource {
 	URLConnection conn = url.openConnection();
 	conn.setDoOutput(true);
 	OutputStreamWriter wr = new OutputStreamWriter(conn.getOutputStream());
-	wr.write("db=pubmed&tool=semmed&email=shindongwoo@mail.nlm.nih.gov&retmode=xml&retmax=20000&" + sb.toString());
+	wr.write("db=pubmed&tool=semmed&email=" + email + "&retmode=xml&retmax=20000&" + sb.toString());
 	wr.flush();
 	saxParser.parse(conn.getInputStream(), handler);
 
@@ -77,7 +87,7 @@ public class MedlineSource {
 	URLConnection conn = url.openConnection();
 	conn.setDoOutput(true);
 	OutputStreamWriter wr = new OutputStreamWriter(conn.getOutputStream());
-	wr.write("db=pubmed&tool=semmed&email=shindongwoo@mail.nlm.nih.gov&retmode=xml&retmax=20000&" + sb.toString());
+	wr.write("db=pubmed&tool=semmed&email=" + email + "&retmode=xml&retmax=20000&" + sb.toString());
 	wr.flush();
 	saxParser.parse(conn.getInputStream(), handler);
 
